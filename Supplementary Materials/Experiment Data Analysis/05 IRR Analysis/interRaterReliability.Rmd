@@ -1,0 +1,184 @@
+---
+title: "interRaterReliability"
+author: "Elsie Lee and Caitlyn McColeman"
+date: "1/4/2020"
+output:
+  html_document:
+    code_folding: hide
+    fig_height: 6
+    fig_width: 8
+    highlight: pygments
+    theme: cosmo
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
+  word_document:
+    toc: yes
+always_allow_html: yes
+---
+
+```{r setup, include=FALSE}
+#  Author: Caitlyn McColeman & Elsie Lee
+#  Date Created: March 19 2019
+#  Last Edit: March 29 2019
+#
+#  Visual Thinking Lab, Northwestern University
+#  Originally Created For: Perception Model & Declutter 
+#
+#  Reviewed: []
+#  Verified: []
+#
+#  INPUT: Multiple .csvs - one from each coder for redrawn graphs, conclusions, and ratings.
+#
+#  OUTPUT: html with kappa values
+#
+#  Additional Comments: 
+#
+#  Additional Scripts Used: dplyr, irr, tidyr
+
+require('dplyr')
+require('irr')
+library(tidyr)
+
+```
+
+## Interrater reliability for Declutter project
+
+Coders are KA, EL, and EA. Each section had 2 coders.
+
+### Redrawn Graphs:
+
+```{r}
+
+#########################################################################################
+## REDRAWN GRAPHS
+
+#Adding KA's data
+KA_data_wide <- read.csv('IRR_declutter_redraw_KA.csv')
+# this line takes out blank rows in csv if there are any
+KA_data_wide <- KA_data_wide[!apply(KA_data_wide == "", 1, all),]
+KA_data_long <- pivot_longer(KA_data_wide, s1:s34, names_to = "subject", values_to = "coding")
+KA_data_long$coder = "KA"
+
+# Adding EA's data
+EA_data_wide <- read.csv('IRR_declutter_redraw_EA.csv')
+# this line takes out blank rows in csv if there are any
+EA_data_wide <- EA_data_wide[!apply(EA_data_wide == "", 1, all),]
+#EA_data_long <- gather(EA_data_wide, key = "subject", value= "coding", s1:s34)
+# gather was retired?
+EA_data_long <- pivot_longer(EA_data_wide, s1:s34, names_to = "subject", values_to = "coding")
+EA_data_long$coder = "EA"
+
+#Now to combine both of these
+redraw_data_long = rbind(KA_data_long, EA_data_long)
+
+#identify coder names
+coderNames = unique(redraw_data_long$coder)
+
+# overall agreemeent with Cohen's Kappa
+# 4 is hard coded as the column with the coding
+# my apologies for the hard coding
+results = kappa2(cbind(KA_data_long[4], EA_data_long[4]))
+results
+
+# agreement by graph example
+# for (i in unique(redraw_data_long$Graph)) {
+#   print(i)
+#   results = kappa2(cbind(redraw_data_long[redraw_data_long$coder == coderNames[1] & redraw_data_long$Graph == i ,4], redraw_data_long[redraw_data_long$coder == coderNames[2] & redraw_data_long$Graph == i,4]))
+#   if(results[5]<1){
+#     print(results)
+#   }
+# }
+```
+
+
+### Subject Matter and Conclusions:
+
+```{r}
+
+
+#########################################################################################
+## SUBJECT MATTER AND CONCLUSIONS
+
+#Adding KA's data
+KA_data_wide <- read.csv('IRR_declutter_conclusions_KA.csv')
+#KA_data_long <- gather(KA_data_wide, key = "subject", value= "coding", s1:s34)
+KA_data_long <- pivot_longer(KA_data_wide, s1:s34, names_to = "subject", values_to = "coding")
+KA_data_long$coder = "KA"
+
+# Adding EA's data
+EA_data_wide <- read.csv('IRR_declutter_conclusions_EA.csv')
+#EA_data_long <- gather(EA_data_wide, key = "subject", value= "coding", s1:s34)
+EA_data_long <- pivot_longer(EA_data_wide, s1:s34, names_to = "subject", values_to = "coding")
+EA_data_long$coder = "EA"
+
+#Now to combine both of these
+conclusions_data_long = rbind(KA_data_long, EA_data_long)
+
+#identify coder names
+coderNames = unique(conclusions_data_long$coder)
+
+# overall agreemeent with Cohen's Kappa
+# 6 is hard coded as the column with the coding
+results = kappa2(cbind(KA_data_long[6], EA_data_long[6]))
+results
+
+# agreement by graph example
+# for (i in unique(conclusions_data_long$Graph)) {
+#   print(i)
+#   results = kappa2(cbind(conclusions_data_long[conclusions_data_long$coder == coderNames[1] & conclusions_data_long$Graph == i ,6], conclusions_data_long[conclusions_data_long$coder == coderNames[2] & conclusions_data_long$Graph == i,6]))
+#   if(results[5]<1){
+#     print(results)
+#   }
+# }
+```
+
+
+### Ratings:
+
+```{r}
+
+#########################################################################################
+## RATINGS
+
+#Adding EL's data
+EL_data_wide <- read.csv('IRR_declutter_rating_EL.csv')
+# this line takes out blank rows in csv if there are any
+EL_data_wide <- EL_data_wide[!apply(EL_data_wide == "", 1, all),]
+#EL_data_long <- gather(EL_data_wide, key = "style", value= "coding", Cluttered:Focused)
+EL_data_long <- pivot_longer(EL_data_wide, Cluttered:Focused, names_to = "style", values_to = "coding")
+
+EL_data_long$coder = "EL"
+
+# Adding EA's data
+EA_data_wide <- read.csv('IRR_declutter_rating_EA.csv')
+# this line takes out blank rows in csv if there are any
+EA_data_wide <- EA_data_wide[!apply(EA_data_wide == "", 1, all),]
+#EA_data_long <- gather(EA_data_wide, key = "style", value= "coding", Cluttered:Focused)
+EA_data_long <- pivot_longer(EA_data_wide, Cluttered:Focused, names_to = "style", values_to = "coding")
+EA_data_long$coder = "EA"
+
+#Now to combine both of these
+rating_data_long = rbind(EL_data_long, EA_data_long)
+
+#identify coder names
+coderNames = unique(rating_data_long$coder)
+
+# overall agreemeent with Cohen's Kappa
+# 7 is hard coded as the column with the coding
+results = kappa2(cbind(EL_data_long[7], EA_data_long[7]))
+results
+
+# agreement by graph example
+# for (i in unique(rating_data_long$Topic)) {
+#   print(i)
+#   results = kappa2(cbind(rating_data_long[rating_data_long$coder == coderNames[1] & rating_data_long$Topic == i ,7], rating_data_long[rating_data_long$coder == coderNames[2] & rating_data_long$Topic == i,7]))
+#   if(results[5]<1){
+#     print(results)
+#   }
+# }
+
+
+```
+

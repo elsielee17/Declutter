@@ -1,0 +1,58 @@
+﻿Graph,Category,Definition,Relevant,s1,s2,s4,s5,s7,s8,s9,s10,s11,s12,s14,s15,s16,s17,s18,s19,s21,s28,s29,s30,s31,s32,s33,s34
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,1,0,0,0
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+CAR,Steering,Mentions steering as a concern,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAR,Range,Mentions the range / percentage of concerns,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAR,Number,Mentions the number of people concerned,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+CAR,Problems,Mentions that there were many problems,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAR,Unknown,Participant does not remember,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAR,Other,None of the above conclusions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,1,0,1,0,1,1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0
+HOLIDAY,Women,Mentions that women shop more / earlier than men,1,0,1,0,1,0,1,1,0,0,0,0,1,1,1,0,0,0,1,0,0,1,1,0,1
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HOLIDAY,November,Mentions November as the most common month to shop,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,1,1,0
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,0,1,0,1,0,1,1,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0
+HOLIDAY,Unknown,Participant does not remember,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HOLIDAY,Other,None of the above conclusions,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+NEWS,Popularity,Mentions that there are popular news sources,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NEWS,Trends,Mentions that a trend exists,0,1,1,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,1,0,0,0,1,0,1
+NEWS,Television,Mentions that television is one of the most common news sources,0,0,0,1,1,1,0,1,1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0
+NEWS,Internet,Mentions that internet usage is increasing,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+NEWS,Radio,Mentions a trend related to radio,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+NEWS,Unknown,Participant does not remember,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NEWS,Other,None of the above conclusions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TIRES,Trends,Mentions that a trend exists,0,1,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1,0,0
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,1,0,0,0
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TIRES,Price,Mentions specific prices,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+TIRES,Convergence,Mentions that tire prices converge,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+TIRES,Misread graph,The conclusion inaccurately describes the graph,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TIRES,Unknown,Participant does not remember,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TIRES,Other,None of the above conclusions,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,0,0,1,0,1,1,1,1,1,0,0,1,1,0,0,0,0,1,1,1,0,0,1,1
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+PRISON,Display,Mentions the placement of bars in the graph,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRISON,Unknown,Participant does not remember,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRISON,Other,None of the above conclusions,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+PLANTS,Local / National,Mentions a difference between local and national sales,1,1,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,1,0,1,1,1,0,1
+PLANTS,Trends,Mentions that a trend exists,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+PLANTS,Misread graph,The conclusion inaccurately describes the grpah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PLANTS,Unknown,Participant does not remember,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+PLANTS,Other,None of the above conclusions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

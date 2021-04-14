@@ -1,0 +1,3889 @@
+participant,topic,category,sentiment,code,cluttered,decluttered,focused
+1,Prison,aesthetic,positive,likes color,1,0,0
+1,Prison,clarity,positive,clear color,0,0,0
+1,Prison,aesthetic,negative,disliked color,0,0,0
+1,Prison,aesthetic,negative,not enough colors,0,0,0
+1,Prison,aesthetic,negative,too many colors,0,0,0
+1,Prison,aesthetic,positive,likes aesthetic,0,1,0
+1,Prison,clarity,positive,easy to read,0,1,0
+1,Prison,professionalism,positive,professional,0,0,0
+1,Prison,aesthetic,negative,disliked aesthetic,1,0,1
+1,Prison,professionalism,negative,unprofessional,0,0,0
+1,Prison,aesthetic,negative,cluttered,1,0,0
+1,Prison,aesthetic,negative,boring,0,0,0
+1,Prison,clarity,positive,likes info,0,0,0
+1,Prison,clarity,positive,clear info,0,0,0
+1,Prison,clarity,positive,has purpose,0,0,0
+1,Prison,clarity,negative,disliked info,0,0,0
+1,Prison,clarity,negative,no purpose,0,0,0
+1,Prison,clarity,negative,not enough info,0,0,0
+1,Prison,clarity,negative,too much info,0,0,0
+1,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,1
+1,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,1
+1,News,aesthetic,positive,likes color,0,0,1
+1,News,clarity,positive,clear color,0,0,0
+1,News,aesthetic,negative,disliked color,0,0,0
+1,News,aesthetic,negative,not enough colors,0,0,0
+1,News,aesthetic,negative,too many colors,0,0,0
+1,News,aesthetic,positive,likes aesthetic,0,0,1
+1,News,clarity,positive,easy to read,0,0,0
+1,News,professionalism,positive,professional,0,0,0
+1,News,aesthetic,negative,disliked aesthetic,1,0,0
+1,News,professionalism,negative,unprofessional,0,0,0
+1,News,aesthetic,negative,cluttered,1,0,0
+1,News,aesthetic,negative,boring,0,0,0
+1,News,clarity,positive,likes info,0,0,1
+1,News,clarity,positive,clear info,0,0,1
+1,News,clarity,positive,has purpose,0,0,0
+1,News,clarity,negative,disliked info,1,1,0
+1,News,clarity,negative,no purpose,0,1,0
+1,News,clarity,negative,not enough info,0,0,0
+1,News,clarity,negative,too much info,1,0,0
+1,News,ignoreThis,ignoreThis,likes emphasis,0,0,1
+1,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+1,Tires,aesthetic,positive,likes color,0,0,0
+1,Tires,clarity,positive,clear color,0,0,0
+1,Tires,aesthetic,negative,disliked color,0,0,0
+1,Tires,aesthetic,negative,not enough colors,0,0,0
+1,Tires,aesthetic,negative,too many colors,0,0,0
+1,Tires,aesthetic,positive,likes aesthetic,0,0,0
+1,Tires,clarity,positive,easy to read,0,0,0
+1,Tires,professionalism,positive,professional,0,0,0
+1,Tires,aesthetic,negative,disliked aesthetic,1,1,1
+1,Tires,professionalism,negative,unprofessional,0,0,0
+1,Tires,aesthetic,negative,cluttered,0,0,0
+1,Tires,aesthetic,negative,boring,0,0,0
+1,Tires,clarity,positive,likes info,0,0,0
+1,Tires,clarity,positive,clear info,0,0,0
+1,Tires,clarity,positive,has purpose,0,0,0
+1,Tires,clarity,negative,disliked info,0,0,0
+1,Tires,clarity,negative,no purpose,0,0,0
+1,Tires,clarity,negative,not enough info,0,0,0
+1,Tires,clarity,negative,too much info,0,0,0
+1,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+1,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+1,Holiday,aesthetic,positive,likes color,1,0,0
+1,Holiday,clarity,positive,clear color,0,0,0
+1,Holiday,aesthetic,negative,disliked color,0,0,1
+1,Holiday,aesthetic,negative,not enough colors,0,0,0
+1,Holiday,aesthetic,negative,too many colors,0,0,0
+1,Holiday,aesthetic,positive,likes aesthetic,0,0,0
+1,Holiday,clarity,positive,easy to read,0,0,0
+1,Holiday,professionalism,positive,professional,0,0,0
+1,Holiday,aesthetic,negative,disliked aesthetic,1,0,0
+1,Holiday,professionalism,negative,unprofessional,0,0,0
+1,Holiday,aesthetic,negative,cluttered,0,0,0
+1,Holiday,aesthetic,negative,boring,0,0,0
+1,Holiday,clarity,positive,likes info,0,0,0
+1,Holiday,clarity,positive,clear info,0,0,0
+1,Holiday,clarity,positive,has purpose,0,0,0
+1,Holiday,clarity,negative,disliked info,0,0,0
+1,Holiday,clarity,negative,no purpose,0,0,0
+1,Holiday,clarity,negative,not enough info,0,0,0
+1,Holiday,clarity,negative,too much info,0,0,0
+1,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,0
+1,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+1,Car,aesthetic,positive,likes color,0,0,0
+1,Car,clarity,positive,clear color,0,0,0
+1,Car,aesthetic,negative,disliked color,0,0,0
+1,Car,aesthetic,negative,not enough colors,0,0,0
+1,Car,aesthetic,negative,too many colors,0,0,0
+1,Car,aesthetic,positive,likes aesthetic,0,1,1
+1,Car,clarity,positive,easy to read,0,1,0
+1,Car,professionalism,positive,professional,0,0,0
+1,Car,aesthetic,negative,disliked aesthetic,1,0,0
+1,Car,professionalism,negative,unprofessional,0,0,0
+1,Car,aesthetic,negative,cluttered,0,0,0
+1,Car,aesthetic,negative,boring,0,0,0
+1,Car,clarity,positive,likes info,0,0,0
+1,Car,clarity,positive,clear info,0,0,0
+1,Car,clarity,positive,has purpose,0,0,0
+1,Car,clarity,negative,disliked info,0,0,0
+1,Car,clarity,negative,no purpose,0,0,0
+1,Car,clarity,negative,not enough info,0,0,0
+1,Car,clarity,negative,too much info,0,0,0
+1,Car,ignoreThis,ignoreThis,likes emphasis,0,0,1
+1,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+1,Plant,aesthetic,positive,likes color,0,0,0
+1,Plant,clarity,positive,clear color,0,0,0
+1,Plant,aesthetic,negative,disliked color,0,0,0
+1,Plant,aesthetic,negative,not enough colors,0,0,0
+1,Plant,aesthetic,negative,too many colors,0,0,0
+1,Plant,aesthetic,positive,likes aesthetic,0,0,0
+1,Plant,clarity,positive,easy to read,0,0,0
+1,Plant,professionalism,positive,professional,0,0,0
+1,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+1,Plant,professionalism,negative,unprofessional,0,0,0
+1,Plant,aesthetic,negative,cluttered,0,0,0
+1,Plant,aesthetic,negative,boring,0,0,0
+1,Plant,clarity,positive,likes info,0,0,0
+1,Plant,clarity,positive,clear info,0,0,0
+1,Plant,clarity,positive,has purpose,0,0,0
+1,Plant,clarity,negative,disliked info,0,0,0
+1,Plant,clarity,negative,no purpose,0,0,0
+1,Plant,clarity,negative,not enough info,0,0,0
+1,Plant,clarity,negative,too much info,0,0,0
+1,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+1,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+2,Prison,aesthetic,positive,likes color,0,0,1
+2,Prison,clarity,positive,clear color,0,0,0
+2,Prison,aesthetic,negative,disliked color,0,0,0
+2,Prison,aesthetic,negative,not enough colors,0,0,0
+2,Prison,aesthetic,negative,too many colors,0,0,0
+2,Prison,aesthetic,positive,likes aesthetic,0,0,1
+2,Prison,clarity,positive,easy to read,0,0,0
+2,Prison,professionalism,positive,professional,0,0,0
+2,Prison,aesthetic,negative,disliked aesthetic,1,0,0
+2,Prison,professionalism,negative,unprofessional,0,0,0
+2,Prison,aesthetic,negative,cluttered,0,0,0
+2,Prison,aesthetic,negative,boring,0,0,0
+2,Prison,clarity,positive,likes info,0,0,0
+2,Prison,clarity,positive,clear info,0,0,0
+2,Prison,clarity,positive,has purpose,0,0,0
+2,Prison,clarity,negative,disliked info,0,0,0
+2,Prison,clarity,negative,no purpose,0,0,0
+2,Prison,clarity,negative,not enough info,0,0,0
+2,Prison,clarity,negative,too much info,0,0,0
+2,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,1
+2,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+2,News,aesthetic,positive,likes color,0,0,1
+2,News,clarity,positive,clear color,0,0,0
+2,News,aesthetic,negative,disliked color,0,0,0
+2,News,aesthetic,negative,not enough colors,0,0,0
+2,News,aesthetic,negative,too many colors,0,0,0
+2,News,aesthetic,positive,likes aesthetic,0,1,1
+2,News,clarity,positive,easy to read,0,1,0
+2,News,professionalism,positive,professional,0,0,0
+2,News,aesthetic,negative,disliked aesthetic,1,0,0
+2,News,professionalism,negative,unprofessional,0,0,0
+2,News,aesthetic,negative,cluttered,1,0,0
+2,News,aesthetic,negative,boring,0,0,0
+2,News,clarity,positive,likes info,0,0,0
+2,News,clarity,positive,clear info,0,0,0
+2,News,clarity,positive,has purpose,0,0,0
+2,News,clarity,negative,disliked info,0,0,0
+2,News,clarity,negative,no purpose,0,0,0
+2,News,clarity,negative,not enough info,0,0,0
+2,News,clarity,negative,too much info,0,0,0
+2,News,ignoreThis,ignoreThis,likes emphasis,0,0,1
+2,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+2,Tires,aesthetic,positive,likes color,0,0,0
+2,Tires,clarity,positive,clear color,0,0,0
+2,Tires,aesthetic,negative,disliked color,0,0,0
+2,Tires,aesthetic,negative,not enough colors,0,0,0
+2,Tires,aesthetic,negative,too many colors,0,0,0
+2,Tires,aesthetic,positive,likes aesthetic,0,1,0
+2,Tires,clarity,positive,easy to read,0,1,0
+2,Tires,professionalism,positive,professional,0,0,0
+2,Tires,aesthetic,negative,disliked aesthetic,1,1,0
+2,Tires,professionalism,negative,unprofessional,0,0,0
+2,Tires,aesthetic,negative,cluttered,1,0,0
+2,Tires,aesthetic,negative,boring,0,1,0
+2,Tires,clarity,positive,likes info,0,0,1
+2,Tires,clarity,positive,clear info,0,0,0
+2,Tires,clarity,positive,has purpose,0,0,0
+2,Tires,clarity,negative,disliked info,0,0,0
+2,Tires,clarity,negative,no purpose,0,0,0
+2,Tires,clarity,negative,not enough info,0,0,0
+2,Tires,clarity,negative,too much info,0,0,0
+2,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+2,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+2,Holiday,aesthetic,positive,likes color,1,0,1
+2,Holiday,clarity,positive,clear color,0,0,0
+2,Holiday,aesthetic,negative,disliked color,0,0,0
+2,Holiday,aesthetic,negative,not enough colors,0,0,0
+2,Holiday,aesthetic,negative,too many colors,0,0,0
+2,Holiday,aesthetic,positive,likes aesthetic,0,0,0
+2,Holiday,clarity,positive,easy to read,0,0,0
+2,Holiday,professionalism,positive,professional,0,0,0
+2,Holiday,aesthetic,negative,disliked aesthetic,1,0,0
+2,Holiday,professionalism,negative,unprofessional,0,0,0
+2,Holiday,aesthetic,negative,cluttered,0,0,0
+2,Holiday,aesthetic,negative,boring,0,0,0
+2,Holiday,clarity,positive,likes info,0,0,0
+2,Holiday,clarity,positive,clear info,0,0,0
+2,Holiday,clarity,positive,has purpose,0,0,0
+2,Holiday,clarity,negative,disliked info,0,0,0
+2,Holiday,clarity,negative,no purpose,0,0,0
+2,Holiday,clarity,negative,not enough info,0,0,0
+2,Holiday,clarity,negative,too much info,0,0,0
+2,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,0
+2,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+2,Car,aesthetic,positive,likes color,0,0,0
+2,Car,clarity,positive,clear color,0,0,0
+2,Car,aesthetic,negative,disliked color,1,0,0
+2,Car,aesthetic,negative,not enough colors,0,0,0
+2,Car,aesthetic,negative,too many colors,0,0,0
+2,Car,aesthetic,positive,likes aesthetic,0,0,0
+2,Car,clarity,positive,easy to read,0,0,0
+2,Car,professionalism,positive,professional,0,0,0
+2,Car,aesthetic,negative,disliked aesthetic,0,0,0
+2,Car,professionalism,negative,unprofessional,0,0,0
+2,Car,aesthetic,negative,cluttered,0,0,0
+2,Car,aesthetic,negative,boring,0,0,0
+2,Car,clarity,positive,likes info,0,0,0
+2,Car,clarity,positive,clear info,0,0,0
+2,Car,clarity,positive,has purpose,0,0,0
+2,Car,clarity,negative,disliked info,0,1,0
+2,Car,clarity,negative,no purpose,0,1,0
+2,Car,clarity,negative,not enough info,0,0,0
+2,Car,clarity,negative,too much info,0,0,0
+2,Car,ignoreThis,ignoreThis,likes emphasis,0,0,0
+2,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+2,Plant,aesthetic,positive,likes color,0,0,0
+2,Plant,clarity,positive,clear color,0,0,0
+2,Plant,aesthetic,negative,disliked color,0,0,0
+2,Plant,aesthetic,negative,not enough colors,0,0,0
+2,Plant,aesthetic,negative,too many colors,0,0,0
+2,Plant,aesthetic,positive,likes aesthetic,0,0,0
+2,Plant,clarity,positive,easy to read,0,0,0
+2,Plant,professionalism,positive,professional,0,0,0
+2,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+2,Plant,professionalism,negative,unprofessional,0,0,0
+2,Plant,aesthetic,negative,cluttered,0,0,0
+2,Plant,aesthetic,negative,boring,0,0,0
+2,Plant,clarity,positive,likes info,0,0,0
+2,Plant,clarity,positive,clear info,0,0,0
+2,Plant,clarity,positive,has purpose,0,0,0
+2,Plant,clarity,negative,disliked info,0,0,0
+2,Plant,clarity,negative,no purpose,0,0,0
+2,Plant,clarity,negative,not enough info,0,0,0
+2,Plant,clarity,negative,too much info,0,0,0
+2,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+2,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+4,Prison,aesthetic,positive,likes color,1,0,0
+4,Prison,clarity,positive,clear color,0,0,0
+4,Prison,aesthetic,negative,disliked color,0,0,0
+4,Prison,aesthetic,negative,not enough colors,0,0,0
+4,Prison,aesthetic,negative,too many colors,0,0,0
+4,Prison,aesthetic,positive,likes aesthetic,0,1,0
+4,Prison,clarity,positive,easy to read,0,0,0
+4,Prison,professionalism,positive,professional,0,1,0
+4,Prison,aesthetic,negative,disliked aesthetic,1,0,0
+4,Prison,professionalism,negative,unprofessional,0,0,0
+4,Prison,aesthetic,negative,cluttered,0,0,0
+4,Prison,aesthetic,negative,boring,0,0,0
+4,Prison,clarity,positive,likes info,0,0,0
+4,Prison,clarity,positive,clear info,0,0,0
+4,Prison,clarity,positive,has purpose,0,0,0
+4,Prison,clarity,negative,disliked info,0,0,0
+4,Prison,clarity,negative,no purpose,0,0,0
+4,Prison,clarity,negative,not enough info,0,0,0
+4,Prison,clarity,negative,too much info,0,0,0
+4,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,0
+4,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+4,News,aesthetic,positive,likes color,0,0,0
+4,News,clarity,positive,clear color,0,0,0
+4,News,aesthetic,negative,disliked color,0,0,0
+4,News,aesthetic,negative,not enough colors,0,0,0
+4,News,aesthetic,negative,too many colors,0,0,0
+4,News,aesthetic,positive,likes aesthetic,1,0,0
+4,News,clarity,positive,easy to read,0,0,0
+4,News,professionalism,positive,professional,0,0,0
+4,News,aesthetic,negative,disliked aesthetic,1,0,0
+4,News,professionalism,negative,unprofessional,0,0,0
+4,News,aesthetic,negative,cluttered,1,0,0
+4,News,aesthetic,negative,boring,0,0,0
+4,News,clarity,positive,likes info,0,0,1
+4,News,clarity,positive,clear info,0,0,0
+4,News,clarity,positive,has purpose,0,0,0
+4,News,clarity,negative,disliked info,0,0,0
+4,News,clarity,negative,no purpose,0,0,0
+4,News,clarity,negative,not enough info,0,0,0
+4,News,clarity,negative,too much info,0,0,0
+4,News,ignoreThis,ignoreThis,likes emphasis,0,0,1
+4,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+4,Tires,aesthetic,positive,likes color,1,0,0
+4,Tires,clarity,positive,clear color,0,0,0
+4,Tires,aesthetic,negative,disliked color,0,0,0
+4,Tires,aesthetic,negative,not enough colors,0,0,0
+4,Tires,aesthetic,negative,too many colors,0,0,0
+4,Tires,aesthetic,positive,likes aesthetic,1,1,0
+4,Tires,clarity,positive,easy to read,0,0,0
+4,Tires,professionalism,positive,professional,1,0,0
+4,Tires,aesthetic,negative,disliked aesthetic,0,0,0
+4,Tires,professionalism,negative,unprofessional,0,0,0
+4,Tires,aesthetic,negative,cluttered,0,0,0
+4,Tires,aesthetic,negative,boring,0,0,0
+4,Tires,clarity,positive,likes info,0,0,1
+4,Tires,clarity,positive,clear info,0,0,0
+4,Tires,clarity,positive,has purpose,0,0,1
+4,Tires,clarity,negative,disliked info,0,0,0
+4,Tires,clarity,negative,no purpose,0,0,0
+4,Tires,clarity,negative,not enough info,0,0,0
+4,Tires,clarity,negative,too much info,0,0,0
+4,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+4,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+4,Holiday,aesthetic,positive,likes color,0,0,0
+4,Holiday,clarity,positive,clear color,0,0,0
+4,Holiday,aesthetic,negative,disliked color,0,0,0
+4,Holiday,aesthetic,negative,not enough colors,0,0,0
+4,Holiday,aesthetic,negative,too many colors,0,0,0
+4,Holiday,aesthetic,positive,likes aesthetic,1,0,0
+4,Holiday,clarity,positive,easy to read,0,0,0
+4,Holiday,professionalism,positive,professional,0,0,0
+4,Holiday,aesthetic,negative,disliked aesthetic,1,0,1
+4,Holiday,professionalism,negative,unprofessional,0,0,0
+4,Holiday,aesthetic,negative,cluttered,0,0,0
+4,Holiday,aesthetic,negative,boring,0,0,0
+4,Holiday,clarity,positive,likes info,0,0,0
+4,Holiday,clarity,positive,clear info,0,0,0
+4,Holiday,clarity,positive,has purpose,0,0,0
+4,Holiday,clarity,negative,disliked info,0,0,0
+4,Holiday,clarity,negative,no purpose,0,0,0
+4,Holiday,clarity,negative,not enough info,0,0,0
+4,Holiday,clarity,negative,too much info,0,0,0
+4,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,0
+4,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,1
+4,Car,aesthetic,positive,likes color,0,0,0
+4,Car,clarity,positive,clear color,0,0,0
+4,Car,aesthetic,negative,disliked color,0,0,0
+4,Car,aesthetic,negative,not enough colors,0,0,0
+4,Car,aesthetic,negative,too many colors,0,0,0
+4,Car,aesthetic,positive,likes aesthetic,0,1,0
+4,Car,clarity,positive,easy to read,0,0,0
+4,Car,professionalism,positive,professional,0,0,0
+4,Car,aesthetic,negative,disliked aesthetic,1,0,1
+4,Car,professionalism,negative,unprofessional,0,0,0
+4,Car,aesthetic,negative,cluttered,1,0,0
+4,Car,aesthetic,negative,boring,0,0,0
+4,Car,clarity,positive,likes info,0,0,0
+4,Car,clarity,positive,clear info,0,0,0
+4,Car,clarity,positive,has purpose,0,0,0
+4,Car,clarity,negative,disliked info,0,0,0
+4,Car,clarity,negative,no purpose,0,0,0
+4,Car,clarity,negative,not enough info,0,0,0
+4,Car,clarity,negative,too much info,0,0,0
+4,Car,ignoreThis,ignoreThis,likes emphasis,0,0,0
+4,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,1
+4,Plant,aesthetic,positive,likes color,0,0,0
+4,Plant,clarity,positive,clear color,0,0,0
+4,Plant,aesthetic,negative,disliked color,0,0,0
+4,Plant,aesthetic,negative,not enough colors,0,0,0
+4,Plant,aesthetic,negative,too many colors,0,0,0
+4,Plant,aesthetic,positive,likes aesthetic,0,0,0
+4,Plant,clarity,positive,easy to read,0,0,0
+4,Plant,professionalism,positive,professional,0,0,0
+4,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+4,Plant,professionalism,negative,unprofessional,0,0,0
+4,Plant,aesthetic,negative,cluttered,0,0,0
+4,Plant,aesthetic,negative,boring,0,0,0
+4,Plant,clarity,positive,likes info,0,0,0
+4,Plant,clarity,positive,clear info,0,0,0
+4,Plant,clarity,positive,has purpose,0,0,0
+4,Plant,clarity,negative,disliked info,0,0,0
+4,Plant,clarity,negative,no purpose,0,0,0
+4,Plant,clarity,negative,not enough info,0,0,0
+4,Plant,clarity,negative,too much info,0,0,0
+4,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+4,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+5,Prison,aesthetic,positive,likes color,0,0,1
+5,Prison,clarity,positive,clear color,0,0,0
+5,Prison,aesthetic,negative,disliked color,1,0,0
+5,Prison,aesthetic,negative,not enough colors,0,0,0
+5,Prison,aesthetic,negative,too many colors,1,0,0
+5,Prison,aesthetic,positive,likes aesthetic,0,0,0
+5,Prison,clarity,positive,easy to read,0,0,0
+5,Prison,professionalism,positive,professional,1,0,0
+5,Prison,aesthetic,negative,disliked aesthetic,1,1,0
+5,Prison,professionalism,negative,unprofessional,1,0,0
+5,Prison,aesthetic,negative,cluttered,0,0,0
+5,Prison,aesthetic,negative,boring,0,1,0
+5,Prison,clarity,positive,likes info,0,0,1
+5,Prison,clarity,positive,clear info,0,0,0
+5,Prison,clarity,positive,has purpose,0,0,0
+5,Prison,clarity,negative,disliked info,0,1,0
+5,Prison,clarity,negative,no purpose,0,0,0
+5,Prison,clarity,negative,not enough info,0,1,0
+5,Prison,clarity,negative,too much info,0,0,0
+5,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,0
+5,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+5,News,aesthetic,positive,likes color,0,0,1
+5,News,clarity,positive,clear color,0,0,0
+5,News,aesthetic,negative,disliked color,1,0,0
+5,News,aesthetic,negative,not enough colors,0,0,0
+5,News,aesthetic,negative,too many colors,1,0,0
+5,News,aesthetic,positive,likes aesthetic,0,0,1
+5,News,clarity,positive,easy to read,0,0,0
+5,News,professionalism,positive,professional,1,1,1
+5,News,aesthetic,negative,disliked aesthetic,1,1,0
+5,News,professionalism,negative,unprofessional,1,1,0
+5,News,aesthetic,negative,cluttered,1,0,0
+5,News,aesthetic,negative,boring,0,1,0
+5,News,clarity,positive,likes info,0,0,0
+5,News,clarity,positive,clear info,0,0,0
+5,News,clarity,positive,has purpose,0,0,0
+5,News,clarity,negative,disliked info,1,1,0
+5,News,clarity,negative,no purpose,0,0,0
+5,News,clarity,negative,not enough info,0,1,0
+5,News,clarity,negative,too much info,1,0,0
+5,News,ignoreThis,ignoreThis,likes emphasis,0,0,0
+5,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+5,Tires,aesthetic,positive,likes color,0,0,1
+5,Tires,clarity,positive,clear color,0,0,0
+5,Tires,aesthetic,negative,disliked color,1,0,0
+5,Tires,aesthetic,negative,not enough colors,0,0,0
+5,Tires,aesthetic,negative,too many colors,1,0,0
+5,Tires,aesthetic,positive,likes aesthetic,0,0,1
+5,Tires,clarity,positive,easy to read,0,0,0
+5,Tires,professionalism,positive,professional,0,0,1
+5,Tires,aesthetic,negative,disliked aesthetic,1,1,0
+5,Tires,professionalism,negative,unprofessional,0,0,0
+5,Tires,aesthetic,negative,cluttered,1,0,0
+5,Tires,aesthetic,negative,boring,0,1,0
+5,Tires,clarity,positive,likes info,0,0,1
+5,Tires,clarity,positive,clear info,0,0,1
+5,Tires,clarity,positive,has purpose,0,0,0
+5,Tires,clarity,negative,disliked info,0,0,0
+5,Tires,clarity,negative,no purpose,0,0,0
+5,Tires,clarity,negative,not enough info,0,0,0
+5,Tires,clarity,negative,too much info,0,0,0
+5,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+5,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+5,Holiday,aesthetic,positive,likes color,0,0,1
+5,Holiday,clarity,positive,clear color,0,0,0
+5,Holiday,aesthetic,negative,disliked color,0,1,0
+5,Holiday,aesthetic,negative,not enough colors,0,0,0
+5,Holiday,aesthetic,negative,too many colors,0,0,0
+5,Holiday,aesthetic,positive,likes aesthetic,0,0,1
+5,Holiday,clarity,positive,easy to read,0,0,0
+5,Holiday,professionalism,positive,professional,0,0,1
+5,Holiday,aesthetic,negative,disliked aesthetic,1,0,0
+5,Holiday,professionalism,negative,unprofessional,0,0,0
+5,Holiday,aesthetic,negative,cluttered,1,0,0
+5,Holiday,aesthetic,negative,boring,0,0,0
+5,Holiday,clarity,positive,likes info,1,1,1
+5,Holiday,clarity,positive,clear info,1,1,1
+5,Holiday,clarity,positive,has purpose,0,0,0
+5,Holiday,clarity,negative,disliked info,0,0,0
+5,Holiday,clarity,negative,no purpose,0,0,0
+5,Holiday,clarity,negative,not enough info,0,0,0
+5,Holiday,clarity,negative,too much info,0,0,0
+5,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,1
+5,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+5,Car,aesthetic,positive,likes color,0,0,1
+5,Car,clarity,positive,clear color,0,0,0
+5,Car,aesthetic,negative,disliked color,1,0,0
+5,Car,aesthetic,negative,not enough colors,0,0,0
+5,Car,aesthetic,negative,too many colors,0,0,0
+5,Car,aesthetic,positive,likes aesthetic,0,0,0
+5,Car,clarity,positive,easy to read,0,0,0
+5,Car,professionalism,positive,professional,0,0,0
+5,Car,aesthetic,negative,disliked aesthetic,1,1,0
+5,Car,professionalism,negative,unprofessional,0,0,0
+5,Car,aesthetic,negative,cluttered,0,0,0
+5,Car,aesthetic,negative,boring,0,1,0
+5,Car,clarity,positive,likes info,0,0,1
+5,Car,clarity,positive,clear info,0,0,1
+5,Car,clarity,positive,has purpose,0,0,0
+5,Car,clarity,negative,disliked info,0,1,0
+5,Car,clarity,negative,no purpose,0,0,0
+5,Car,clarity,negative,not enough info,0,1,0
+5,Car,clarity,negative,too much info,0,0,0
+5,Car,ignoreThis,ignoreThis,likes emphasis,0,0,0
+5,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+5,Plant,aesthetic,positive,likes color,0,0,0
+5,Plant,clarity,positive,clear color,0,0,0
+5,Plant,aesthetic,negative,disliked color,0,0,0
+5,Plant,aesthetic,negative,not enough colors,0,0,0
+5,Plant,aesthetic,negative,too many colors,0,0,0
+5,Plant,aesthetic,positive,likes aesthetic,0,0,0
+5,Plant,clarity,positive,easy to read,0,0,0
+5,Plant,professionalism,positive,professional,0,0,0
+5,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+5,Plant,professionalism,negative,unprofessional,0,0,0
+5,Plant,aesthetic,negative,cluttered,0,0,0
+5,Plant,aesthetic,negative,boring,0,0,0
+5,Plant,clarity,positive,likes info,0,0,0
+5,Plant,clarity,positive,clear info,0,0,0
+5,Plant,clarity,positive,has purpose,0,0,0
+5,Plant,clarity,negative,disliked info,0,0,0
+5,Plant,clarity,negative,no purpose,0,0,0
+5,Plant,clarity,negative,not enough info,0,0,0
+5,Plant,clarity,negative,too much info,0,0,0
+5,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+5,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+7,Prison,aesthetic,positive,likes color,1,0,0
+7,Prison,clarity,positive,clear color,0,0,0
+7,Prison,aesthetic,negative,disliked color,0,0,0
+7,Prison,aesthetic,negative,not enough colors,0,0,0
+7,Prison,aesthetic,negative,too many colors,0,0,0
+7,Prison,aesthetic,positive,likes aesthetic,0,0,0
+7,Prison,clarity,positive,easy to read,0,0,0
+7,Prison,professionalism,positive,professional,0,0,0
+7,Prison,aesthetic,negative,disliked aesthetic,0,0,0
+7,Prison,professionalism,negative,unprofessional,0,0,0
+7,Prison,aesthetic,negative,cluttered,0,0,0
+7,Prison,aesthetic,negative,boring,0,0,0
+7,Prison,clarity,positive,likes info,1,1,1
+7,Prison,clarity,positive,clear info,0,0,0
+7,Prison,clarity,positive,has purpose,0,0,0
+7,Prison,clarity,negative,disliked info,0,0,0
+7,Prison,clarity,negative,no purpose,0,0,0
+7,Prison,clarity,negative,not enough info,0,0,0
+7,Prison,clarity,negative,too much info,0,0,0
+7,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,0
+7,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+7,News,aesthetic,positive,likes color,0,0,0
+7,News,clarity,positive,clear color,0,0,0
+7,News,aesthetic,negative,disliked color,0,0,0
+7,News,aesthetic,negative,not enough colors,0,0,0
+7,News,aesthetic,negative,too many colors,0,0,0
+7,News,aesthetic,positive,likes aesthetic,0,0,1
+7,News,clarity,positive,easy to read,0,0,1
+7,News,professionalism,positive,professional,0,0,0
+7,News,aesthetic,negative,disliked aesthetic,1,1,0
+7,News,professionalism,negative,unprofessional,0,0,0
+7,News,aesthetic,negative,cluttered,1,0,0
+7,News,aesthetic,negative,boring,0,1,0
+7,News,clarity,positive,likes info,0,0,1
+7,News,clarity,positive,clear info,0,0,0
+7,News,clarity,positive,has purpose,0,0,1
+7,News,clarity,negative,disliked info,0,0,0
+7,News,clarity,negative,no purpose,0,0,0
+7,News,clarity,negative,not enough info,0,0,0
+7,News,clarity,negative,too much info,0,0,0
+7,News,ignoreThis,ignoreThis,likes emphasis,0,0,0
+7,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+7,Tires,aesthetic,positive,likes color,0,0,0
+7,Tires,clarity,positive,clear color,0,0,0
+7,Tires,aesthetic,negative,disliked color,0,0,0
+7,Tires,aesthetic,negative,not enough colors,0,0,0
+7,Tires,aesthetic,negative,too many colors,0,0,0
+7,Tires,aesthetic,positive,likes aesthetic,0,0,0
+7,Tires,clarity,positive,easy to read,0,0,0
+7,Tires,professionalism,positive,professional,0,0,0
+7,Tires,aesthetic,negative,disliked aesthetic,0,0,0
+7,Tires,professionalism,negative,unprofessional,0,0,0
+7,Tires,aesthetic,negative,cluttered,0,0,0
+7,Tires,aesthetic,negative,boring,0,0,0
+7,Tires,clarity,positive,likes info,0,0,0
+7,Tires,clarity,positive,clear info,0,0,0
+7,Tires,clarity,positive,has purpose,0,0,0
+7,Tires,clarity,negative,disliked info,0,0,0
+7,Tires,clarity,negative,no purpose,0,0,0
+7,Tires,clarity,negative,not enough info,0,0,0
+7,Tires,clarity,negative,too much info,0,0,0
+7,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+7,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+7,Holiday,aesthetic,positive,likes color,0,0,0
+7,Holiday,clarity,positive,clear color,0,0,0
+7,Holiday,aesthetic,negative,disliked color,1,1,0
+7,Holiday,aesthetic,negative,not enough colors,0,0,0
+7,Holiday,aesthetic,negative,too many colors,0,0,0
+7,Holiday,aesthetic,positive,likes aesthetic,0,0,0
+7,Holiday,clarity,positive,easy to read,0,0,0
+7,Holiday,professionalism,positive,professional,0,0,0
+7,Holiday,aesthetic,negative,disliked aesthetic,1,1,0
+7,Holiday,professionalism,negative,unprofessional,0,0,0
+7,Holiday,aesthetic,negative,cluttered,0,0,0
+7,Holiday,aesthetic,negative,boring,0,1,0
+7,Holiday,clarity,positive,likes info,0,0,1
+7,Holiday,clarity,positive,clear info,0,0,0
+7,Holiday,clarity,positive,has purpose,0,0,1
+7,Holiday,clarity,negative,disliked info,0,0,0
+7,Holiday,clarity,negative,no purpose,0,0,0
+7,Holiday,clarity,negative,not enough info,0,0,0
+7,Holiday,clarity,negative,too much info,0,0,0
+7,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,1
+7,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+7,Car,aesthetic,positive,likes color,0,0,0
+7,Car,clarity,positive,clear color,0,0,0
+7,Car,aesthetic,negative,disliked color,0,0,0
+7,Car,aesthetic,negative,not enough colors,0,0,0
+7,Car,aesthetic,negative,too many colors,0,0,0
+7,Car,aesthetic,positive,likes aesthetic,0,0,0
+7,Car,clarity,positive,easy to read,0,0,0
+7,Car,professionalism,positive,professional,0,0,0
+7,Car,aesthetic,negative,disliked aesthetic,1,0,0
+7,Car,professionalism,negative,unprofessional,0,0,0
+7,Car,aesthetic,negative,cluttered,0,0,0
+7,Car,aesthetic,negative,boring,0,0,0
+7,Car,clarity,positive,likes info,0,0,0
+7,Car,clarity,positive,clear info,0,0,0
+7,Car,clarity,positive,has purpose,0,0,0
+7,Car,clarity,negative,disliked info,0,0,0
+7,Car,clarity,negative,no purpose,0,0,0
+7,Car,clarity,negative,not enough info,0,0,0
+7,Car,clarity,negative,too much info,0,0,0
+7,Car,ignoreThis,ignoreThis,likes emphasis,0,0,0
+7,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+7,Plant,aesthetic,positive,likes color,0,0,0
+7,Plant,clarity,positive,clear color,0,0,0
+7,Plant,aesthetic,negative,disliked color,0,0,0
+7,Plant,aesthetic,negative,not enough colors,0,0,0
+7,Plant,aesthetic,negative,too many colors,0,0,0
+7,Plant,aesthetic,positive,likes aesthetic,0,0,0
+7,Plant,clarity,positive,easy to read,0,0,0
+7,Plant,professionalism,positive,professional,0,0,0
+7,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+7,Plant,professionalism,negative,unprofessional,0,0,0
+7,Plant,aesthetic,negative,cluttered,0,0,0
+7,Plant,aesthetic,negative,boring,0,0,0
+7,Plant,clarity,positive,likes info,0,0,0
+7,Plant,clarity,positive,clear info,0,0,0
+7,Plant,clarity,positive,has purpose,0,0,0
+7,Plant,clarity,negative,disliked info,0,0,0
+7,Plant,clarity,negative,no purpose,0,0,0
+7,Plant,clarity,negative,not enough info,0,0,0
+7,Plant,clarity,negative,too much info,0,0,0
+7,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+7,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+8,Prison,aesthetic,positive,likes color,0,0,0
+8,Prison,clarity,positive,clear color,0,0,0
+8,Prison,aesthetic,negative,disliked color,1,0,0
+8,Prison,aesthetic,negative,not enough colors,0,0,0
+8,Prison,aesthetic,negative,too many colors,0,0,0
+8,Prison,aesthetic,positive,likes aesthetic,0,1,1
+8,Prison,clarity,positive,easy to read,0,0,0
+8,Prison,professionalism,positive,professional,0,1,1
+8,Prison,aesthetic,negative,disliked aesthetic,0,0,0
+8,Prison,professionalism,negative,unprofessional,0,0,0
+8,Prison,aesthetic,negative,cluttered,0,0,0
+8,Prison,aesthetic,negative,boring,0,0,0
+8,Prison,clarity,positive,likes info,0,0,0
+8,Prison,clarity,positive,clear info,0,0,0
+8,Prison,clarity,positive,has purpose,0,0,0
+8,Prison,clarity,negative,disliked info,1,0,0
+8,Prison,clarity,negative,no purpose,0,0,0
+8,Prison,clarity,negative,not enough info,0,0,0
+8,Prison,clarity,negative,too much info,0,0,0
+8,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,1
+8,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+8,News,aesthetic,positive,likes color,0,0,0
+8,News,clarity,positive,clear color,0,0,0
+8,News,aesthetic,negative,disliked color,0,0,0
+8,News,aesthetic,negative,not enough colors,0,0,0
+8,News,aesthetic,negative,too many colors,0,0,0
+8,News,aesthetic,positive,likes aesthetic,0,1,1
+8,News,clarity,positive,easy to read,0,0,0
+8,News,professionalism,positive,professional,0,1,1
+8,News,aesthetic,negative,disliked aesthetic,1,0,0
+8,News,professionalism,negative,unprofessional,0,0,0
+8,News,aesthetic,negative,cluttered,1,0,0
+8,News,aesthetic,negative,boring,0,0,0
+8,News,clarity,positive,likes info,1,0,1
+8,News,clarity,positive,clear info,1,0,1
+8,News,clarity,positive,has purpose,0,0,1
+8,News,clarity,negative,disliked info,0,0,0
+8,News,clarity,negative,no purpose,0,0,0
+8,News,clarity,negative,not enough info,0,0,0
+8,News,clarity,negative,too much info,0,0,0
+8,News,ignoreThis,ignoreThis,likes emphasis,0,0,1
+8,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+8,Tires,aesthetic,positive,likes color,0,0,0
+8,Tires,clarity,positive,clear color,0,0,0
+8,Tires,aesthetic,negative,disliked color,0,0,0
+8,Tires,aesthetic,negative,not enough colors,0,0,0
+8,Tires,aesthetic,negative,too many colors,0,0,0
+8,Tires,aesthetic,positive,likes aesthetic,0,1,1
+8,Tires,clarity,positive,easy to read,0,0,0
+8,Tires,professionalism,positive,professional,0,0,0
+8,Tires,aesthetic,negative,disliked aesthetic,1,1,0
+8,Tires,professionalism,negative,unprofessional,0,0,0
+8,Tires,aesthetic,negative,cluttered,1,0,0
+8,Tires,aesthetic,negative,boring,0,0,0
+8,Tires,clarity,positive,likes info,0,0,0
+8,Tires,clarity,positive,clear info,0,0,0
+8,Tires,clarity,positive,has purpose,0,0,0
+8,Tires,clarity,negative,disliked info,0,0,0
+8,Tires,clarity,negative,no purpose,0,0,0
+8,Tires,clarity,negative,not enough info,0,0,0
+8,Tires,clarity,negative,too much info,0,0,0
+8,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,1
+8,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+8,Holiday,aesthetic,positive,likes color,0,0,0
+8,Holiday,clarity,positive,clear color,0,0,0
+8,Holiday,aesthetic,negative,disliked color,0,1,0
+8,Holiday,aesthetic,negative,not enough colors,0,0,0
+8,Holiday,aesthetic,negative,too many colors,0,0,0
+8,Holiday,aesthetic,positive,likes aesthetic,0,1,1
+8,Holiday,clarity,positive,easy to read,0,1,1
+8,Holiday,professionalism,positive,professional,1,0,0
+8,Holiday,aesthetic,negative,disliked aesthetic,1,1,0
+8,Holiday,professionalism,negative,unprofessional,1,0,0
+8,Holiday,aesthetic,negative,cluttered,1,0,0
+8,Holiday,aesthetic,negative,boring,0,1,0
+8,Holiday,clarity,positive,likes info,0,0,1
+8,Holiday,clarity,positive,clear info,0,0,1
+8,Holiday,clarity,positive,has purpose,0,0,0
+8,Holiday,clarity,negative,disliked info,0,0,0
+8,Holiday,clarity,negative,no purpose,0,0,0
+8,Holiday,clarity,negative,not enough info,0,0,0
+8,Holiday,clarity,negative,too much info,0,0,0
+8,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,1
+8,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+8,Car,aesthetic,positive,likes color,0,0,1
+8,Car,clarity,positive,clear color,0,0,0
+8,Car,aesthetic,negative,disliked color,1,0,0
+8,Car,aesthetic,negative,not enough colors,0,0,0
+8,Car,aesthetic,negative,too many colors,0,0,0
+8,Car,aesthetic,positive,likes aesthetic,0,1,1
+8,Car,clarity,positive,easy to read,0,0,0
+8,Car,professionalism,positive,professional,1,1,0
+8,Car,aesthetic,negative,disliked aesthetic,1,0,0
+8,Car,professionalism,negative,unprofessional,1,0,0
+8,Car,aesthetic,negative,cluttered,0,0,0
+8,Car,aesthetic,negative,boring,0,0,0
+8,Car,clarity,positive,likes info,0,0,1
+8,Car,clarity,positive,clear info,0,0,0
+8,Car,clarity,positive,has purpose,0,0,1
+8,Car,clarity,negative,disliked info,0,0,0
+8,Car,clarity,negative,no purpose,0,0,0
+8,Car,clarity,negative,not enough info,0,0,0
+8,Car,clarity,negative,too much info,0,0,0
+8,Car,ignoreThis,ignoreThis,likes emphasis,0,0,0
+8,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+8,Plant,aesthetic,positive,likes color,0,0,0
+8,Plant,clarity,positive,clear color,0,0,0
+8,Plant,aesthetic,negative,disliked color,0,0,0
+8,Plant,aesthetic,negative,not enough colors,0,0,0
+8,Plant,aesthetic,negative,too many colors,0,0,0
+8,Plant,aesthetic,positive,likes aesthetic,0,0,0
+8,Plant,clarity,positive,easy to read,0,0,0
+8,Plant,professionalism,positive,professional,0,0,0
+8,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+8,Plant,professionalism,negative,unprofessional,0,0,0
+8,Plant,aesthetic,negative,cluttered,0,0,0
+8,Plant,aesthetic,negative,boring,0,0,0
+8,Plant,clarity,positive,likes info,0,0,0
+8,Plant,clarity,positive,clear info,0,0,0
+8,Plant,clarity,positive,has purpose,0,0,0
+8,Plant,clarity,negative,disliked info,0,0,0
+8,Plant,clarity,negative,no purpose,0,0,0
+8,Plant,clarity,negative,not enough info,0,0,0
+8,Plant,clarity,negative,too much info,0,0,0
+8,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+8,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+9,Prison,aesthetic,positive,likes color,0,0,0
+9,Prison,clarity,positive,clear color,0,0,0
+9,Prison,aesthetic,negative,disliked color,0,0,0
+9,Prison,aesthetic,negative,not enough colors,0,0,0
+9,Prison,aesthetic,negative,too many colors,0,0,0
+9,Prison,aesthetic,positive,likes aesthetic,0,1,1
+9,Prison,clarity,positive,easy to read,0,1,1
+9,Prison,professionalism,positive,professional,0,0,1
+9,Prison,aesthetic,negative,disliked aesthetic,1,0,1
+9,Prison,professionalism,negative,unprofessional,0,0,1
+9,Prison,aesthetic,negative,cluttered,1,0,1
+9,Prison,aesthetic,negative,boring,0,0,0
+9,Prison,clarity,positive,likes info,0,0,0
+9,Prison,clarity,positive,clear info,0,0,0
+9,Prison,clarity,positive,has purpose,0,0,0
+9,Prison,clarity,negative,disliked info,0,0,1
+9,Prison,clarity,negative,no purpose,0,0,0
+9,Prison,clarity,negative,not enough info,0,0,0
+9,Prison,clarity,negative,too much info,0,0,0
+9,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,0
+9,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+9,News,aesthetic,positive,likes color,0,0,0
+9,News,clarity,positive,clear color,0,0,0
+9,News,aesthetic,negative,disliked color,0,0,0
+9,News,aesthetic,negative,not enough colors,0,0,0
+9,News,aesthetic,negative,too many colors,0,0,0
+9,News,aesthetic,positive,likes aesthetic,0,1,1
+9,News,clarity,positive,easy to read,0,1,1
+9,News,professionalism,positive,professional,1,0,0
+9,News,aesthetic,negative,disliked aesthetic,1,0,0
+9,News,professionalism,negative,unprofessional,1,0,0
+9,News,aesthetic,negative,cluttered,0,0,0
+9,News,aesthetic,negative,boring,0,0,0
+9,News,clarity,positive,likes info,0,0,1
+9,News,clarity,positive,clear info,0,0,0
+9,News,clarity,positive,has purpose,0,0,1
+9,News,clarity,negative,disliked info,0,0,0
+9,News,clarity,negative,no purpose,0,0,0
+9,News,clarity,negative,not enough info,0,0,0
+9,News,clarity,negative,too much info,0,0,0
+9,News,ignoreThis,ignoreThis,likes emphasis,0,0,0
+9,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+9,Tires,aesthetic,positive,likes color,0,0,0
+9,Tires,clarity,positive,clear color,0,0,0
+9,Tires,aesthetic,negative,disliked color,0,0,0
+9,Tires,aesthetic,negative,not enough colors,0,0,0
+9,Tires,aesthetic,negative,too many colors,0,0,0
+9,Tires,aesthetic,positive,likes aesthetic,0,1,1
+9,Tires,clarity,positive,easy to read,0,1,0
+9,Tires,professionalism,positive,professional,1,0,0
+9,Tires,aesthetic,negative,disliked aesthetic,1,1,1
+9,Tires,professionalism,negative,unprofessional,1,0,0
+9,Tires,aesthetic,negative,cluttered,0,0,0
+9,Tires,aesthetic,negative,boring,0,1,0
+9,Tires,clarity,positive,likes info,0,0,1
+9,Tires,clarity,positive,clear info,0,0,0
+9,Tires,clarity,positive,has purpose,0,0,0
+9,Tires,clarity,negative,disliked info,0,0,0
+9,Tires,clarity,negative,no purpose,0,0,0
+9,Tires,clarity,negative,not enough info,0,0,0
+9,Tires,clarity,negative,too much info,0,0,0
+9,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+9,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+9,Holiday,aesthetic,positive,likes color,0,0,1
+9,Holiday,clarity,positive,clear color,0,0,0
+9,Holiday,aesthetic,negative,disliked color,0,0,1
+9,Holiday,aesthetic,negative,not enough colors,0,0,0
+9,Holiday,aesthetic,negative,too many colors,0,0,0
+9,Holiday,aesthetic,positive,likes aesthetic,0,1,1
+9,Holiday,clarity,positive,easy to read,0,1,1
+9,Holiday,professionalism,positive,professional,1,0,0
+9,Holiday,aesthetic,negative,disliked aesthetic,1,0,0
+9,Holiday,professionalism,negative,unprofessional,1,0,0
+9,Holiday,aesthetic,negative,cluttered,0,0,0
+9,Holiday,aesthetic,negative,boring,0,0,0
+9,Holiday,clarity,positive,likes info,0,0,1
+9,Holiday,clarity,positive,clear info,0,0,0
+9,Holiday,clarity,positive,has purpose,0,0,0
+9,Holiday,clarity,negative,disliked info,0,0,1
+9,Holiday,clarity,negative,no purpose,0,0,0
+9,Holiday,clarity,negative,not enough info,0,0,0
+9,Holiday,clarity,negative,too much info,0,0,1
+9,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,0
+9,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+9,Car,aesthetic,positive,likes color,0,0,1
+9,Car,clarity,positive,clear color,0,0,0
+9,Car,aesthetic,negative,disliked color,1,0,0
+9,Car,aesthetic,negative,not enough colors,0,0,0
+9,Car,aesthetic,negative,too many colors,0,0,0
+9,Car,aesthetic,positive,likes aesthetic,0,1,1
+9,Car,clarity,positive,easy to read,0,1,1
+9,Car,professionalism,positive,professional,0,0,0
+9,Car,aesthetic,negative,disliked aesthetic,1,1,0
+9,Car,professionalism,negative,unprofessional,0,0,0
+9,Car,aesthetic,negative,cluttered,1,0,0
+9,Car,aesthetic,negative,boring,0,1,0
+9,Car,clarity,positive,likes info,0,0,1
+9,Car,clarity,positive,clear info,0,0,0
+9,Car,clarity,positive,has purpose,0,0,0
+9,Car,clarity,negative,disliked info,0,0,1
+9,Car,clarity,negative,no purpose,0,0,0
+9,Car,clarity,negative,not enough info,0,0,0
+9,Car,clarity,negative,too much info,0,0,1
+9,Car,ignoreThis,ignoreThis,likes emphasis,0,0,0
+9,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+9,Plant,aesthetic,positive,likes color,0,0,0
+9,Plant,clarity,positive,clear color,0,0,0
+9,Plant,aesthetic,negative,disliked color,0,0,0
+9,Plant,aesthetic,negative,not enough colors,0,0,0
+9,Plant,aesthetic,negative,too many colors,0,0,0
+9,Plant,aesthetic,positive,likes aesthetic,0,0,0
+9,Plant,clarity,positive,easy to read,0,0,0
+9,Plant,professionalism,positive,professional,0,0,0
+9,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+9,Plant,professionalism,negative,unprofessional,0,0,0
+9,Plant,aesthetic,negative,cluttered,0,0,0
+9,Plant,aesthetic,negative,boring,0,0,0
+9,Plant,clarity,positive,likes info,0,0,0
+9,Plant,clarity,positive,clear info,0,0,0
+9,Plant,clarity,positive,has purpose,0,0,0
+9,Plant,clarity,negative,disliked info,0,0,0
+9,Plant,clarity,negative,no purpose,0,0,0
+9,Plant,clarity,negative,not enough info,0,0,0
+9,Plant,clarity,negative,too much info,0,0,0
+9,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+9,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+10,Prison,aesthetic,positive,likes color,0,0,0
+10,Prison,clarity,positive,clear color,0,0,0
+10,Prison,aesthetic,negative,disliked color,0,0,0
+10,Prison,aesthetic,negative,not enough colors,0,0,0
+10,Prison,aesthetic,negative,too many colors,0,0,0
+10,Prison,aesthetic,positive,likes aesthetic,0,1,1
+10,Prison,clarity,positive,easy to read,0,1,1
+10,Prison,professionalism,positive,professional,0,0,0
+10,Prison,aesthetic,negative,disliked aesthetic,1,0,0
+10,Prison,professionalism,negative,unprofessional,0,0,0
+10,Prison,aesthetic,negative,cluttered,1,0,0
+10,Prison,aesthetic,negative,boring,0,0,0
+10,Prison,clarity,positive,likes info,0,0,0
+10,Prison,clarity,positive,clear info,0,0,0
+10,Prison,clarity,positive,has purpose,0,0,0
+10,Prison,clarity,negative,disliked info,0,0,0
+10,Prison,clarity,negative,no purpose,0,0,0
+10,Prison,clarity,negative,not enough info,0,0,0
+10,Prison,clarity,negative,too much info,0,0,0
+10,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,0
+10,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,1
+10,News,aesthetic,positive,likes color,0,0,0
+10,News,clarity,positive,clear color,0,0,0
+10,News,aesthetic,negative,disliked color,0,0,0
+10,News,aesthetic,negative,not enough colors,0,0,0
+10,News,aesthetic,negative,too many colors,0,0,0
+10,News,aesthetic,positive,likes aesthetic,0,0,1
+10,News,clarity,positive,easy to read,0,0,1
+10,News,professionalism,positive,professional,0,0,0
+10,News,aesthetic,negative,disliked aesthetic,1,0,0
+10,News,professionalism,negative,unprofessional,0,0,0
+10,News,aesthetic,negative,cluttered,1,0,0
+10,News,aesthetic,negative,boring,0,0,0
+10,News,clarity,positive,likes info,0,0,1
+10,News,clarity,positive,clear info,0,0,0
+10,News,clarity,positive,has purpose,0,0,1
+10,News,clarity,negative,disliked info,0,1,0
+10,News,clarity,negative,no purpose,0,1,0
+10,News,clarity,negative,not enough info,0,0,0
+10,News,clarity,negative,too much info,0,0,0
+10,News,ignoreThis,ignoreThis,likes emphasis,0,0,1
+10,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+10,Tires,aesthetic,positive,likes color,0,0,0
+10,Tires,clarity,positive,clear color,0,0,0
+10,Tires,aesthetic,negative,disliked color,0,0,0
+10,Tires,aesthetic,negative,not enough colors,0,0,0
+10,Tires,aesthetic,negative,too many colors,0,0,0
+10,Tires,aesthetic,positive,likes aesthetic,0,0,1
+10,Tires,clarity,positive,easy to read,0,0,1
+10,Tires,professionalism,positive,professional,0,0,0
+10,Tires,aesthetic,negative,disliked aesthetic,1,0,0
+10,Tires,professionalism,negative,unprofessional,0,0,0
+10,Tires,aesthetic,negative,cluttered,1,0,0
+10,Tires,aesthetic,negative,boring,0,0,0
+10,Tires,clarity,positive,likes info,0,0,1
+10,Tires,clarity,positive,clear info,0,0,1
+10,Tires,clarity,positive,has purpose,0,0,0
+10,Tires,clarity,negative,disliked info,0,0,0
+10,Tires,clarity,negative,no purpose,0,0,0
+10,Tires,clarity,negative,not enough info,0,0,0
+10,Tires,clarity,negative,too much info,0,0,0
+10,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,1
+10,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+10,Holiday,aesthetic,positive,likes color,0,0,0
+10,Holiday,clarity,positive,clear color,0,0,0
+10,Holiday,aesthetic,negative,disliked color,0,0,0
+10,Holiday,aesthetic,negative,not enough colors,0,0,0
+10,Holiday,aesthetic,negative,too many colors,0,0,0
+10,Holiday,aesthetic,positive,likes aesthetic,0,0,1
+10,Holiday,clarity,positive,easy to read,0,0,1
+10,Holiday,professionalism,positive,professional,1,0,0
+10,Holiday,aesthetic,negative,disliked aesthetic,1,0,0
+10,Holiday,professionalism,negative,unprofessional,1,0,0
+10,Holiday,aesthetic,negative,cluttered,0,0,0
+10,Holiday,aesthetic,negative,boring,0,0,0
+10,Holiday,clarity,positive,likes info,0,0,1
+10,Holiday,clarity,positive,clear info,0,0,0
+10,Holiday,clarity,positive,has purpose,0,0,1
+10,Holiday,clarity,negative,disliked info,0,1,0
+10,Holiday,clarity,negative,no purpose,0,1,0
+10,Holiday,clarity,negative,not enough info,0,0,0
+10,Holiday,clarity,negative,too much info,0,0,0
+10,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,1
+10,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+10,Car,aesthetic,positive,likes color,0,0,0
+10,Car,clarity,positive,clear color,0,0,0
+10,Car,aesthetic,negative,disliked color,0,0,0
+10,Car,aesthetic,negative,not enough colors,0,0,0
+10,Car,aesthetic,negative,too many colors,0,0,0
+10,Car,aesthetic,positive,likes aesthetic,0,1,0
+10,Car,clarity,positive,easy to read,0,0,0
+10,Car,professionalism,positive,professional,0,0,0
+10,Car,aesthetic,negative,disliked aesthetic,1,0,0
+10,Car,professionalism,negative,unprofessional,0,0,0
+10,Car,aesthetic,negative,cluttered,1,0,0
+10,Car,aesthetic,negative,boring,0,0,0
+10,Car,clarity,positive,likes info,0,0,1
+10,Car,clarity,positive,clear info,0,0,0
+10,Car,clarity,positive,has purpose,0,0,1
+10,Car,clarity,negative,disliked info,0,1,0
+10,Car,clarity,negative,no purpose,0,1,0
+10,Car,clarity,negative,not enough info,0,0,0
+10,Car,clarity,negative,too much info,0,0,0
+10,Car,ignoreThis,ignoreThis,likes emphasis,0,0,0
+10,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,1
+10,Plant,aesthetic,positive,likes color,0,0,0
+10,Plant,clarity,positive,clear color,0,0,0
+10,Plant,aesthetic,negative,disliked color,0,0,0
+10,Plant,aesthetic,negative,not enough colors,0,0,0
+10,Plant,aesthetic,negative,too many colors,0,0,0
+10,Plant,aesthetic,positive,likes aesthetic,0,0,0
+10,Plant,clarity,positive,easy to read,0,0,0
+10,Plant,professionalism,positive,professional,0,0,0
+10,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+10,Plant,professionalism,negative,unprofessional,0,0,0
+10,Plant,aesthetic,negative,cluttered,0,0,0
+10,Plant,aesthetic,negative,boring,0,0,0
+10,Plant,clarity,positive,likes info,0,0,0
+10,Plant,clarity,positive,clear info,0,0,0
+10,Plant,clarity,positive,has purpose,0,0,0
+10,Plant,clarity,negative,disliked info,0,0,0
+10,Plant,clarity,negative,no purpose,0,0,0
+10,Plant,clarity,negative,not enough info,0,0,0
+10,Plant,clarity,negative,too much info,0,0,0
+10,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+10,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+11,Prison,aesthetic,positive,likes color,1,0,1
+11,Prison,clarity,positive,clear color,0,0,0
+11,Prison,aesthetic,negative,disliked color,1,0,0
+11,Prison,aesthetic,negative,not enough colors,0,0,0
+11,Prison,aesthetic,negative,too many colors,0,0,0
+11,Prison,aesthetic,positive,likes aesthetic,0,1,1
+11,Prison,clarity,positive,easy to read,0,1,1
+11,Prison,professionalism,positive,professional,0,0,0
+11,Prison,aesthetic,negative,disliked aesthetic,1,0,0
+11,Prison,professionalism,negative,unprofessional,0,0,0
+11,Prison,aesthetic,negative,cluttered,1,0,0
+11,Prison,aesthetic,negative,boring,0,0,0
+11,Prison,clarity,positive,likes info,0,0,1
+11,Prison,clarity,positive,clear info,0,0,0
+11,Prison,clarity,positive,has purpose,0,0,0
+11,Prison,clarity,negative,disliked info,0,0,0
+11,Prison,clarity,negative,no purpose,0,0,0
+11,Prison,clarity,negative,not enough info,0,0,0
+11,Prison,clarity,negative,too much info,0,0,0
+11,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,1
+11,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+11,News,aesthetic,positive,likes color,0,0,0
+11,News,clarity,positive,clear color,0,0,0
+11,News,aesthetic,negative,disliked color,1,0,0
+11,News,aesthetic,negative,not enough colors,0,0,0
+11,News,aesthetic,negative,too many colors,1,0,0
+11,News,aesthetic,positive,likes aesthetic,0,1,0
+11,News,clarity,positive,easy to read,0,1,0
+11,News,professionalism,positive,professional,1,0,0
+11,News,aesthetic,negative,disliked aesthetic,1,1,0
+11,News,professionalism,negative,unprofessional,1,0,0
+11,News,aesthetic,negative,cluttered,1,0,0
+11,News,aesthetic,negative,boring,0,0,0
+11,News,clarity,positive,likes info,0,0,0
+11,News,clarity,positive,clear info,0,0,0
+11,News,clarity,positive,has purpose,0,0,0
+11,News,clarity,negative,disliked info,0,0,0
+11,News,clarity,negative,no purpose,0,0,0
+11,News,clarity,negative,not enough info,0,0,0
+11,News,clarity,negative,too much info,0,0,0
+11,News,ignoreThis,ignoreThis,likes emphasis,0,0,1
+11,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+11,Tires,aesthetic,positive,likes color,1,0,0
+11,Tires,clarity,positive,clear color,0,0,0
+11,Tires,aesthetic,negative,disliked color,0,0,0
+11,Tires,aesthetic,negative,not enough colors,0,0,0
+11,Tires,aesthetic,negative,too many colors,0,0,0
+11,Tires,aesthetic,positive,likes aesthetic,1,0,0
+11,Tires,clarity,positive,easy to read,0,0,0
+11,Tires,professionalism,positive,professional,1,0,0
+11,Tires,aesthetic,negative,disliked aesthetic,0,1,1
+11,Tires,professionalism,negative,unprofessional,0,0,0
+11,Tires,aesthetic,negative,cluttered,0,0,0
+11,Tires,aesthetic,negative,boring,0,0,0
+11,Tires,clarity,positive,likes info,1,0,0
+11,Tires,clarity,positive,clear info,0,0,0
+11,Tires,clarity,positive,has purpose,0,0,0
+11,Tires,clarity,negative,disliked info,0,0,0
+11,Tires,clarity,negative,no purpose,0,0,0
+11,Tires,clarity,negative,not enough info,0,0,0
+11,Tires,clarity,negative,too much info,0,0,0
+11,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+11,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+11,Holiday,aesthetic,positive,likes color,0,0,1
+11,Holiday,clarity,positive,clear color,0,0,0
+11,Holiday,aesthetic,negative,disliked color,0,0,0
+11,Holiday,aesthetic,negative,not enough colors,0,0,0
+11,Holiday,aesthetic,negative,too many colors,0,0,0
+11,Holiday,aesthetic,positive,likes aesthetic,0,0,1
+11,Holiday,clarity,positive,easy to read,0,0,0
+11,Holiday,professionalism,positive,professional,1,0,1
+11,Holiday,aesthetic,negative,disliked aesthetic,1,0,0
+11,Holiday,professionalism,negative,unprofessional,1,0,0
+11,Holiday,aesthetic,negative,cluttered,0,0,0
+11,Holiday,aesthetic,negative,boring,0,0,0
+11,Holiday,clarity,positive,likes info,0,0,0
+11,Holiday,clarity,positive,clear info,0,0,0
+11,Holiday,clarity,positive,has purpose,0,0,0
+11,Holiday,clarity,negative,disliked info,0,0,0
+11,Holiday,clarity,negative,no purpose,0,0,0
+11,Holiday,clarity,negative,not enough info,0,0,0
+11,Holiday,clarity,negative,too much info,0,0,0
+11,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,1
+11,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+11,Car,aesthetic,positive,likes color,0,1,0
+11,Car,clarity,positive,clear color,0,0,0
+11,Car,aesthetic,negative,disliked color,0,0,0
+11,Car,aesthetic,negative,not enough colors,0,0,0
+11,Car,aesthetic,negative,too many colors,0,0,0
+11,Car,aesthetic,positive,likes aesthetic,0,0,1
+11,Car,clarity,positive,easy to read,0,0,0
+11,Car,professionalism,positive,professional,0,0,0
+11,Car,aesthetic,negative,disliked aesthetic,0,0,0
+11,Car,professionalism,negative,unprofessional,0,0,0
+11,Car,aesthetic,negative,cluttered,0,0,0
+11,Car,aesthetic,negative,boring,0,0,0
+11,Car,clarity,positive,likes info,0,1,1
+11,Car,clarity,positive,clear info,0,1,1
+11,Car,clarity,positive,has purpose,0,0,0
+11,Car,clarity,negative,disliked info,0,0,0
+11,Car,clarity,negative,no purpose,0,0,0
+11,Car,clarity,negative,not enough info,0,0,0
+11,Car,clarity,negative,too much info,0,0,0
+11,Car,ignoreThis,ignoreThis,likes emphasis,0,0,1
+11,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+11,Plant,aesthetic,positive,likes color,0,0,0
+11,Plant,clarity,positive,clear color,0,0,0
+11,Plant,aesthetic,negative,disliked color,0,0,0
+11,Plant,aesthetic,negative,not enough colors,0,0,0
+11,Plant,aesthetic,negative,too many colors,0,0,0
+11,Plant,aesthetic,positive,likes aesthetic,0,0,0
+11,Plant,clarity,positive,easy to read,0,0,0
+11,Plant,professionalism,positive,professional,0,0,0
+11,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+11,Plant,professionalism,negative,unprofessional,0,0,0
+11,Plant,aesthetic,negative,cluttered,0,0,0
+11,Plant,aesthetic,negative,boring,0,0,0
+11,Plant,clarity,positive,likes info,0,0,0
+11,Plant,clarity,positive,clear info,0,0,0
+11,Plant,clarity,positive,has purpose,0,0,0
+11,Plant,clarity,negative,disliked info,0,0,0
+11,Plant,clarity,negative,no purpose,0,0,0
+11,Plant,clarity,negative,not enough info,0,0,0
+11,Plant,clarity,negative,too much info,0,0,0
+11,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+11,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+12,Prison,aesthetic,positive,likes color,0,0,0
+12,Prison,clarity,positive,clear color,0,0,0
+12,Prison,aesthetic,negative,disliked color,0,0,0
+12,Prison,aesthetic,negative,not enough colors,0,0,0
+12,Prison,aesthetic,negative,too many colors,0,0,0
+12,Prison,aesthetic,positive,likes aesthetic,0,0,0
+12,Prison,clarity,positive,easy to read,0,0,0
+12,Prison,professionalism,positive,professional,0,0,0
+12,Prison,aesthetic,negative,disliked aesthetic,0,0,0
+12,Prison,professionalism,negative,unprofessional,0,0,0
+12,Prison,aesthetic,negative,cluttered,0,0,0
+12,Prison,aesthetic,negative,boring,0,0,0
+12,Prison,clarity,positive,likes info,0,0,0
+12,Prison,clarity,positive,clear info,0,0,0
+12,Prison,clarity,positive,has purpose,0,0,0
+12,Prison,clarity,negative,disliked info,0,0,0
+12,Prison,clarity,negative,no purpose,0,0,0
+12,Prison,clarity,negative,not enough info,0,0,0
+12,Prison,clarity,negative,too much info,0,0,0
+12,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,0
+12,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+12,News,aesthetic,positive,likes color,0,0,0
+12,News,clarity,positive,clear color,0,0,0
+12,News,aesthetic,negative,disliked color,0,1,0
+12,News,aesthetic,negative,not enough colors,0,1,0
+12,News,aesthetic,negative,too many colors,0,0,0
+12,News,aesthetic,positive,likes aesthetic,0,0,1
+12,News,clarity,positive,easy to read,0,0,0
+12,News,professionalism,positive,professional,0,0,0
+12,News,aesthetic,negative,disliked aesthetic,1,1,0
+12,News,professionalism,negative,unprofessional,0,0,0
+12,News,aesthetic,negative,cluttered,1,0,0
+12,News,aesthetic,negative,boring,0,0,0
+12,News,clarity,positive,likes info,0,0,1
+12,News,clarity,positive,clear info,0,0,0
+12,News,clarity,positive,has purpose,0,0,1
+12,News,clarity,negative,disliked info,0,1,0
+12,News,clarity,negative,no purpose,0,1,0
+12,News,clarity,negative,not enough info,0,0,0
+12,News,clarity,negative,too much info,0,0,0
+12,News,ignoreThis,ignoreThis,likes emphasis,0,0,1
+12,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+12,Tires,aesthetic,positive,likes color,0,0,0
+12,Tires,clarity,positive,clear color,0,0,0
+12,Tires,aesthetic,negative,disliked color,0,0,0
+12,Tires,aesthetic,negative,not enough colors,0,0,0
+12,Tires,aesthetic,negative,too many colors,0,0,0
+12,Tires,aesthetic,positive,likes aesthetic,0,0,0
+12,Tires,clarity,positive,easy to read,0,0,0
+12,Tires,professionalism,positive,professional,0,0,0
+12,Tires,aesthetic,negative,disliked aesthetic,0,0,0
+12,Tires,professionalism,negative,unprofessional,0,0,0
+12,Tires,aesthetic,negative,cluttered,0,0,0
+12,Tires,aesthetic,negative,boring,0,0,0
+12,Tires,clarity,positive,likes info,0,0,0
+12,Tires,clarity,positive,clear info,0,0,0
+12,Tires,clarity,positive,has purpose,0,0,0
+12,Tires,clarity,negative,disliked info,0,0,0
+12,Tires,clarity,negative,no purpose,0,0,0
+12,Tires,clarity,negative,not enough info,0,0,0
+12,Tires,clarity,negative,too much info,0,0,0
+12,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+12,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+12,Holiday,aesthetic,positive,likes color,0,0,0
+12,Holiday,clarity,positive,clear color,0,0,0
+12,Holiday,aesthetic,negative,disliked color,0,0,0
+12,Holiday,aesthetic,negative,not enough colors,0,0,0
+12,Holiday,aesthetic,negative,too many colors,0,0,0
+12,Holiday,aesthetic,positive,likes aesthetic,0,0,0
+12,Holiday,clarity,positive,easy to read,0,0,0
+12,Holiday,professionalism,positive,professional,0,0,0
+12,Holiday,aesthetic,negative,disliked aesthetic,0,0,0
+12,Holiday,professionalism,negative,unprofessional,0,0,0
+12,Holiday,aesthetic,negative,cluttered,0,0,0
+12,Holiday,aesthetic,negative,boring,0,0,0
+12,Holiday,clarity,positive,likes info,0,0,0
+12,Holiday,clarity,positive,clear info,0,0,0
+12,Holiday,clarity,positive,has purpose,0,0,0
+12,Holiday,clarity,negative,disliked info,0,0,0
+12,Holiday,clarity,negative,no purpose,0,0,0
+12,Holiday,clarity,negative,not enough info,0,0,0
+12,Holiday,clarity,negative,too much info,0,0,0
+12,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,0
+12,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+12,Car,aesthetic,positive,likes color,0,0,0
+12,Car,clarity,positive,clear color,0,0,0
+12,Car,aesthetic,negative,disliked color,0,0,0
+12,Car,aesthetic,negative,not enough colors,0,0,0
+12,Car,aesthetic,negative,too many colors,0,0,0
+12,Car,aesthetic,positive,likes aesthetic,0,0,0
+12,Car,clarity,positive,easy to read,0,0,0
+12,Car,professionalism,positive,professional,0,0,0
+12,Car,aesthetic,negative,disliked aesthetic,0,0,0
+12,Car,professionalism,negative,unprofessional,0,0,0
+12,Car,aesthetic,negative,cluttered,0,0,0
+12,Car,aesthetic,negative,boring,0,0,0
+12,Car,clarity,positive,likes info,0,0,0
+12,Car,clarity,positive,clear info,0,0,0
+12,Car,clarity,positive,has purpose,0,0,0
+12,Car,clarity,negative,disliked info,0,0,0
+12,Car,clarity,negative,no purpose,0,0,0
+12,Car,clarity,negative,not enough info,0,0,0
+12,Car,clarity,negative,too much info,0,0,0
+12,Car,ignoreThis,ignoreThis,likes emphasis,0,0,0
+12,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+12,Plant,aesthetic,positive,likes color,0,0,0
+12,Plant,clarity,positive,clear color,0,0,0
+12,Plant,aesthetic,negative,disliked color,0,0,0
+12,Plant,aesthetic,negative,not enough colors,0,0,0
+12,Plant,aesthetic,negative,too many colors,0,0,0
+12,Plant,aesthetic,positive,likes aesthetic,0,0,0
+12,Plant,clarity,positive,easy to read,0,0,0
+12,Plant,professionalism,positive,professional,0,0,0
+12,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+12,Plant,professionalism,negative,unprofessional,0,0,0
+12,Plant,aesthetic,negative,cluttered,0,0,0
+12,Plant,aesthetic,negative,boring,0,0,0
+12,Plant,clarity,positive,likes info,0,0,0
+12,Plant,clarity,positive,clear info,0,0,0
+12,Plant,clarity,positive,has purpose,0,0,0
+12,Plant,clarity,negative,disliked info,0,0,0
+12,Plant,clarity,negative,no purpose,0,0,0
+12,Plant,clarity,negative,not enough info,0,0,0
+12,Plant,clarity,negative,too much info,0,0,0
+12,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+12,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+14,Prison,aesthetic,positive,likes color,0,0,0
+14,Prison,clarity,positive,clear color,0,0,0
+14,Prison,aesthetic,negative,disliked color,1,0,0
+14,Prison,aesthetic,negative,not enough colors,0,0,0
+14,Prison,aesthetic,negative,too many colors,1,0,0
+14,Prison,aesthetic,positive,likes aesthetic,0,1,1
+14,Prison,clarity,positive,easy to read,0,1,1
+14,Prison,professionalism,positive,professional,0,0,0
+14,Prison,aesthetic,negative,disliked aesthetic,1,1,1
+14,Prison,professionalism,negative,unprofessional,0,0,0
+14,Prison,aesthetic,negative,cluttered,0,0,0
+14,Prison,aesthetic,negative,boring,0,0,0
+14,Prison,clarity,positive,likes info,0,0,0
+14,Prison,clarity,positive,clear info,0,0,0
+14,Prison,clarity,positive,has purpose,0,0,0
+14,Prison,clarity,negative,disliked info,0,0,0
+14,Prison,clarity,negative,no purpose,0,0,0
+14,Prison,clarity,negative,not enough info,0,0,0
+14,Prison,clarity,negative,too much info,0,0,0
+14,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,0
+14,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+14,News,aesthetic,positive,likes color,0,0,0
+14,News,clarity,positive,clear color,0,0,0
+14,News,aesthetic,negative,disliked color,0,0,0
+14,News,aesthetic,negative,not enough colors,0,0,0
+14,News,aesthetic,negative,too many colors,0,0,0
+14,News,aesthetic,positive,likes aesthetic,0,1,1
+14,News,clarity,positive,easy to read,0,1,1
+14,News,professionalism,positive,professional,0,0,1
+14,News,aesthetic,negative,disliked aesthetic,1,0,0
+14,News,professionalism,negative,unprofessional,0,0,0
+14,News,aesthetic,negative,cluttered,1,0,0
+14,News,aesthetic,negative,boring,0,0,0
+14,News,clarity,positive,likes info,0,0,0
+14,News,clarity,positive,clear info,0,0,0
+14,News,clarity,positive,has purpose,0,0,0
+14,News,clarity,negative,disliked info,0,0,0
+14,News,clarity,negative,no purpose,0,0,0
+14,News,clarity,negative,not enough info,0,0,0
+14,News,clarity,negative,too much info,0,0,0
+14,News,ignoreThis,ignoreThis,likes emphasis,0,0,1
+14,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+14,Tires,aesthetic,positive,likes color,0,0,0
+14,Tires,clarity,positive,clear color,0,0,0
+14,Tires,aesthetic,negative,disliked color,0,0,0
+14,Tires,aesthetic,negative,not enough colors,0,0,0
+14,Tires,aesthetic,negative,too many colors,0,0,0
+14,Tires,aesthetic,positive,likes aesthetic,0,0,0
+14,Tires,clarity,positive,easy to read,0,0,0
+14,Tires,professionalism,positive,professional,0,0,0
+14,Tires,aesthetic,negative,disliked aesthetic,1,0,1
+14,Tires,professionalism,negative,unprofessional,0,0,0
+14,Tires,aesthetic,negative,cluttered,1,0,0
+14,Tires,aesthetic,negative,boring,0,0,1
+14,Tires,clarity,positive,likes info,0,0,1
+14,Tires,clarity,positive,clear info,0,0,0
+14,Tires,clarity,positive,has purpose,0,0,1
+14,Tires,clarity,negative,disliked info,0,1,0
+14,Tires,clarity,negative,no purpose,0,0,0
+14,Tires,clarity,negative,not enough info,0,1,0
+14,Tires,clarity,negative,too much info,0,0,0
+14,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+14,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+14,Holiday,aesthetic,positive,likes color,0,0,0
+14,Holiday,clarity,positive,clear color,0,0,0
+14,Holiday,aesthetic,negative,disliked color,0,0,1
+14,Holiday,aesthetic,negative,not enough colors,0,0,0
+14,Holiday,aesthetic,negative,too many colors,0,0,0
+14,Holiday,aesthetic,positive,likes aesthetic,0,1,0
+14,Holiday,clarity,positive,easy to read,0,1,0
+14,Holiday,professionalism,positive,professional,1,0,0
+14,Holiday,aesthetic,negative,disliked aesthetic,1,1,0
+14,Holiday,professionalism,negative,unprofessional,1,0,0
+14,Holiday,aesthetic,negative,cluttered,0,0,0
+14,Holiday,aesthetic,negative,boring,0,1,0
+14,Holiday,clarity,positive,likes info,1,1,0
+14,Holiday,clarity,positive,clear info,0,1,0
+14,Holiday,clarity,positive,has purpose,0,0,0
+14,Holiday,clarity,negative,disliked info,0,0,1
+14,Holiday,clarity,negative,no purpose,0,0,0
+14,Holiday,clarity,negative,not enough info,0,0,0
+14,Holiday,clarity,negative,too much info,0,0,1
+14,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,0
+14,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+14,Car,aesthetic,positive,likes color,0,0,0
+14,Car,clarity,positive,clear color,0,0,0
+14,Car,aesthetic,negative,disliked color,0,0,0
+14,Car,aesthetic,negative,not enough colors,0,0,0
+14,Car,aesthetic,negative,too many colors,0,0,0
+14,Car,aesthetic,positive,likes aesthetic,0,0,1
+14,Car,clarity,positive,easy to read,0,0,0
+14,Car,professionalism,positive,professional,1,0,0
+14,Car,aesthetic,negative,disliked aesthetic,1,1,1
+14,Car,professionalism,negative,unprofessional,1,0,0
+14,Car,aesthetic,negative,cluttered,1,1,1
+14,Car,aesthetic,negative,boring,0,0,0
+14,Car,clarity,positive,likes info,0,0,0
+14,Car,clarity,positive,clear info,0,0,0
+14,Car,clarity,positive,has purpose,0,0,0
+14,Car,clarity,negative,disliked info,0,0,0
+14,Car,clarity,negative,no purpose,0,0,0
+14,Car,clarity,negative,not enough info,0,0,0
+14,Car,clarity,negative,too much info,0,0,0
+14,Car,ignoreThis,ignoreThis,likes emphasis,0,0,1
+14,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+14,Plant,aesthetic,positive,likes color,0,0,0
+14,Plant,clarity,positive,clear color,0,0,0
+14,Plant,aesthetic,negative,disliked color,0,0,0
+14,Plant,aesthetic,negative,not enough colors,0,0,0
+14,Plant,aesthetic,negative,too many colors,0,0,0
+14,Plant,aesthetic,positive,likes aesthetic,0,0,0
+14,Plant,clarity,positive,easy to read,0,0,0
+14,Plant,professionalism,positive,professional,0,0,0
+14,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+14,Plant,professionalism,negative,unprofessional,0,0,0
+14,Plant,aesthetic,negative,cluttered,0,0,0
+14,Plant,aesthetic,negative,boring,0,0,0
+14,Plant,clarity,positive,likes info,0,0,0
+14,Plant,clarity,positive,clear info,0,0,0
+14,Plant,clarity,positive,has purpose,0,0,0
+14,Plant,clarity,negative,disliked info,0,0,0
+14,Plant,clarity,negative,no purpose,0,0,0
+14,Plant,clarity,negative,not enough info,0,0,0
+14,Plant,clarity,negative,too much info,0,0,0
+14,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+14,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+15,Prison,aesthetic,positive,likes color,0,0,0
+15,Prison,clarity,positive,clear color,0,0,0
+15,Prison,aesthetic,negative,disliked color,0,0,0
+15,Prison,aesthetic,negative,not enough colors,0,0,0
+15,Prison,aesthetic,negative,too many colors,0,0,0
+15,Prison,aesthetic,positive,likes aesthetic,0,0,0
+15,Prison,clarity,positive,easy to read,0,0,0
+15,Prison,professionalism,positive,professional,0,0,0
+15,Prison,aesthetic,negative,disliked aesthetic,0,0,0
+15,Prison,professionalism,negative,unprofessional,0,0,0
+15,Prison,aesthetic,negative,cluttered,0,0,0
+15,Prison,aesthetic,negative,boring,0,0,0
+15,Prison,clarity,positive,likes info,1,1,1
+15,Prison,clarity,positive,clear info,1,1,1
+15,Prison,clarity,positive,has purpose,0,0,0
+15,Prison,clarity,negative,disliked info,0,0,0
+15,Prison,clarity,negative,no purpose,0,0,0
+15,Prison,clarity,negative,not enough info,0,0,0
+15,Prison,clarity,negative,too much info,0,0,0
+15,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,1
+15,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,1
+15,News,aesthetic,positive,likes color,0,0,0
+15,News,clarity,positive,clear color,0,0,0
+15,News,aesthetic,negative,disliked color,0,1,0
+15,News,aesthetic,negative,not enough colors,0,1,0
+15,News,aesthetic,negative,too many colors,0,0,0
+15,News,aesthetic,positive,likes aesthetic,0,0,1
+15,News,clarity,positive,easy to read,0,0,1
+15,News,professionalism,positive,professional,0,0,0
+15,News,aesthetic,negative,disliked aesthetic,1,0,0
+15,News,professionalism,negative,unprofessional,0,0,0
+15,News,aesthetic,negative,cluttered,1,0,0
+15,News,aesthetic,negative,boring,0,0,0
+15,News,clarity,positive,likes info,0,0,1
+15,News,clarity,positive,clear info,0,0,1
+15,News,clarity,positive,has purpose,0,0,0
+15,News,clarity,negative,disliked info,0,0,0
+15,News,clarity,negative,no purpose,0,0,0
+15,News,clarity,negative,not enough info,0,0,0
+15,News,clarity,negative,too much info,0,0,0
+15,News,ignoreThis,ignoreThis,likes emphasis,0,0,1
+15,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+15,Tires,aesthetic,positive,likes color,1,0,0
+15,Tires,clarity,positive,clear color,1,0,0
+15,Tires,aesthetic,negative,disliked color,0,1,1
+15,Tires,aesthetic,negative,not enough colors,0,0,0
+15,Tires,aesthetic,negative,too many colors,0,0,0
+15,Tires,aesthetic,positive,likes aesthetic,0,0,0
+15,Tires,clarity,positive,easy to read,0,0,0
+15,Tires,professionalism,positive,professional,0,0,0
+15,Tires,aesthetic,negative,disliked aesthetic,0,0,0
+15,Tires,professionalism,negative,unprofessional,0,0,0
+15,Tires,aesthetic,negative,cluttered,0,0,0
+15,Tires,aesthetic,negative,boring,0,0,0
+15,Tires,clarity,positive,likes info,0,0,0
+15,Tires,clarity,positive,clear info,0,0,0
+15,Tires,clarity,positive,has purpose,0,0,0
+15,Tires,clarity,negative,disliked info,0,0,0
+15,Tires,clarity,negative,no purpose,0,0,0
+15,Tires,clarity,negative,not enough info,0,0,0
+15,Tires,clarity,negative,too much info,0,0,0
+15,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+15,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+15,Holiday,aesthetic,positive,likes color,0,0,0
+15,Holiday,clarity,positive,clear color,0,0,0
+15,Holiday,aesthetic,negative,disliked color,0,1,1
+15,Holiday,aesthetic,negative,not enough colors,0,0,0
+15,Holiday,aesthetic,negative,too many colors,0,0,0
+15,Holiday,aesthetic,positive,likes aesthetic,0,0,0
+15,Holiday,clarity,positive,easy to read,0,0,0
+15,Holiday,professionalism,positive,professional,1,0,0
+15,Holiday,aesthetic,negative,disliked aesthetic,1,0,1
+15,Holiday,professionalism,negative,unprofessional,1,0,0
+15,Holiday,aesthetic,negative,cluttered,0,0,0
+15,Holiday,aesthetic,negative,boring,0,0,0
+15,Holiday,clarity,positive,likes info,0,1,1
+15,Holiday,clarity,positive,clear info,0,1,1
+15,Holiday,clarity,positive,has purpose,0,0,0
+15,Holiday,clarity,negative,disliked info,0,1,0
+15,Holiday,clarity,negative,no purpose,0,0,0
+15,Holiday,clarity,negative,not enough info,0,1,0
+15,Holiday,clarity,negative,too much info,0,0,0
+15,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,1
+15,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+15,Car,aesthetic,positive,likes color,0,0,0
+15,Car,clarity,positive,clear color,0,0,0
+15,Car,aesthetic,negative,disliked color,1,0,0
+15,Car,aesthetic,negative,not enough colors,0,0,0
+15,Car,aesthetic,negative,too many colors,0,0,0
+15,Car,aesthetic,positive,likes aesthetic,0,1,1
+15,Car,clarity,positive,easy to read,0,1,1
+15,Car,professionalism,positive,professional,0,0,0
+15,Car,aesthetic,negative,disliked aesthetic,1,0,0
+15,Car,professionalism,negative,unprofessional,0,0,0
+15,Car,aesthetic,negative,cluttered,1,0,0
+15,Car,aesthetic,negative,boring,0,0,0
+15,Car,clarity,positive,likes info,0,0,0
+15,Car,clarity,positive,clear info,0,0,0
+15,Car,clarity,positive,has purpose,0,0,0
+15,Car,clarity,negative,disliked info,0,0,0
+15,Car,clarity,negative,no purpose,0,0,0
+15,Car,clarity,negative,not enough info,0,0,0
+15,Car,clarity,negative,too much info,0,0,0
+15,Car,ignoreThis,ignoreThis,likes emphasis,0,0,1
+15,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+15,Plant,aesthetic,positive,likes color,0,0,0
+15,Plant,clarity,positive,clear color,0,0,0
+15,Plant,aesthetic,negative,disliked color,0,0,0
+15,Plant,aesthetic,negative,not enough colors,0,0,0
+15,Plant,aesthetic,negative,too many colors,0,0,0
+15,Plant,aesthetic,positive,likes aesthetic,0,0,0
+15,Plant,clarity,positive,easy to read,0,0,0
+15,Plant,professionalism,positive,professional,0,0,0
+15,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+15,Plant,professionalism,negative,unprofessional,0,0,0
+15,Plant,aesthetic,negative,cluttered,0,0,0
+15,Plant,aesthetic,negative,boring,0,0,0
+15,Plant,clarity,positive,likes info,0,0,0
+15,Plant,clarity,positive,clear info,0,0,0
+15,Plant,clarity,positive,has purpose,0,0,0
+15,Plant,clarity,negative,disliked info,0,0,0
+15,Plant,clarity,negative,no purpose,0,0,0
+15,Plant,clarity,negative,not enough info,0,0,0
+15,Plant,clarity,negative,too much info,0,0,0
+15,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+15,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+16,Prison,aesthetic,positive,likes color,1,0,0
+16,Prison,clarity,positive,clear color,0,0,0
+16,Prison,aesthetic,negative,disliked color,0,0,0
+16,Prison,aesthetic,negative,not enough colors,0,0,0
+16,Prison,aesthetic,negative,too many colors,0,0,0
+16,Prison,aesthetic,positive,likes aesthetic,1,0,0
+16,Prison,clarity,positive,easy to read,0,0,0
+16,Prison,professionalism,positive,professional,0,0,0
+16,Prison,aesthetic,negative,disliked aesthetic,1,0,0
+16,Prison,professionalism,negative,unprofessional,0,0,0
+16,Prison,aesthetic,negative,cluttered,1,0,0
+16,Prison,aesthetic,negative,boring,0,0,0
+16,Prison,clarity,positive,likes info,0,1,0
+16,Prison,clarity,positive,clear info,0,1,0
+16,Prison,clarity,positive,has purpose,0,0,0
+16,Prison,clarity,negative,disliked info,0,0,0
+16,Prison,clarity,negative,no purpose,0,0,0
+16,Prison,clarity,negative,not enough info,0,0,0
+16,Prison,clarity,negative,too much info,0,0,0
+16,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,0
+16,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,1
+16,News,aesthetic,positive,likes color,0,0,0
+16,News,clarity,positive,clear color,0,0,0
+16,News,aesthetic,negative,disliked color,0,0,0
+16,News,aesthetic,negative,not enough colors,0,0,0
+16,News,aesthetic,negative,too many colors,0,0,0
+16,News,aesthetic,positive,likes aesthetic,0,1,1
+16,News,clarity,positive,easy to read,0,1,1
+16,News,professionalism,positive,professional,0,0,0
+16,News,aesthetic,negative,disliked aesthetic,0,0,0
+16,News,professionalism,negative,unprofessional,0,0,0
+16,News,aesthetic,negative,cluttered,0,0,0
+16,News,aesthetic,negative,boring,0,0,0
+16,News,clarity,positive,likes info,0,0,0
+16,News,clarity,positive,clear info,0,0,0
+16,News,clarity,positive,has purpose,0,0,0
+16,News,clarity,negative,disliked info,0,0,0
+16,News,clarity,negative,no purpose,0,0,0
+16,News,clarity,negative,not enough info,0,0,0
+16,News,clarity,negative,too much info,0,0,0
+16,News,ignoreThis,ignoreThis,likes emphasis,0,0,0
+16,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+16,Tires,aesthetic,positive,likes color,0,0,0
+16,Tires,clarity,positive,clear color,0,0,0
+16,Tires,aesthetic,negative,disliked color,0,0,0
+16,Tires,aesthetic,negative,not enough colors,0,0,0
+16,Tires,aesthetic,negative,too many colors,0,0,0
+16,Tires,aesthetic,positive,likes aesthetic,1,1,1
+16,Tires,clarity,positive,easy to read,1,1,1
+16,Tires,professionalism,positive,professional,0,1,1
+16,Tires,aesthetic,negative,disliked aesthetic,1,1,1
+16,Tires,professionalism,negative,unprofessional,0,0,0
+16,Tires,aesthetic,negative,cluttered,0,0,0
+16,Tires,aesthetic,negative,boring,0,0,0
+16,Tires,clarity,positive,likes info,1,0,0
+16,Tires,clarity,positive,clear info,0,0,0
+16,Tires,clarity,positive,has purpose,0,0,0
+16,Tires,clarity,negative,disliked info,0,0,0
+16,Tires,clarity,negative,no purpose,0,0,0
+16,Tires,clarity,negative,not enough info,0,0,0
+16,Tires,clarity,negative,too much info,0,0,0
+16,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+16,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,1
+16,Holiday,aesthetic,positive,likes color,0,0,0
+16,Holiday,clarity,positive,clear color,0,0,0
+16,Holiday,aesthetic,negative,disliked color,0,0,1
+16,Holiday,aesthetic,negative,not enough colors,0,0,0
+16,Holiday,aesthetic,negative,too many colors,0,0,0
+16,Holiday,aesthetic,positive,likes aesthetic,0,1,0
+16,Holiday,clarity,positive,easy to read,0,0,0
+16,Holiday,professionalism,positive,professional,0,1,0
+16,Holiday,aesthetic,negative,disliked aesthetic,1,0,0
+16,Holiday,professionalism,negative,unprofessional,0,0,0
+16,Holiday,aesthetic,negative,cluttered,0,0,0
+16,Holiday,aesthetic,negative,boring,0,0,0
+16,Holiday,clarity,positive,likes info,0,0,0
+16,Holiday,clarity,positive,clear info,0,0,0
+16,Holiday,clarity,positive,has purpose,0,0,0
+16,Holiday,clarity,negative,disliked info,0,0,0
+16,Holiday,clarity,negative,no purpose,0,0,0
+16,Holiday,clarity,negative,not enough info,0,0,0
+16,Holiday,clarity,negative,too much info,0,0,0
+16,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,0
+16,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+16,Car,aesthetic,positive,likes color,0,0,0
+16,Car,clarity,positive,clear color,0,0,0
+16,Car,aesthetic,negative,disliked color,0,0,0
+16,Car,aesthetic,negative,not enough colors,0,0,0
+16,Car,aesthetic,negative,too many colors,0,0,0
+16,Car,aesthetic,positive,likes aesthetic,0,1,1
+16,Car,clarity,positive,easy to read,0,0,0
+16,Car,professionalism,positive,professional,0,0,0
+16,Car,aesthetic,negative,disliked aesthetic,1,0,0
+16,Car,professionalism,negative,unprofessional,0,0,0
+16,Car,aesthetic,negative,cluttered,0,0,0
+16,Car,aesthetic,negative,boring,0,0,0
+16,Car,clarity,positive,likes info,0,0,0
+16,Car,clarity,positive,clear info,0,0,0
+16,Car,clarity,positive,has purpose,0,0,0
+16,Car,clarity,negative,disliked info,0,0,0
+16,Car,clarity,negative,no purpose,0,0,0
+16,Car,clarity,negative,not enough info,0,0,0
+16,Car,clarity,negative,too much info,0,0,0
+16,Car,ignoreThis,ignoreThis,likes emphasis,0,0,0
+16,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,1
+16,Plant,aesthetic,positive,likes color,0,0,0
+16,Plant,clarity,positive,clear color,0,0,0
+16,Plant,aesthetic,negative,disliked color,0,0,0
+16,Plant,aesthetic,negative,not enough colors,0,0,0
+16,Plant,aesthetic,negative,too many colors,0,0,0
+16,Plant,aesthetic,positive,likes aesthetic,0,0,0
+16,Plant,clarity,positive,easy to read,0,0,0
+16,Plant,professionalism,positive,professional,0,0,0
+16,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+16,Plant,professionalism,negative,unprofessional,0,0,0
+16,Plant,aesthetic,negative,cluttered,0,0,0
+16,Plant,aesthetic,negative,boring,0,0,0
+16,Plant,clarity,positive,likes info,0,0,0
+16,Plant,clarity,positive,clear info,0,0,0
+16,Plant,clarity,positive,has purpose,0,0,0
+16,Plant,clarity,negative,disliked info,0,0,0
+16,Plant,clarity,negative,no purpose,0,0,0
+16,Plant,clarity,negative,not enough info,0,0,0
+16,Plant,clarity,negative,too much info,0,0,0
+16,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+16,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+17,Prison,aesthetic,positive,likes color,1,0,0
+17,Prison,clarity,positive,clear color,0,0,0
+17,Prison,aesthetic,negative,disliked color,0,0,0
+17,Prison,aesthetic,negative,not enough colors,0,0,0
+17,Prison,aesthetic,negative,too many colors,0,0,0
+17,Prison,aesthetic,positive,likes aesthetic,0,0,0
+17,Prison,clarity,positive,easy to read,0,0,0
+17,Prison,professionalism,positive,professional,0,0,1
+17,Prison,aesthetic,negative,disliked aesthetic,0,0,1
+17,Prison,professionalism,negative,unprofessional,0,0,1
+17,Prison,aesthetic,negative,cluttered,0,0,0
+17,Prison,aesthetic,negative,boring,0,0,0
+17,Prison,clarity,positive,likes info,1,1,1
+17,Prison,clarity,positive,clear info,1,1,1
+17,Prison,clarity,positive,has purpose,0,0,0
+17,Prison,clarity,negative,disliked info,0,0,0
+17,Prison,clarity,negative,no purpose,0,0,0
+17,Prison,clarity,negative,not enough info,0,0,0
+17,Prison,clarity,negative,too much info,0,0,0
+17,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,0
+17,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,1
+17,News,aesthetic,positive,likes color,0,0,0
+17,News,clarity,positive,clear color,0,0,0
+17,News,aesthetic,negative,disliked color,1,0,0
+17,News,aesthetic,negative,not enough colors,0,0,0
+17,News,aesthetic,negative,too many colors,1,0,0
+17,News,aesthetic,positive,likes aesthetic,0,0,0
+17,News,clarity,positive,easy to read,0,0,0
+17,News,professionalism,positive,professional,0,0,0
+17,News,aesthetic,negative,disliked aesthetic,1,0,0
+17,News,professionalism,negative,unprofessional,0,0,0
+17,News,aesthetic,negative,cluttered,1,0,0
+17,News,aesthetic,negative,boring,0,0,0
+17,News,clarity,positive,likes info,0,0,1
+17,News,clarity,positive,clear info,0,0,1
+17,News,clarity,positive,has purpose,0,0,0
+17,News,clarity,negative,disliked info,0,0,0
+17,News,clarity,negative,no purpose,0,0,0
+17,News,clarity,negative,not enough info,0,0,0
+17,News,clarity,negative,too much info,0,0,0
+17,News,ignoreThis,ignoreThis,likes emphasis,0,0,1
+17,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+17,Tires,aesthetic,positive,likes color,0,0,0
+17,Tires,clarity,positive,clear color,0,0,0
+17,Tires,aesthetic,negative,disliked color,0,0,0
+17,Tires,aesthetic,negative,not enough colors,0,0,0
+17,Tires,aesthetic,negative,too many colors,0,0,0
+17,Tires,aesthetic,positive,likes aesthetic,0,0,0
+17,Tires,clarity,positive,easy to read,0,0,0
+17,Tires,professionalism,positive,professional,0,0,0
+17,Tires,aesthetic,negative,disliked aesthetic,1,0,0
+17,Tires,professionalism,negative,unprofessional,0,0,0
+17,Tires,aesthetic,negative,cluttered,1,0,0
+17,Tires,aesthetic,negative,boring,0,0,0
+17,Tires,clarity,positive,likes info,0,0,0
+17,Tires,clarity,positive,clear info,0,0,0
+17,Tires,clarity,positive,has purpose,0,0,0
+17,Tires,clarity,negative,disliked info,1,0,0
+17,Tires,clarity,negative,no purpose,0,0,0
+17,Tires,clarity,negative,not enough info,0,0,0
+17,Tires,clarity,negative,too much info,1,0,0
+17,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+17,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+17,Holiday,aesthetic,positive,likes color,0,0,1
+17,Holiday,clarity,positive,clear color,0,0,0
+17,Holiday,aesthetic,negative,disliked color,0,0,0
+17,Holiday,aesthetic,negative,not enough colors,0,0,0
+17,Holiday,aesthetic,negative,too many colors,0,0,0
+17,Holiday,aesthetic,positive,likes aesthetic,0,0,1
+17,Holiday,clarity,positive,easy to read,0,0,1
+17,Holiday,professionalism,positive,professional,0,0,0
+17,Holiday,aesthetic,negative,disliked aesthetic,0,0,0
+17,Holiday,professionalism,negative,unprofessional,0,0,0
+17,Holiday,aesthetic,negative,cluttered,0,0,0
+17,Holiday,aesthetic,negative,boring,0,0,0
+17,Holiday,clarity,positive,likes info,0,0,1
+17,Holiday,clarity,positive,clear info,0,0,1
+17,Holiday,clarity,positive,has purpose,0,0,0
+17,Holiday,clarity,negative,disliked info,0,0,0
+17,Holiday,clarity,negative,no purpose,0,0,0
+17,Holiday,clarity,negative,not enough info,0,0,0
+17,Holiday,clarity,negative,too much info,0,0,0
+17,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,0
+17,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+17,Car,aesthetic,positive,likes color,0,0,1
+17,Car,clarity,positive,clear color,0,0,0
+17,Car,aesthetic,negative,disliked color,1,0,0
+17,Car,aesthetic,negative,not enough colors,0,0,0
+17,Car,aesthetic,negative,too many colors,0,0,0
+17,Car,aesthetic,positive,likes aesthetic,0,1,1
+17,Car,clarity,positive,easy to read,0,1,0
+17,Car,professionalism,positive,professional,0,1,0
+17,Car,aesthetic,negative,disliked aesthetic,0,0,0
+17,Car,professionalism,negative,unprofessional,0,0,0
+17,Car,aesthetic,negative,cluttered,0,0,0
+17,Car,aesthetic,negative,boring,0,0,0
+17,Car,clarity,positive,likes info,0,0,1
+17,Car,clarity,positive,clear info,0,0,0
+17,Car,clarity,positive,has purpose,0,0,0
+17,Car,clarity,negative,disliked info,0,0,0
+17,Car,clarity,negative,no purpose,0,0,0
+17,Car,clarity,negative,not enough info,0,0,0
+17,Car,clarity,negative,too much info,0,0,0
+17,Car,ignoreThis,ignoreThis,likes emphasis,0,0,1
+17,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+17,Plant,aesthetic,positive,likes color,0,0,0
+17,Plant,clarity,positive,clear color,0,0,0
+17,Plant,aesthetic,negative,disliked color,0,0,0
+17,Plant,aesthetic,negative,not enough colors,0,0,0
+17,Plant,aesthetic,negative,too many colors,0,0,0
+17,Plant,aesthetic,positive,likes aesthetic,0,0,0
+17,Plant,clarity,positive,easy to read,0,0,0
+17,Plant,professionalism,positive,professional,0,0,0
+17,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+17,Plant,professionalism,negative,unprofessional,0,0,0
+17,Plant,aesthetic,negative,cluttered,0,0,0
+17,Plant,aesthetic,negative,boring,0,0,0
+17,Plant,clarity,positive,likes info,0,0,0
+17,Plant,clarity,positive,clear info,0,0,0
+17,Plant,clarity,positive,has purpose,0,0,0
+17,Plant,clarity,negative,disliked info,0,0,0
+17,Plant,clarity,negative,no purpose,0,0,0
+17,Plant,clarity,negative,not enough info,0,0,0
+17,Plant,clarity,negative,too much info,0,0,0
+17,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+17,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+18,Prison,aesthetic,positive,likes color,0,0,0
+18,Prison,clarity,positive,clear color,0,0,0
+18,Prison,aesthetic,negative,disliked color,0,0,0
+18,Prison,aesthetic,negative,not enough colors,0,0,0
+18,Prison,aesthetic,negative,too many colors,0,0,0
+18,Prison,aesthetic,positive,likes aesthetic,0,1,1
+18,Prison,clarity,positive,easy to read,0,1,1
+18,Prison,professionalism,positive,professional,0,1,1
+18,Prison,aesthetic,negative,disliked aesthetic,1,1,1
+18,Prison,professionalism,negative,unprofessional,0,1,1
+18,Prison,aesthetic,negative,cluttered,0,0,0
+18,Prison,aesthetic,negative,boring,0,0,0
+18,Prison,clarity,positive,likes info,1,0,0
+18,Prison,clarity,positive,clear info,1,0,0
+18,Prison,clarity,positive,has purpose,0,0,0
+18,Prison,clarity,negative,disliked info,0,0,0
+18,Prison,clarity,negative,no purpose,0,0,0
+18,Prison,clarity,negative,not enough info,0,0,0
+18,Prison,clarity,negative,too much info,0,0,0
+18,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,0
+18,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+18,News,aesthetic,positive,likes color,0,0,0
+18,News,clarity,positive,clear color,0,0,0
+18,News,aesthetic,negative,disliked color,1,0,0
+18,News,aesthetic,negative,not enough colors,0,0,0
+18,News,aesthetic,negative,too many colors,1,0,0
+18,News,aesthetic,positive,likes aesthetic,0,0,0
+18,News,clarity,positive,easy to read,0,0,0
+18,News,professionalism,positive,professional,1,0,0
+18,News,aesthetic,negative,disliked aesthetic,1,0,0
+18,News,professionalism,negative,unprofessional,1,0,0
+18,News,aesthetic,negative,cluttered,1,0,0
+18,News,aesthetic,negative,boring,0,0,0
+18,News,clarity,positive,likes info,0,0,0
+18,News,clarity,positive,clear info,0,0,0
+18,News,clarity,positive,has purpose,0,0,0
+18,News,clarity,negative,disliked info,1,0,0
+18,News,clarity,negative,no purpose,0,0,0
+18,News,clarity,negative,not enough info,0,0,0
+18,News,clarity,negative,too much info,1,0,0
+18,News,ignoreThis,ignoreThis,likes emphasis,0,0,0
+18,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+18,Tires,aesthetic,positive,likes color,0,0,0
+18,Tires,clarity,positive,clear color,0,0,0
+18,Tires,aesthetic,negative,disliked color,0,0,0
+18,Tires,aesthetic,negative,not enough colors,0,0,0
+18,Tires,aesthetic,negative,too many colors,0,0,0
+18,Tires,aesthetic,positive,likes aesthetic,1,0,0
+18,Tires,clarity,positive,easy to read,0,0,0
+18,Tires,professionalism,positive,professional,1,0,0
+18,Tires,aesthetic,negative,disliked aesthetic,1,0,0
+18,Tires,professionalism,negative,unprofessional,0,0,0
+18,Tires,aesthetic,negative,cluttered,0,0,0
+18,Tires,aesthetic,negative,boring,0,0,0
+18,Tires,clarity,positive,likes info,1,0,0
+18,Tires,clarity,positive,clear info,0,0,0
+18,Tires,clarity,positive,has purpose,0,0,0
+18,Tires,clarity,negative,disliked info,0,0,0
+18,Tires,clarity,negative,no purpose,0,0,0
+18,Tires,clarity,negative,not enough info,0,0,0
+18,Tires,clarity,negative,too much info,0,0,0
+18,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+18,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+18,Holiday,aesthetic,positive,likes color,0,0,0
+18,Holiday,clarity,positive,clear color,0,0,0
+18,Holiday,aesthetic,negative,disliked color,0,0,0
+18,Holiday,aesthetic,negative,not enough colors,0,0,0
+18,Holiday,aesthetic,negative,too many colors,0,0,0
+18,Holiday,aesthetic,positive,likes aesthetic,0,1,1
+18,Holiday,clarity,positive,easy to read,0,1,1
+18,Holiday,professionalism,positive,professional,1,1,1
+18,Holiday,aesthetic,negative,disliked aesthetic,1,0,0
+18,Holiday,professionalism,negative,unprofessional,1,0,0
+18,Holiday,aesthetic,negative,cluttered,0,0,0
+18,Holiday,aesthetic,negative,boring,0,0,0
+18,Holiday,clarity,positive,likes info,1,0,0
+18,Holiday,clarity,positive,clear info,0,0,0
+18,Holiday,clarity,positive,has purpose,0,0,0
+18,Holiday,clarity,negative,disliked info,0,0,0
+18,Holiday,clarity,negative,no purpose,0,0,0
+18,Holiday,clarity,negative,not enough info,0,0,0
+18,Holiday,clarity,negative,too much info,0,0,0
+18,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,0
+18,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+18,Car,aesthetic,positive,likes color,0,0,0
+18,Car,clarity,positive,clear color,0,0,0
+18,Car,aesthetic,negative,disliked color,1,0,0
+18,Car,aesthetic,negative,not enough colors,0,0,0
+18,Car,aesthetic,negative,too many colors,1,0,0
+18,Car,aesthetic,positive,likes aesthetic,0,1,1
+18,Car,clarity,positive,easy to read,0,0,0
+18,Car,professionalism,positive,professional,0,1,1
+18,Car,aesthetic,negative,disliked aesthetic,1,0,0
+18,Car,professionalism,negative,unprofessional,0,0,0
+18,Car,aesthetic,negative,cluttered,0,0,0
+18,Car,aesthetic,negative,boring,0,0,0
+18,Car,clarity,positive,likes info,0,0,0
+18,Car,clarity,positive,clear info,0,0,0
+18,Car,clarity,positive,has purpose,0,0,0
+18,Car,clarity,negative,disliked info,0,0,0
+18,Car,clarity,negative,no purpose,0,0,0
+18,Car,clarity,negative,not enough info,0,0,0
+18,Car,clarity,negative,too much info,0,0,0
+18,Car,ignoreThis,ignoreThis,likes emphasis,0,0,0
+18,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+18,Plant,aesthetic,positive,likes color,0,0,0
+18,Plant,clarity,positive,clear color,0,0,0
+18,Plant,aesthetic,negative,disliked color,0,0,0
+18,Plant,aesthetic,negative,not enough colors,0,0,0
+18,Plant,aesthetic,negative,too many colors,0,0,0
+18,Plant,aesthetic,positive,likes aesthetic,0,0,0
+18,Plant,clarity,positive,easy to read,0,0,0
+18,Plant,professionalism,positive,professional,0,0,0
+18,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+18,Plant,professionalism,negative,unprofessional,0,0,0
+18,Plant,aesthetic,negative,cluttered,0,0,0
+18,Plant,aesthetic,negative,boring,0,0,0
+18,Plant,clarity,positive,likes info,0,0,0
+18,Plant,clarity,positive,clear info,0,0,0
+18,Plant,clarity,positive,has purpose,0,0,0
+18,Plant,clarity,negative,disliked info,0,0,0
+18,Plant,clarity,negative,no purpose,0,0,0
+18,Plant,clarity,negative,not enough info,0,0,0
+18,Plant,clarity,negative,too much info,0,0,0
+18,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+18,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+19,Prison,aesthetic,positive,likes color,0,1,1
+19,Prison,clarity,positive,clear color,0,0,0
+19,Prison,aesthetic,negative,disliked color,1,0,0
+19,Prison,aesthetic,negative,not enough colors,0,0,0
+19,Prison,aesthetic,negative,too many colors,1,0,0
+19,Prison,aesthetic,positive,likes aesthetic,0,0,0
+19,Prison,clarity,positive,easy to read,0,0,0
+19,Prison,professionalism,positive,professional,0,0,0
+19,Prison,aesthetic,negative,disliked aesthetic,1,0,0
+19,Prison,professionalism,negative,unprofessional,0,0,0
+19,Prison,aesthetic,negative,cluttered,1,0,0
+19,Prison,aesthetic,negative,boring,0,0,0
+19,Prison,clarity,positive,likes info,0,0,0
+19,Prison,clarity,positive,clear info,0,0,0
+19,Prison,clarity,positive,has purpose,0,0,0
+19,Prison,clarity,negative,disliked info,0,0,0
+19,Prison,clarity,negative,no purpose,0,0,0
+19,Prison,clarity,negative,not enough info,0,0,0
+19,Prison,clarity,negative,too much info,0,0,0
+19,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,0
+19,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+19,News,aesthetic,positive,likes color,0,0,0
+19,News,clarity,positive,clear color,0,0,0
+19,News,aesthetic,negative,disliked color,1,0,0
+19,News,aesthetic,negative,not enough colors,0,0,0
+19,News,aesthetic,negative,too many colors,1,0,0
+19,News,aesthetic,positive,likes aesthetic,0,0,0
+19,News,clarity,positive,easy to read,0,0,0
+19,News,professionalism,positive,professional,0,0,0
+19,News,aesthetic,negative,disliked aesthetic,0,0,0
+19,News,professionalism,negative,unprofessional,0,0,0
+19,News,aesthetic,negative,cluttered,0,0,0
+19,News,aesthetic,negative,boring,0,0,0
+19,News,clarity,positive,likes info,0,0,0
+19,News,clarity,positive,clear info,0,0,0
+19,News,clarity,positive,has purpose,0,0,0
+19,News,clarity,negative,disliked info,1,0,0
+19,News,clarity,negative,no purpose,0,0,0
+19,News,clarity,negative,not enough info,0,0,0
+19,News,clarity,negative,too much info,1,0,0
+19,News,ignoreThis,ignoreThis,likes emphasis,0,0,0
+19,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+19,Tires,aesthetic,positive,likes color,0,0,0
+19,Tires,clarity,positive,clear color,0,0,0
+19,Tires,aesthetic,negative,disliked color,0,0,0
+19,Tires,aesthetic,negative,not enough colors,0,0,0
+19,Tires,aesthetic,negative,too many colors,0,0,0
+19,Tires,aesthetic,positive,likes aesthetic,0,1,1
+19,Tires,clarity,positive,easy to read,0,0,0
+19,Tires,professionalism,positive,professional,0,0,0
+19,Tires,aesthetic,negative,disliked aesthetic,1,0,0
+19,Tires,professionalism,negative,unprofessional,0,0,0
+19,Tires,aesthetic,negative,cluttered,0,0,0
+19,Tires,aesthetic,negative,boring,0,0,0
+19,Tires,clarity,positive,likes info,1,0,1
+19,Tires,clarity,positive,clear info,0,0,0
+19,Tires,clarity,positive,has purpose,0,0,0
+19,Tires,clarity,negative,disliked info,0,1,0
+19,Tires,clarity,negative,no purpose,0,0,0
+19,Tires,clarity,negative,not enough info,0,1,0
+19,Tires,clarity,negative,too much info,0,0,0
+19,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+19,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+19,Holiday,aesthetic,positive,likes color,0,0,0
+19,Holiday,clarity,positive,clear color,0,0,0
+19,Holiday,aesthetic,negative,disliked color,0,1,0
+19,Holiday,aesthetic,negative,not enough colors,0,0,0
+19,Holiday,aesthetic,negative,too many colors,0,0,0
+19,Holiday,aesthetic,positive,likes aesthetic,0,0,0
+19,Holiday,clarity,positive,easy to read,0,0,0
+19,Holiday,professionalism,positive,professional,0,0,0
+19,Holiday,aesthetic,negative,disliked aesthetic,1,1,0
+19,Holiday,professionalism,negative,unprofessional,0,0,0
+19,Holiday,aesthetic,negative,cluttered,0,0,0
+19,Holiday,aesthetic,negative,boring,0,1,0
+19,Holiday,clarity,positive,likes info,0,0,0
+19,Holiday,clarity,positive,clear info,0,0,0
+19,Holiday,clarity,positive,has purpose,0,0,0
+19,Holiday,clarity,negative,disliked info,0,0,0
+19,Holiday,clarity,negative,no purpose,0,0,0
+19,Holiday,clarity,negative,not enough info,0,0,0
+19,Holiday,clarity,negative,too much info,0,0,0
+19,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,0
+19,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+19,Car,aesthetic,positive,likes color,0,0,1
+19,Car,clarity,positive,clear color,0,0,0
+19,Car,aesthetic,negative,disliked color,1,0,0
+19,Car,aesthetic,negative,not enough colors,0,0,0
+19,Car,aesthetic,negative,too many colors,0,0,0
+19,Car,aesthetic,positive,likes aesthetic,0,0,1
+19,Car,clarity,positive,easy to read,0,0,0
+19,Car,professionalism,positive,professional,1,0,0
+19,Car,aesthetic,negative,disliked aesthetic,1,0,0
+19,Car,professionalism,negative,unprofessional,1,0,0
+19,Car,aesthetic,negative,cluttered,1,0,0
+19,Car,aesthetic,negative,boring,0,0,0
+19,Car,clarity,positive,likes info,0,0,0
+19,Car,clarity,positive,clear info,0,0,0
+19,Car,clarity,positive,has purpose,0,0,0
+19,Car,clarity,negative,disliked info,0,0,0
+19,Car,clarity,negative,no purpose,0,0,0
+19,Car,clarity,negative,not enough info,0,0,0
+19,Car,clarity,negative,too much info,0,0,0
+19,Car,ignoreThis,ignoreThis,likes emphasis,0,0,0
+19,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+19,Plant,aesthetic,positive,likes color,0,0,0
+19,Plant,clarity,positive,clear color,0,0,0
+19,Plant,aesthetic,negative,disliked color,0,0,0
+19,Plant,aesthetic,negative,not enough colors,0,0,0
+19,Plant,aesthetic,negative,too many colors,0,0,0
+19,Plant,aesthetic,positive,likes aesthetic,0,0,0
+19,Plant,clarity,positive,easy to read,0,0,0
+19,Plant,professionalism,positive,professional,0,0,0
+19,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+19,Plant,professionalism,negative,unprofessional,0,0,0
+19,Plant,aesthetic,negative,cluttered,0,0,0
+19,Plant,aesthetic,negative,boring,0,0,0
+19,Plant,clarity,positive,likes info,0,0,0
+19,Plant,clarity,positive,clear info,0,0,0
+19,Plant,clarity,positive,has purpose,0,0,0
+19,Plant,clarity,negative,disliked info,0,0,0
+19,Plant,clarity,negative,no purpose,0,0,0
+19,Plant,clarity,negative,not enough info,0,0,0
+19,Plant,clarity,negative,too much info,0,0,0
+19,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+19,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+21,Prison,aesthetic,positive,likes color,0,0,1
+21,Prison,clarity,positive,clear color,0,0,0
+21,Prison,aesthetic,negative,disliked color,0,0,0
+21,Prison,aesthetic,negative,not enough colors,0,0,0
+21,Prison,aesthetic,negative,too many colors,0,0,0
+21,Prison,aesthetic,positive,likes aesthetic,0,0,1
+21,Prison,clarity,positive,easy to read,0,0,1
+21,Prison,professionalism,positive,professional,0,0,1
+21,Prison,aesthetic,negative,disliked aesthetic,1,1,0
+21,Prison,professionalism,negative,unprofessional,0,0,0
+21,Prison,aesthetic,negative,cluttered,0,0,0
+21,Prison,aesthetic,negative,boring,0,1,0
+21,Prison,clarity,positive,likes info,1,0,0
+21,Prison,clarity,positive,clear info,1,0,0
+21,Prison,clarity,positive,has purpose,0,0,0
+21,Prison,clarity,negative,disliked info,0,0,0
+21,Prison,clarity,negative,no purpose,0,0,0
+21,Prison,clarity,negative,not enough info,0,0,0
+21,Prison,clarity,negative,too much info,0,0,0
+21,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,1
+21,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+21,News,aesthetic,positive,likes color,0,0,0
+21,News,clarity,positive,clear color,0,0,0
+21,News,aesthetic,negative,disliked color,1,0,0
+21,News,aesthetic,negative,not enough colors,0,0,0
+21,News,aesthetic,negative,too many colors,0,0,0
+21,News,aesthetic,positive,likes aesthetic,0,0,0
+21,News,clarity,positive,easy to read,0,0,0
+21,News,professionalism,positive,professional,1,0,0
+21,News,aesthetic,negative,disliked aesthetic,1,0,0
+21,News,professionalism,negative,unprofessional,1,0,0
+21,News,aesthetic,negative,cluttered,1,0,0
+21,News,aesthetic,negative,boring,0,0,0
+21,News,clarity,positive,likes info,1,0,0
+21,News,clarity,positive,clear info,1,0,0
+21,News,clarity,positive,has purpose,0,0,0
+21,News,clarity,negative,disliked info,0,0,0
+21,News,clarity,negative,no purpose,0,0,0
+21,News,clarity,negative,not enough info,0,0,0
+21,News,clarity,negative,too much info,0,0,0
+21,News,ignoreThis,ignoreThis,likes emphasis,0,0,0
+21,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+21,Tires,aesthetic,positive,likes color,0,0,0
+21,Tires,clarity,positive,clear color,0,0,0
+21,Tires,aesthetic,negative,disliked color,1,0,0
+21,Tires,aesthetic,negative,not enough colors,0,0,0
+21,Tires,aesthetic,negative,too many colors,0,0,0
+21,Tires,aesthetic,positive,likes aesthetic,0,0,0
+21,Tires,clarity,positive,easy to read,0,0,0
+21,Tires,professionalism,positive,professional,0,0,0
+21,Tires,aesthetic,negative,disliked aesthetic,1,0,0
+21,Tires,professionalism,negative,unprofessional,0,0,0
+21,Tires,aesthetic,negative,cluttered,0,0,0
+21,Tires,aesthetic,negative,boring,0,0,0
+21,Tires,clarity,positive,likes info,0,0,0
+21,Tires,clarity,positive,clear info,0,0,0
+21,Tires,clarity,positive,has purpose,0,0,0
+21,Tires,clarity,negative,disliked info,0,1,1
+21,Tires,clarity,negative,no purpose,0,0,0
+21,Tires,clarity,negative,not enough info,0,1,1
+21,Tires,clarity,negative,too much info,0,0,0
+21,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+21,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+21,Holiday,aesthetic,positive,likes color,0,0,1
+21,Holiday,clarity,positive,clear color,0,0,1
+21,Holiday,aesthetic,negative,disliked color,1,0,1
+21,Holiday,aesthetic,negative,not enough colors,0,0,0
+21,Holiday,aesthetic,negative,too many colors,0,0,0
+21,Holiday,aesthetic,positive,likes aesthetic,0,0,1
+21,Holiday,clarity,positive,easy to read,0,0,0
+21,Holiday,professionalism,positive,professional,1,0,1
+21,Holiday,aesthetic,negative,disliked aesthetic,1,1,1
+21,Holiday,professionalism,negative,unprofessional,1,0,1
+21,Holiday,aesthetic,negative,cluttered,0,0,0
+21,Holiday,aesthetic,negative,boring,0,1,0
+21,Holiday,clarity,positive,likes info,0,0,0
+21,Holiday,clarity,positive,clear info,0,0,0
+21,Holiday,clarity,positive,has purpose,0,0,0
+21,Holiday,clarity,negative,disliked info,0,0,0
+21,Holiday,clarity,negative,no purpose,0,0,0
+21,Holiday,clarity,negative,not enough info,0,0,0
+21,Holiday,clarity,negative,too much info,0,0,0
+21,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,0
+21,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+21,Car,aesthetic,positive,likes color,0,0,0
+21,Car,clarity,positive,clear color,0,0,0
+21,Car,aesthetic,negative,disliked color,0,1,0
+21,Car,aesthetic,negative,not enough colors,0,0,0
+21,Car,aesthetic,negative,too many colors,0,0,0
+21,Car,aesthetic,positive,likes aesthetic,1,0,0
+21,Car,clarity,positive,easy to read,1,0,0
+21,Car,professionalism,positive,professional,1,0,0
+21,Car,aesthetic,negative,disliked aesthetic,0,0,0
+21,Car,professionalism,negative,unprofessional,0,0,0
+21,Car,aesthetic,negative,cluttered,0,0,0
+21,Car,aesthetic,negative,boring,0,0,0
+21,Car,clarity,positive,likes info,0,0,0
+21,Car,clarity,positive,clear info,0,0,0
+21,Car,clarity,positive,has purpose,0,0,0
+21,Car,clarity,negative,disliked info,0,0,0
+21,Car,clarity,negative,no purpose,0,0,0
+21,Car,clarity,negative,not enough info,0,0,0
+21,Car,clarity,negative,too much info,0,0,0
+21,Car,ignoreThis,ignoreThis,likes emphasis,0,0,0
+21,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+21,Plant,aesthetic,positive,likes color,0,0,0
+21,Plant,clarity,positive,clear color,0,0,0
+21,Plant,aesthetic,negative,disliked color,0,0,0
+21,Plant,aesthetic,negative,not enough colors,0,0,0
+21,Plant,aesthetic,negative,too many colors,0,0,0
+21,Plant,aesthetic,positive,likes aesthetic,0,0,0
+21,Plant,clarity,positive,easy to read,0,0,0
+21,Plant,professionalism,positive,professional,0,0,0
+21,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+21,Plant,professionalism,negative,unprofessional,0,0,0
+21,Plant,aesthetic,negative,cluttered,0,0,0
+21,Plant,aesthetic,negative,boring,0,0,0
+21,Plant,clarity,positive,likes info,0,0,0
+21,Plant,clarity,positive,clear info,0,0,0
+21,Plant,clarity,positive,has purpose,0,0,0
+21,Plant,clarity,negative,disliked info,0,0,0
+21,Plant,clarity,negative,no purpose,0,0,0
+21,Plant,clarity,negative,not enough info,0,0,0
+21,Plant,clarity,negative,too much info,0,0,0
+21,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+21,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+28,Prison,aesthetic,positive,likes color,0,0,1
+28,Prison,clarity,positive,clear color,0,0,0
+28,Prison,aesthetic,negative,disliked color,1,0,0
+28,Prison,aesthetic,negative,not enough colors,0,0,0
+28,Prison,aesthetic,negative,too many colors,1,0,0
+28,Prison,aesthetic,positive,likes aesthetic,0,0,0
+28,Prison,clarity,positive,easy to read,0,0,0
+28,Prison,professionalism,positive,professional,0,0,0
+28,Prison,aesthetic,negative,disliked aesthetic,0,0,0
+28,Prison,professionalism,negative,unprofessional,0,0,0
+28,Prison,aesthetic,negative,cluttered,0,0,0
+28,Prison,aesthetic,negative,boring,0,0,0
+28,Prison,clarity,positive,likes info,0,0,1
+28,Prison,clarity,positive,clear info,0,0,1
+28,Prison,clarity,positive,has purpose,0,0,0
+28,Prison,clarity,negative,disliked info,1,1,0
+28,Prison,clarity,negative,no purpose,0,1,0
+28,Prison,clarity,negative,not enough info,0,0,0
+28,Prison,clarity,negative,too much info,0,0,0
+28,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,1
+28,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+28,News,aesthetic,positive,likes color,0,0,1
+28,News,clarity,positive,clear color,0,0,1
+28,News,aesthetic,negative,disliked color,1,0,0
+28,News,aesthetic,negative,not enough colors,0,0,0
+28,News,aesthetic,negative,too many colors,1,0,0
+28,News,aesthetic,positive,likes aesthetic,0,0,1
+28,News,clarity,positive,easy to read,0,0,0
+28,News,professionalism,positive,professional,0,0,0
+28,News,aesthetic,negative,disliked aesthetic,1,0,0
+28,News,professionalism,negative,unprofessional,0,0,0
+28,News,aesthetic,negative,cluttered,1,0,0
+28,News,aesthetic,negative,boring,0,0,0
+28,News,clarity,positive,likes info,0,1,1
+28,News,clarity,positive,clear info,0,1,1
+28,News,clarity,positive,has purpose,0,0,0
+28,News,clarity,negative,disliked info,1,1,0
+28,News,clarity,negative,no purpose,1,1,0
+28,News,clarity,negative,not enough info,0,0,0
+28,News,clarity,negative,too much info,0,0,0
+28,News,ignoreThis,ignoreThis,likes emphasis,0,0,1
+28,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+28,Tires,aesthetic,positive,likes color,0,0,0
+28,Tires,clarity,positive,clear color,0,0,0
+28,Tires,aesthetic,negative,disliked color,0,0,0
+28,Tires,aesthetic,negative,not enough colors,0,0,0
+28,Tires,aesthetic,negative,too many colors,0,0,0
+28,Tires,aesthetic,positive,likes aesthetic,0,1,1
+28,Tires,clarity,positive,easy to read,0,0,0
+28,Tires,professionalism,positive,professional,0,0,0
+28,Tires,aesthetic,negative,disliked aesthetic,1,0,0
+28,Tires,professionalism,negative,unprofessional,0,0,0
+28,Tires,aesthetic,negative,cluttered,1,0,0
+28,Tires,aesthetic,negative,boring,0,0,0
+28,Tires,clarity,positive,likes info,0,0,1
+28,Tires,clarity,positive,clear info,0,0,1
+28,Tires,clarity,positive,has purpose,0,0,0
+28,Tires,clarity,negative,disliked info,1,0,0
+28,Tires,clarity,negative,no purpose,0,0,0
+28,Tires,clarity,negative,not enough info,0,0,0
+28,Tires,clarity,negative,too much info,1,0,0
+28,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,1
+28,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+28,Holiday,aesthetic,positive,likes color,0,0,0
+28,Holiday,clarity,positive,clear color,0,0,0
+28,Holiday,aesthetic,negative,disliked color,0,0,0
+28,Holiday,aesthetic,negative,not enough colors,0,0,0
+28,Holiday,aesthetic,negative,too many colors,0,0,0
+28,Holiday,aesthetic,positive,likes aesthetic,0,0,1
+28,Holiday,clarity,positive,easy to read,0,0,0
+28,Holiday,professionalism,positive,professional,0,0,0
+28,Holiday,aesthetic,negative,disliked aesthetic,1,0,0
+28,Holiday,professionalism,negative,unprofessional,0,0,0
+28,Holiday,aesthetic,negative,cluttered,0,0,0
+28,Holiday,aesthetic,negative,boring,0,0,0
+28,Holiday,clarity,positive,likes info,1,1,1
+28,Holiday,clarity,positive,clear info,1,1,1
+28,Holiday,clarity,positive,has purpose,0,0,0
+28,Holiday,clarity,negative,disliked info,0,1,0
+28,Holiday,clarity,negative,no purpose,0,0,0
+28,Holiday,clarity,negative,not enough info,0,1,0
+28,Holiday,clarity,negative,too much info,0,0,0
+28,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,1
+28,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+28,Car,aesthetic,positive,likes color,0,0,1
+28,Car,clarity,positive,clear color,0,0,1
+28,Car,aesthetic,negative,disliked color,1,0,0
+28,Car,aesthetic,negative,not enough colors,0,0,0
+28,Car,aesthetic,negative,too many colors,0,0,0
+28,Car,aesthetic,positive,likes aesthetic,0,1,1
+28,Car,clarity,positive,easy to read,0,0,0
+28,Car,professionalism,positive,professional,0,0,0
+28,Car,aesthetic,negative,disliked aesthetic,1,0,0
+28,Car,professionalism,negative,unprofessional,0,0,0
+28,Car,aesthetic,negative,cluttered,0,0,0
+28,Car,aesthetic,negative,boring,0,0,0
+28,Car,clarity,positive,likes info,0,0,0
+28,Car,clarity,positive,clear info,0,0,0
+28,Car,clarity,positive,has purpose,0,0,0
+28,Car,clarity,negative,disliked info,1,1,0
+28,Car,clarity,negative,no purpose,0,0,0
+28,Car,clarity,negative,not enough info,0,1,0
+28,Car,clarity,negative,too much info,0,0,0
+28,Car,ignoreThis,ignoreThis,likes emphasis,0,0,1
+28,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+28,Plant,aesthetic,positive,likes color,0,0,0
+28,Plant,clarity,positive,clear color,0,0,0
+28,Plant,aesthetic,negative,disliked color,0,0,0
+28,Plant,aesthetic,negative,not enough colors,0,0,0
+28,Plant,aesthetic,negative,too many colors,0,0,0
+28,Plant,aesthetic,positive,likes aesthetic,0,0,0
+28,Plant,clarity,positive,easy to read,0,0,0
+28,Plant,professionalism,positive,professional,0,0,0
+28,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+28,Plant,professionalism,negative,unprofessional,0,0,0
+28,Plant,aesthetic,negative,cluttered,0,0,0
+28,Plant,aesthetic,negative,boring,0,0,0
+28,Plant,clarity,positive,likes info,0,0,0
+28,Plant,clarity,positive,clear info,0,0,0
+28,Plant,clarity,positive,has purpose,0,0,0
+28,Plant,clarity,negative,disliked info,0,0,0
+28,Plant,clarity,negative,no purpose,0,0,0
+28,Plant,clarity,negative,not enough info,0,0,0
+28,Plant,clarity,negative,too much info,0,0,0
+28,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+28,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+29,Prison,aesthetic,positive,likes color,0,0,0
+29,Prison,clarity,positive,clear color,0,0,0
+29,Prison,aesthetic,negative,disliked color,0,0,0
+29,Prison,aesthetic,negative,not enough colors,0,0,0
+29,Prison,aesthetic,negative,too many colors,0,0,0
+29,Prison,aesthetic,positive,likes aesthetic,1,0,1
+29,Prison,clarity,positive,easy to read,0,0,0
+29,Prison,professionalism,positive,professional,0,0,1
+29,Prison,aesthetic,negative,disliked aesthetic,0,0,0
+29,Prison,professionalism,negative,unprofessional,0,0,0
+29,Prison,aesthetic,negative,cluttered,0,0,0
+29,Prison,aesthetic,negative,boring,0,0,0
+29,Prison,clarity,positive,likes info,0,0,1
+29,Prison,clarity,positive,clear info,0,0,1
+29,Prison,clarity,positive,has purpose,0,0,0
+29,Prison,clarity,negative,disliked info,0,0,0
+29,Prison,clarity,negative,no purpose,0,0,0
+29,Prison,clarity,negative,not enough info,0,0,0
+29,Prison,clarity,negative,too much info,0,0,0
+29,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,1
+29,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+29,News,aesthetic,positive,likes color,1,0,0
+29,News,clarity,positive,clear color,0,0,0
+29,News,aesthetic,negative,disliked color,0,0,0
+29,News,aesthetic,negative,not enough colors,0,0,0
+29,News,aesthetic,negative,too many colors,0,0,0
+29,News,aesthetic,positive,likes aesthetic,1,0,0
+29,News,clarity,positive,easy to read,0,0,0
+29,News,professionalism,positive,professional,1,0,0
+29,News,aesthetic,negative,disliked aesthetic,0,0,0
+29,News,professionalism,negative,unprofessional,0,0,0
+29,News,aesthetic,negative,cluttered,0,0,0
+29,News,aesthetic,negative,boring,0,0,0
+29,News,clarity,positive,likes info,1,0,0
+29,News,clarity,positive,clear info,0,0,0
+29,News,clarity,positive,has purpose,0,0,0
+29,News,clarity,negative,disliked info,0,0,0
+29,News,clarity,negative,no purpose,0,0,0
+29,News,clarity,negative,not enough info,0,0,0
+29,News,clarity,negative,too much info,0,0,0
+29,News,ignoreThis,ignoreThis,likes emphasis,0,0,0
+29,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+29,Tires,aesthetic,positive,likes color,1,0,0
+29,Tires,clarity,positive,clear color,1,0,0
+29,Tires,aesthetic,negative,disliked color,0,0,0
+29,Tires,aesthetic,negative,not enough colors,0,0,0
+29,Tires,aesthetic,negative,too many colors,0,0,0
+29,Tires,aesthetic,positive,likes aesthetic,0,0,0
+29,Tires,clarity,positive,easy to read,0,0,0
+29,Tires,professionalism,positive,professional,0,0,0
+29,Tires,aesthetic,negative,disliked aesthetic,0,0,0
+29,Tires,professionalism,negative,unprofessional,0,0,0
+29,Tires,aesthetic,negative,cluttered,0,0,0
+29,Tires,aesthetic,negative,boring,0,0,0
+29,Tires,clarity,positive,likes info,0,0,0
+29,Tires,clarity,positive,clear info,0,0,0
+29,Tires,clarity,positive,has purpose,0,0,0
+29,Tires,clarity,negative,disliked info,0,0,0
+29,Tires,clarity,negative,no purpose,0,0,0
+29,Tires,clarity,negative,not enough info,0,0,0
+29,Tires,clarity,negative,too much info,0,0,0
+29,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,1
+29,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+29,Holiday,aesthetic,positive,likes color,0,0,0
+29,Holiday,clarity,positive,clear color,0,0,0
+29,Holiday,aesthetic,negative,disliked color,0,0,0
+29,Holiday,aesthetic,negative,not enough colors,0,0,0
+29,Holiday,aesthetic,negative,too many colors,0,0,0
+29,Holiday,aesthetic,positive,likes aesthetic,1,0,0
+29,Holiday,clarity,positive,easy to read,1,0,0
+29,Holiday,professionalism,positive,professional,0,0,0
+29,Holiday,aesthetic,negative,disliked aesthetic,0,0,0
+29,Holiday,professionalism,negative,unprofessional,0,0,0
+29,Holiday,aesthetic,negative,cluttered,0,0,0
+29,Holiday,aesthetic,negative,boring,0,0,0
+29,Holiday,clarity,positive,likes info,1,0,0
+29,Holiday,clarity,positive,clear info,1,0,0
+29,Holiday,clarity,positive,has purpose,0,0,0
+29,Holiday,clarity,negative,disliked info,0,0,0
+29,Holiday,clarity,negative,no purpose,0,0,0
+29,Holiday,clarity,negative,not enough info,0,0,0
+29,Holiday,clarity,negative,too much info,0,0,0
+29,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,0
+29,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+29,Car,aesthetic,positive,likes color,0,0,0
+29,Car,clarity,positive,clear color,0,0,0
+29,Car,aesthetic,negative,disliked color,1,0,0
+29,Car,aesthetic,negative,not enough colors,0,0,0
+29,Car,aesthetic,negative,too many colors,0,0,0
+29,Car,aesthetic,positive,likes aesthetic,0,0,0
+29,Car,clarity,positive,easy to read,0,0,0
+29,Car,professionalism,positive,professional,0,0,0
+29,Car,aesthetic,negative,disliked aesthetic,0,0,0
+29,Car,professionalism,negative,unprofessional,0,0,0
+29,Car,aesthetic,negative,cluttered,0,0,0
+29,Car,aesthetic,negative,boring,0,0,0
+29,Car,clarity,positive,likes info,0,0,0
+29,Car,clarity,positive,clear info,0,0,0
+29,Car,clarity,positive,has purpose,0,0,0
+29,Car,clarity,negative,disliked info,0,0,0
+29,Car,clarity,negative,no purpose,0,0,0
+29,Car,clarity,negative,not enough info,0,0,0
+29,Car,clarity,negative,too much info,0,0,0
+29,Car,ignoreThis,ignoreThis,likes emphasis,0,0,0
+29,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+29,Plant,aesthetic,positive,likes color,0,0,0
+29,Plant,clarity,positive,clear color,0,0,0
+29,Plant,aesthetic,negative,disliked color,0,0,0
+29,Plant,aesthetic,negative,not enough colors,0,0,0
+29,Plant,aesthetic,negative,too many colors,0,0,0
+29,Plant,aesthetic,positive,likes aesthetic,0,0,0
+29,Plant,clarity,positive,easy to read,0,0,0
+29,Plant,professionalism,positive,professional,0,0,0
+29,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+29,Plant,professionalism,negative,unprofessional,0,0,0
+29,Plant,aesthetic,negative,cluttered,0,0,0
+29,Plant,aesthetic,negative,boring,0,0,0
+29,Plant,clarity,positive,likes info,0,0,0
+29,Plant,clarity,positive,clear info,0,0,0
+29,Plant,clarity,positive,has purpose,0,0,0
+29,Plant,clarity,negative,disliked info,0,0,0
+29,Plant,clarity,negative,no purpose,0,0,0
+29,Plant,clarity,negative,not enough info,0,0,0
+29,Plant,clarity,negative,too much info,0,0,0
+29,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+29,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+30,Prison,aesthetic,positive,likes color,0,0,0
+30,Prison,clarity,positive,clear color,0,0,0
+30,Prison,aesthetic,negative,disliked color,1,0,0
+30,Prison,aesthetic,negative,not enough colors,0,0,0
+30,Prison,aesthetic,negative,too many colors,0,0,0
+30,Prison,aesthetic,positive,likes aesthetic,0,0,0
+30,Prison,clarity,positive,easy to read,0,0,0
+30,Prison,professionalism,positive,professional,0,0,0
+30,Prison,aesthetic,negative,disliked aesthetic,1,0,1
+30,Prison,professionalism,negative,unprofessional,0,0,0
+30,Prison,aesthetic,negative,cluttered,0,0,0
+30,Prison,aesthetic,negative,boring,0,0,0
+30,Prison,clarity,positive,likes info,0,1,0
+30,Prison,clarity,positive,clear info,0,1,0
+30,Prison,clarity,positive,has purpose,0,0,0
+30,Prison,clarity,negative,disliked info,0,0,0
+30,Prison,clarity,negative,no purpose,0,0,0
+30,Prison,clarity,negative,not enough info,0,0,0
+30,Prison,clarity,negative,too much info,0,0,0
+30,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,0
+30,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,1
+30,News,aesthetic,positive,likes color,0,0,0
+30,News,clarity,positive,clear color,0,0,0
+30,News,aesthetic,negative,disliked color,0,0,0
+30,News,aesthetic,negative,not enough colors,0,0,0
+30,News,aesthetic,negative,too many colors,0,0,0
+30,News,aesthetic,positive,likes aesthetic,0,0,0
+30,News,clarity,positive,easy to read,0,0,0
+30,News,professionalism,positive,professional,0,0,0
+30,News,aesthetic,negative,disliked aesthetic,1,0,0
+30,News,professionalism,negative,unprofessional,0,0,0
+30,News,aesthetic,negative,cluttered,1,0,0
+30,News,aesthetic,negative,boring,0,0,0
+30,News,clarity,positive,likes info,1,1,1
+30,News,clarity,positive,clear info,0,0,0
+30,News,clarity,positive,has purpose,0,0,0
+30,News,clarity,negative,disliked info,0,0,0
+30,News,clarity,negative,no purpose,0,0,0
+30,News,clarity,negative,not enough info,0,0,0
+30,News,clarity,negative,too much info,0,0,0
+30,News,ignoreThis,ignoreThis,likes emphasis,0,0,1
+30,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+30,Tires,aesthetic,positive,likes color,0,0,0
+30,Tires,clarity,positive,clear color,0,0,0
+30,Tires,aesthetic,negative,disliked color,0,0,0
+30,Tires,aesthetic,negative,not enough colors,0,0,0
+30,Tires,aesthetic,negative,too many colors,0,0,0
+30,Tires,aesthetic,positive,likes aesthetic,1,0,0
+30,Tires,clarity,positive,easy to read,1,0,0
+30,Tires,professionalism,positive,professional,1,0,0
+30,Tires,aesthetic,negative,disliked aesthetic,1,0,0
+30,Tires,professionalism,negative,unprofessional,1,0,0
+30,Tires,aesthetic,negative,cluttered,0,0,0
+30,Tires,aesthetic,negative,boring,0,0,0
+30,Tires,clarity,positive,likes info,1,0,0
+30,Tires,clarity,positive,clear info,0,0,0
+30,Tires,clarity,positive,has purpose,0,0,0
+30,Tires,clarity,negative,disliked info,0,0,0
+30,Tires,clarity,negative,no purpose,0,0,0
+30,Tires,clarity,negative,not enough info,0,0,0
+30,Tires,clarity,negative,too much info,0,0,0
+30,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+30,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,1
+30,Holiday,aesthetic,positive,likes color,0,0,0
+30,Holiday,clarity,positive,clear color,0,0,0
+30,Holiday,aesthetic,negative,disliked color,0,0,0
+30,Holiday,aesthetic,negative,not enough colors,0,0,0
+30,Holiday,aesthetic,negative,too many colors,0,0,0
+30,Holiday,aesthetic,positive,likes aesthetic,0,0,0
+30,Holiday,clarity,positive,easy to read,0,0,0
+30,Holiday,professionalism,positive,professional,0,0,0
+30,Holiday,aesthetic,negative,disliked aesthetic,1,1,1
+30,Holiday,professionalism,negative,unprofessional,0,0,0
+30,Holiday,aesthetic,negative,cluttered,0,0,0
+30,Holiday,aesthetic,negative,boring,0,0,0
+30,Holiday,clarity,positive,likes info,0,0,0
+30,Holiday,clarity,positive,clear info,0,0,0
+30,Holiday,clarity,positive,has purpose,0,0,0
+30,Holiday,clarity,negative,disliked info,0,0,0
+30,Holiday,clarity,negative,no purpose,0,0,0
+30,Holiday,clarity,negative,not enough info,0,0,0
+30,Holiday,clarity,negative,too much info,0,0,0
+30,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,1
+30,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+30,Car,aesthetic,positive,likes color,0,0,0
+30,Car,clarity,positive,clear color,0,0,0
+30,Car,aesthetic,negative,disliked color,0,0,0
+30,Car,aesthetic,negative,not enough colors,0,0,0
+30,Car,aesthetic,negative,too many colors,0,0,0
+30,Car,aesthetic,positive,likes aesthetic,0,1,1
+30,Car,clarity,positive,easy to read,0,0,0
+30,Car,professionalism,positive,professional,0,0,0
+30,Car,aesthetic,negative,disliked aesthetic,1,0,0
+30,Car,professionalism,negative,unprofessional,0,0,0
+30,Car,aesthetic,negative,cluttered,0,0,0
+30,Car,aesthetic,negative,boring,0,0,0
+30,Car,clarity,positive,likes info,1,1,1
+30,Car,clarity,positive,clear info,1,1,1
+30,Car,clarity,positive,has purpose,0,0,0
+30,Car,clarity,negative,disliked info,0,0,0
+30,Car,clarity,negative,no purpose,0,0,0
+30,Car,clarity,negative,not enough info,0,0,0
+30,Car,clarity,negative,too much info,0,0,0
+30,Car,ignoreThis,ignoreThis,likes emphasis,0,0,0
+30,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+30,Plant,aesthetic,positive,likes color,0,0,0
+30,Plant,clarity,positive,clear color,0,0,0
+30,Plant,aesthetic,negative,disliked color,0,0,0
+30,Plant,aesthetic,negative,not enough colors,0,0,0
+30,Plant,aesthetic,negative,too many colors,0,0,0
+30,Plant,aesthetic,positive,likes aesthetic,0,0,0
+30,Plant,clarity,positive,easy to read,0,0,0
+30,Plant,professionalism,positive,professional,0,0,0
+30,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+30,Plant,professionalism,negative,unprofessional,0,0,0
+30,Plant,aesthetic,negative,cluttered,0,0,0
+30,Plant,aesthetic,negative,boring,0,0,0
+30,Plant,clarity,positive,likes info,0,0,0
+30,Plant,clarity,positive,clear info,0,0,0
+30,Plant,clarity,positive,has purpose,0,0,0
+30,Plant,clarity,negative,disliked info,0,0,0
+30,Plant,clarity,negative,no purpose,0,0,0
+30,Plant,clarity,negative,not enough info,0,0,0
+30,Plant,clarity,negative,too much info,0,0,0
+30,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+30,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+31,Prison,aesthetic,positive,likes color,0,0,0
+31,Prison,clarity,positive,clear color,0,0,0
+31,Prison,aesthetic,negative,disliked color,1,0,0
+31,Prison,aesthetic,negative,not enough colors,0,0,0
+31,Prison,aesthetic,negative,too many colors,0,0,0
+31,Prison,aesthetic,positive,likes aesthetic,0,1,1
+31,Prison,clarity,positive,easy to read,0,0,0
+31,Prison,professionalism,positive,professional,1,0,0
+31,Prison,aesthetic,negative,disliked aesthetic,1,0,0
+31,Prison,professionalism,negative,unprofessional,1,0,0
+31,Prison,aesthetic,negative,cluttered,1,0,0
+31,Prison,aesthetic,negative,boring,0,0,0
+31,Prison,clarity,positive,likes info,0,0,0
+31,Prison,clarity,positive,clear info,0,0,0
+31,Prison,clarity,positive,has purpose,0,0,0
+31,Prison,clarity,negative,disliked info,1,0,0
+31,Prison,clarity,negative,no purpose,0,0,0
+31,Prison,clarity,negative,not enough info,0,0,0
+31,Prison,clarity,negative,too much info,0,0,0
+31,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,1
+31,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+31,News,aesthetic,positive,likes color,0,0,0
+31,News,clarity,positive,clear color,0,0,0
+31,News,aesthetic,negative,disliked color,0,0,0
+31,News,aesthetic,negative,not enough colors,0,0,0
+31,News,aesthetic,negative,too many colors,0,0,0
+31,News,aesthetic,positive,likes aesthetic,0,1,1
+31,News,clarity,positive,easy to read,0,0,0
+31,News,professionalism,positive,professional,1,0,1
+31,News,aesthetic,negative,disliked aesthetic,1,0,0
+31,News,professionalism,negative,unprofessional,1,0,0
+31,News,aesthetic,negative,cluttered,1,0,0
+31,News,aesthetic,negative,boring,0,0,0
+31,News,clarity,positive,likes info,0,0,0
+31,News,clarity,positive,clear info,0,0,0
+31,News,clarity,positive,has purpose,0,0,0
+31,News,clarity,negative,disliked info,0,0,0
+31,News,clarity,negative,no purpose,0,0,0
+31,News,clarity,negative,not enough info,0,0,0
+31,News,clarity,negative,too much info,0,0,0
+31,News,ignoreThis,ignoreThis,likes emphasis,0,0,1
+31,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+31,Tires,aesthetic,positive,likes color,0,0,0
+31,Tires,clarity,positive,clear color,0,0,0
+31,Tires,aesthetic,negative,disliked color,0,0,0
+31,Tires,aesthetic,negative,not enough colors,0,0,0
+31,Tires,aesthetic,negative,too many colors,0,0,0
+31,Tires,aesthetic,positive,likes aesthetic,1,0,0
+31,Tires,clarity,positive,easy to read,0,0,0
+31,Tires,professionalism,positive,professional,0,0,0
+31,Tires,aesthetic,negative,disliked aesthetic,0,1,1
+31,Tires,professionalism,negative,unprofessional,0,0,0
+31,Tires,aesthetic,negative,cluttered,0,0,0
+31,Tires,aesthetic,negative,boring,0,0,0
+31,Tires,clarity,positive,likes info,1,0,0
+31,Tires,clarity,positive,clear info,1,0,0
+31,Tires,clarity,positive,has purpose,0,0,0
+31,Tires,clarity,negative,disliked info,0,1,1
+31,Tires,clarity,negative,no purpose,0,0,0
+31,Tires,clarity,negative,not enough info,0,0,0
+31,Tires,clarity,negative,too much info,0,0,0
+31,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,1
+31,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+31,Holiday,aesthetic,positive,likes color,1,0,1
+31,Holiday,clarity,positive,clear color,0,0,0
+31,Holiday,aesthetic,negative,disliked color,0,0,0
+31,Holiday,aesthetic,negative,not enough colors,0,0,0
+31,Holiday,aesthetic,negative,too many colors,0,0,0
+31,Holiday,aesthetic,positive,likes aesthetic,0,0,0
+31,Holiday,clarity,positive,easy to read,0,0,0
+31,Holiday,professionalism,positive,professional,1,0,1
+31,Holiday,aesthetic,negative,disliked aesthetic,1,1,1
+31,Holiday,professionalism,negative,unprofessional,1,0,1
+31,Holiday,aesthetic,negative,cluttered,0,0,0
+31,Holiday,aesthetic,negative,boring,0,0,0
+31,Holiday,clarity,positive,likes info,1,1,1
+31,Holiday,clarity,positive,clear info,1,1,1
+31,Holiday,clarity,positive,has purpose,0,0,0
+31,Holiday,clarity,negative,disliked info,0,0,0
+31,Holiday,clarity,negative,no purpose,0,0,0
+31,Holiday,clarity,negative,not enough info,0,0,0
+31,Holiday,clarity,negative,too much info,0,0,0
+31,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,1
+31,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+31,Car,aesthetic,positive,likes color,0,0,0
+31,Car,clarity,positive,clear color,0,0,0
+31,Car,aesthetic,negative,disliked color,1,0,0
+31,Car,aesthetic,negative,not enough colors,0,0,0
+31,Car,aesthetic,negative,too many colors,0,0,0
+31,Car,aesthetic,positive,likes aesthetic,0,1,1
+31,Car,clarity,positive,easy to read,0,0,0
+31,Car,professionalism,positive,professional,1,0,0
+31,Car,aesthetic,negative,disliked aesthetic,1,0,0
+31,Car,professionalism,negative,unprofessional,1,0,0
+31,Car,aesthetic,negative,cluttered,0,0,0
+31,Car,aesthetic,negative,boring,0,0,0
+31,Car,clarity,positive,likes info,0,0,1
+31,Car,clarity,positive,clear info,0,0,1
+31,Car,clarity,positive,has purpose,0,0,0
+31,Car,clarity,negative,disliked info,0,0,0
+31,Car,clarity,negative,no purpose,0,0,0
+31,Car,clarity,negative,not enough info,0,0,0
+31,Car,clarity,negative,too much info,0,0,0
+31,Car,ignoreThis,ignoreThis,likes emphasis,0,0,0
+31,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+31,Plant,aesthetic,positive,likes color,0,0,0
+31,Plant,clarity,positive,clear color,0,0,0
+31,Plant,aesthetic,negative,disliked color,0,0,0
+31,Plant,aesthetic,negative,not enough colors,0,0,0
+31,Plant,aesthetic,negative,too many colors,0,0,0
+31,Plant,aesthetic,positive,likes aesthetic,0,0,0
+31,Plant,clarity,positive,easy to read,0,0,0
+31,Plant,professionalism,positive,professional,0,0,0
+31,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+31,Plant,professionalism,negative,unprofessional,0,0,0
+31,Plant,aesthetic,negative,cluttered,0,0,0
+31,Plant,aesthetic,negative,boring,0,0,0
+31,Plant,clarity,positive,likes info,0,0,0
+31,Plant,clarity,positive,clear info,0,0,0
+31,Plant,clarity,positive,has purpose,0,0,0
+31,Plant,clarity,negative,disliked info,0,0,0
+31,Plant,clarity,negative,no purpose,0,0,0
+31,Plant,clarity,negative,not enough info,0,0,0
+31,Plant,clarity,negative,too much info,0,0,0
+31,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+31,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+32,Prison,aesthetic,positive,likes color,0,0,0
+32,Prison,clarity,positive,clear color,0,0,0
+32,Prison,aesthetic,negative,disliked color,1,0,0
+32,Prison,aesthetic,negative,not enough colors,0,0,0
+32,Prison,aesthetic,negative,too many colors,1,0,0
+32,Prison,aesthetic,positive,likes aesthetic,0,0,0
+32,Prison,clarity,positive,easy to read,0,0,0
+32,Prison,professionalism,positive,professional,0,0,0
+32,Prison,aesthetic,negative,disliked aesthetic,0,0,0
+32,Prison,professionalism,negative,unprofessional,0,0,0
+32,Prison,aesthetic,negative,cluttered,0,0,0
+32,Prison,aesthetic,negative,boring,0,0,0
+32,Prison,clarity,positive,likes info,1,1,1
+32,Prison,clarity,positive,clear info,1,1,1
+32,Prison,clarity,positive,has purpose,0,0,1
+32,Prison,clarity,negative,disliked info,0,0,0
+32,Prison,clarity,negative,no purpose,0,0,0
+32,Prison,clarity,negative,not enough info,0,0,0
+32,Prison,clarity,negative,too much info,0,0,0
+32,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,1
+32,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+32,News,aesthetic,positive,likes color,0,0,0
+32,News,clarity,positive,clear color,0,0,0
+32,News,aesthetic,negative,disliked color,1,0,0
+32,News,aesthetic,negative,not enough colors,0,0,0
+32,News,aesthetic,negative,too many colors,1,0,0
+32,News,aesthetic,positive,likes aesthetic,0,0,0
+32,News,clarity,positive,easy to read,0,0,0
+32,News,professionalism,positive,professional,0,0,0
+32,News,aesthetic,negative,disliked aesthetic,1,0,0
+32,News,professionalism,negative,unprofessional,0,0,0
+32,News,aesthetic,negative,cluttered,1,0,0
+32,News,aesthetic,negative,boring,0,0,0
+32,News,clarity,positive,likes info,0,1,1
+32,News,clarity,positive,clear info,0,0,0
+32,News,clarity,positive,has purpose,0,0,1
+32,News,clarity,negative,disliked info,1,1,1
+32,News,clarity,negative,no purpose,0,0,0
+32,News,clarity,negative,not enough info,0,1,1
+32,News,clarity,negative,too much info,1,0,0
+32,News,ignoreThis,ignoreThis,likes emphasis,0,0,0
+32,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+32,Tires,aesthetic,positive,likes color,0,0,0
+32,Tires,clarity,positive,clear color,0,0,0
+32,Tires,aesthetic,negative,disliked color,1,0,0
+32,Tires,aesthetic,negative,not enough colors,0,0,0
+32,Tires,aesthetic,negative,too many colors,0,0,0
+32,Tires,aesthetic,positive,likes aesthetic,0,0,0
+32,Tires,clarity,positive,easy to read,0,0,0
+32,Tires,professionalism,positive,professional,0,0,0
+32,Tires,aesthetic,negative,disliked aesthetic,1,0,0
+32,Tires,professionalism,negative,unprofessional,0,0,0
+32,Tires,aesthetic,negative,cluttered,1,0,0
+32,Tires,aesthetic,negative,boring,0,0,0
+32,Tires,clarity,positive,likes info,1,0,0
+32,Tires,clarity,positive,clear info,0,0,0
+32,Tires,clarity,positive,has purpose,0,0,0
+32,Tires,clarity,negative,disliked info,0,1,1
+32,Tires,clarity,negative,no purpose,0,0,0
+32,Tires,clarity,negative,not enough info,0,1,1
+32,Tires,clarity,negative,too much info,0,0,0
+32,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,0
+32,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+32,Holiday,aesthetic,positive,likes color,0,0,1
+32,Holiday,clarity,positive,clear color,0,0,0
+32,Holiday,aesthetic,negative,disliked color,1,0,0
+32,Holiday,aesthetic,negative,not enough colors,0,0,0
+32,Holiday,aesthetic,negative,too many colors,0,0,0
+32,Holiday,aesthetic,positive,likes aesthetic,0,0,0
+32,Holiday,clarity,positive,easy to read,0,0,0
+32,Holiday,professionalism,positive,professional,0,0,0
+32,Holiday,aesthetic,negative,disliked aesthetic,1,0,0
+32,Holiday,professionalism,negative,unprofessional,0,0,0
+32,Holiday,aesthetic,negative,cluttered,1,0,0
+32,Holiday,aesthetic,negative,boring,0,0,0
+32,Holiday,clarity,positive,likes info,1,1,1
+32,Holiday,clarity,positive,clear info,1,1,1
+32,Holiday,clarity,positive,has purpose,0,0,0
+32,Holiday,clarity,negative,disliked info,0,1,1
+32,Holiday,clarity,negative,no purpose,0,0,0
+32,Holiday,clarity,negative,not enough info,0,1,1
+32,Holiday,clarity,negative,too much info,0,0,0
+32,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,0
+32,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+32,Car,aesthetic,positive,likes color,0,0,0
+32,Car,clarity,positive,clear color,0,0,0
+32,Car,aesthetic,negative,disliked color,1,0,0
+32,Car,aesthetic,negative,not enough colors,0,0,0
+32,Car,aesthetic,negative,too many colors,0,0,0
+32,Car,aesthetic,positive,likes aesthetic,0,0,0
+32,Car,clarity,positive,easy to read,0,0,0
+32,Car,professionalism,positive,professional,0,0,0
+32,Car,aesthetic,negative,disliked aesthetic,1,0,0
+32,Car,professionalism,negative,unprofessional,0,0,0
+32,Car,aesthetic,negative,cluttered,1,0,0
+32,Car,aesthetic,negative,boring,0,0,0
+32,Car,clarity,positive,likes info,0,1,0
+32,Car,clarity,positive,clear info,0,0,0
+32,Car,clarity,positive,has purpose,0,0,0
+32,Car,clarity,negative,disliked info,1,1,1
+32,Car,clarity,negative,no purpose,0,0,0
+32,Car,clarity,negative,not enough info,1,1,1
+32,Car,clarity,negative,too much info,0,0,0
+32,Car,ignoreThis,ignoreThis,likes emphasis,0,0,1
+32,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+32,Plant,aesthetic,positive,likes color,0,0,0
+32,Plant,clarity,positive,clear color,0,0,0
+32,Plant,aesthetic,negative,disliked color,0,0,0
+32,Plant,aesthetic,negative,not enough colors,0,0,0
+32,Plant,aesthetic,negative,too many colors,0,0,0
+32,Plant,aesthetic,positive,likes aesthetic,0,0,0
+32,Plant,clarity,positive,easy to read,0,0,0
+32,Plant,professionalism,positive,professional,0,0,0
+32,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+32,Plant,professionalism,negative,unprofessional,0,0,0
+32,Plant,aesthetic,negative,cluttered,0,0,0
+32,Plant,aesthetic,negative,boring,0,0,0
+32,Plant,clarity,positive,likes info,0,0,0
+32,Plant,clarity,positive,clear info,0,0,0
+32,Plant,clarity,positive,has purpose,0,0,0
+32,Plant,clarity,negative,disliked info,0,0,0
+32,Plant,clarity,negative,no purpose,0,0,0
+32,Plant,clarity,negative,not enough info,0,0,0
+32,Plant,clarity,negative,too much info,0,0,0
+32,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+32,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+33,Prison,aesthetic,positive,likes color,0,0,0
+33,Prison,clarity,positive,clear color,0,0,0
+33,Prison,aesthetic,negative,disliked color,0,0,1
+33,Prison,aesthetic,negative,not enough colors,0,0,0
+33,Prison,aesthetic,negative,too many colors,0,0,0
+33,Prison,aesthetic,positive,likes aesthetic,0,1,1
+33,Prison,clarity,positive,easy to read,0,0,0
+33,Prison,professionalism,positive,professional,1,0,0
+33,Prison,aesthetic,negative,disliked aesthetic,1,0,1
+33,Prison,professionalism,negative,unprofessional,1,0,0
+33,Prison,aesthetic,negative,cluttered,0,0,0
+33,Prison,aesthetic,negative,boring,0,0,0
+33,Prison,clarity,positive,likes info,0,0,0
+33,Prison,clarity,positive,clear info,0,0,0
+33,Prison,clarity,positive,has purpose,0,0,0
+33,Prison,clarity,negative,disliked info,0,0,0
+33,Prison,clarity,negative,no purpose,0,0,0
+33,Prison,clarity,negative,not enough info,0,0,0
+33,Prison,clarity,negative,too much info,0,0,0
+33,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,0
+33,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,1
+33,News,aesthetic,positive,likes color,1,0,0
+33,News,clarity,positive,clear color,0,0,0
+33,News,aesthetic,negative,disliked color,1,0,0
+33,News,aesthetic,negative,not enough colors,0,0,0
+33,News,aesthetic,negative,too many colors,0,0,0
+33,News,aesthetic,positive,likes aesthetic,0,0,0
+33,News,clarity,positive,easy to read,0,0,0
+33,News,professionalism,positive,professional,0,0,0
+33,News,aesthetic,negative,disliked aesthetic,1,0,0
+33,News,professionalism,negative,unprofessional,0,0,0
+33,News,aesthetic,negative,cluttered,0,0,0
+33,News,aesthetic,negative,boring,0,0,0
+33,News,clarity,positive,likes info,0,1,0
+33,News,clarity,positive,clear info,0,1,0
+33,News,clarity,positive,has purpose,0,0,0
+33,News,clarity,negative,disliked info,1,0,0
+33,News,clarity,negative,no purpose,0,0,0
+33,News,clarity,negative,not enough info,0,0,0
+33,News,clarity,negative,too much info,1,0,0
+33,News,ignoreThis,ignoreThis,likes emphasis,0,0,1
+33,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+33,Tires,aesthetic,positive,likes color,0,0,0
+33,Tires,clarity,positive,clear color,0,0,0
+33,Tires,aesthetic,negative,disliked color,0,0,0
+33,Tires,aesthetic,negative,not enough colors,0,0,0
+33,Tires,aesthetic,negative,too many colors,0,0,0
+33,Tires,aesthetic,positive,likes aesthetic,1,0,0
+33,Tires,clarity,positive,easy to read,0,0,0
+33,Tires,professionalism,positive,professional,0,0,0
+33,Tires,aesthetic,negative,disliked aesthetic,0,0,0
+33,Tires,professionalism,negative,unprofessional,0,0,0
+33,Tires,aesthetic,negative,cluttered,0,0,0
+33,Tires,aesthetic,negative,boring,0,0,0
+33,Tires,clarity,positive,likes info,0,0,0
+33,Tires,clarity,positive,clear info,0,0,0
+33,Tires,clarity,positive,has purpose,0,0,0
+33,Tires,clarity,negative,disliked info,1,0,0
+33,Tires,clarity,negative,no purpose,0,0,0
+33,Tires,clarity,negative,not enough info,0,0,0
+33,Tires,clarity,negative,too much info,1,0,0
+33,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,1
+33,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+33,Holiday,aesthetic,positive,likes color,1,0,0
+33,Holiday,clarity,positive,clear color,0,0,0
+33,Holiday,aesthetic,negative,disliked color,0,0,1
+33,Holiday,aesthetic,negative,not enough colors,0,0,0
+33,Holiday,aesthetic,negative,too many colors,0,0,0
+33,Holiday,aesthetic,positive,likes aesthetic,0,0,0
+33,Holiday,clarity,positive,easy to read,0,0,0
+33,Holiday,professionalism,positive,professional,0,0,0
+33,Holiday,aesthetic,negative,disliked aesthetic,1,1,0
+33,Holiday,professionalism,negative,unprofessional,0,0,0
+33,Holiday,aesthetic,negative,cluttered,0,0,0
+33,Holiday,aesthetic,negative,boring,0,1,0
+33,Holiday,clarity,positive,likes info,0,0,0
+33,Holiday,clarity,positive,clear info,0,0,0
+33,Holiday,clarity,positive,has purpose,0,0,0
+33,Holiday,clarity,negative,disliked info,0,0,1
+33,Holiday,clarity,negative,no purpose,0,0,0
+33,Holiday,clarity,negative,not enough info,0,0,0
+33,Holiday,clarity,negative,too much info,0,0,0
+33,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,1
+33,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+33,Car,aesthetic,positive,likes color,0,1,0
+33,Car,clarity,positive,clear color,0,0,0
+33,Car,aesthetic,negative,disliked color,1,0,1
+33,Car,aesthetic,negative,not enough colors,0,0,0
+33,Car,aesthetic,negative,too many colors,0,0,0
+33,Car,aesthetic,positive,likes aesthetic,0,0,1
+33,Car,clarity,positive,easy to read,0,0,0
+33,Car,professionalism,positive,professional,0,0,1
+33,Car,aesthetic,negative,disliked aesthetic,1,1,0
+33,Car,professionalism,negative,unprofessional,0,0,0
+33,Car,aesthetic,negative,cluttered,0,0,0
+33,Car,aesthetic,negative,boring,0,1,0
+33,Car,clarity,positive,likes info,0,0,0
+33,Car,clarity,positive,clear info,0,0,0
+33,Car,clarity,positive,has purpose,0,0,0
+33,Car,clarity,negative,disliked info,0,0,0
+33,Car,clarity,negative,no purpose,0,0,0
+33,Car,clarity,negative,not enough info,0,0,0
+33,Car,clarity,negative,too much info,0,0,0
+33,Car,ignoreThis,ignoreThis,likes emphasis,0,0,1
+33,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+33,Plant,aesthetic,positive,likes color,0,0,0
+33,Plant,clarity,positive,clear color,0,0,0
+33,Plant,aesthetic,negative,disliked color,0,0,0
+33,Plant,aesthetic,negative,not enough colors,0,0,0
+33,Plant,aesthetic,negative,too many colors,0,0,0
+33,Plant,aesthetic,positive,likes aesthetic,0,0,0
+33,Plant,clarity,positive,easy to read,0,0,0
+33,Plant,professionalism,positive,professional,0,0,0
+33,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+33,Plant,professionalism,negative,unprofessional,0,0,0
+33,Plant,aesthetic,negative,cluttered,0,0,0
+33,Plant,aesthetic,negative,boring,0,0,0
+33,Plant,clarity,positive,likes info,0,0,0
+33,Plant,clarity,positive,clear info,0,0,0
+33,Plant,clarity,positive,has purpose,0,0,0
+33,Plant,clarity,negative,disliked info,0,0,0
+33,Plant,clarity,negative,no purpose,0,0,0
+33,Plant,clarity,negative,not enough info,0,0,0
+33,Plant,clarity,negative,too much info,0,0,0
+33,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+33,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+34,Prison,aesthetic,positive,likes color,0,0,0
+34,Prison,clarity,positive,clear color,0,0,0
+34,Prison,aesthetic,negative,disliked color,0,1,0
+34,Prison,aesthetic,negative,not enough colors,0,1,0
+34,Prison,aesthetic,negative,too many colors,0,0,0
+34,Prison,aesthetic,positive,likes aesthetic,0,0,0
+34,Prison,clarity,positive,easy to read,0,0,0
+34,Prison,professionalism,positive,professional,0,0,0
+34,Prison,aesthetic,negative,disliked aesthetic,1,0,0
+34,Prison,professionalism,negative,unprofessional,0,0,0
+34,Prison,aesthetic,negative,cluttered,1,0,0
+34,Prison,aesthetic,negative,boring,0,0,0
+34,Prison,clarity,positive,likes info,0,1,1
+34,Prison,clarity,positive,clear info,0,1,1
+34,Prison,clarity,positive,has purpose,0,0,0
+34,Prison,clarity,negative,disliked info,0,0,0
+34,Prison,clarity,negative,no purpose,0,0,0
+34,Prison,clarity,negative,not enough info,0,0,0
+34,Prison,clarity,negative,too much info,0,0,0
+34,Prison,ignoreThis,ignoreThis,likes emphasis,0,0,0
+34,Prison,ignoreThis,ignoreThis,disliked emphasis,0,0,1
+34,News,aesthetic,positive,likes color,0,0,1
+34,News,clarity,positive,clear color,0,0,0
+34,News,aesthetic,negative,disliked color,0,0,0
+34,News,aesthetic,negative,not enough colors,0,0,0
+34,News,aesthetic,negative,too many colors,0,0,0
+34,News,aesthetic,positive,likes aesthetic,0,0,1
+34,News,clarity,positive,easy to read,0,0,0
+34,News,professionalism,positive,professional,0,0,0
+34,News,aesthetic,negative,disliked aesthetic,0,0,0
+34,News,professionalism,negative,unprofessional,0,0,0
+34,News,aesthetic,negative,cluttered,0,0,0
+34,News,aesthetic,negative,boring,0,0,0
+34,News,clarity,positive,likes info,1,1,0
+34,News,clarity,positive,clear info,0,1,0
+34,News,clarity,positive,has purpose,0,0,0
+34,News,clarity,negative,disliked info,1,1,0
+34,News,clarity,negative,no purpose,0,1,0
+34,News,clarity,negative,not enough info,0,0,0
+34,News,clarity,negative,too much info,1,0,0
+34,News,ignoreThis,ignoreThis,likes emphasis,0,0,1
+34,News,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+34,Tires,aesthetic,positive,likes color,0,0,0
+34,Tires,clarity,positive,clear color,0,0,0
+34,Tires,aesthetic,negative,disliked color,0,0,0
+34,Tires,aesthetic,negative,not enough colors,0,0,0
+34,Tires,aesthetic,negative,too many colors,0,0,0
+34,Tires,aesthetic,positive,likes aesthetic,0,0,0
+34,Tires,clarity,positive,easy to read,0,0,0
+34,Tires,professionalism,positive,professional,0,0,0
+34,Tires,aesthetic,negative,disliked aesthetic,1,0,0
+34,Tires,professionalism,negative,unprofessional,0,0,0
+34,Tires,aesthetic,negative,cluttered,1,0,0
+34,Tires,aesthetic,negative,boring,0,0,0
+34,Tires,clarity,positive,likes info,1,0,0
+34,Tires,clarity,positive,clear info,0,0,0
+34,Tires,clarity,positive,has purpose,0,0,0
+34,Tires,clarity,negative,disliked info,0,1,0
+34,Tires,clarity,negative,no purpose,0,1,0
+34,Tires,clarity,negative,not enough info,0,0,0
+34,Tires,clarity,negative,too much info,0,0,0
+34,Tires,ignoreThis,ignoreThis,likes emphasis,0,0,1
+34,Tires,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+34,Holiday,aesthetic,positive,likes color,0,0,0
+34,Holiday,clarity,positive,clear color,0,0,0
+34,Holiday,aesthetic,negative,disliked color,1,0,1
+34,Holiday,aesthetic,negative,not enough colors,0,0,0
+34,Holiday,aesthetic,negative,too many colors,0,0,0
+34,Holiday,aesthetic,positive,likes aesthetic,0,0,0
+34,Holiday,clarity,positive,easy to read,0,0,0
+34,Holiday,professionalism,positive,professional,1,0,1
+34,Holiday,aesthetic,negative,disliked aesthetic,1,0,1
+34,Holiday,professionalism,negative,unprofessional,1,0,1
+34,Holiday,aesthetic,negative,cluttered,0,0,0
+34,Holiday,aesthetic,negative,boring,0,0,0
+34,Holiday,clarity,positive,likes info,0,0,0
+34,Holiday,clarity,positive,clear info,0,0,0
+34,Holiday,clarity,positive,has purpose,0,0,0
+34,Holiday,clarity,negative,disliked info,0,0,0
+34,Holiday,clarity,negative,no purpose,0,0,0
+34,Holiday,clarity,negative,not enough info,0,0,0
+34,Holiday,clarity,negative,too much info,0,0,0
+34,Holiday,ignoreThis,ignoreThis,likes emphasis,0,0,1
+34,Holiday,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+34,Car,aesthetic,positive,likes color,0,0,0
+34,Car,clarity,positive,clear color,0,0,0
+34,Car,aesthetic,negative,disliked color,1,1,0
+34,Car,aesthetic,negative,not enough colors,0,1,0
+34,Car,aesthetic,negative,too many colors,0,0,0
+34,Car,aesthetic,positive,likes aesthetic,0,1,1
+34,Car,clarity,positive,easy to read,0,0,0
+34,Car,professionalism,positive,professional,0,1,1
+34,Car,aesthetic,negative,disliked aesthetic,0,0,0
+34,Car,professionalism,negative,unprofessional,0,0,0
+34,Car,aesthetic,negative,cluttered,0,0,0
+34,Car,aesthetic,negative,boring,0,0,0
+34,Car,clarity,positive,likes info,0,0,0
+34,Car,clarity,positive,clear info,0,0,0
+34,Car,clarity,positive,has purpose,0,0,0
+34,Car,clarity,negative,disliked info,1,0,0
+34,Car,clarity,negative,no purpose,0,0,0
+34,Car,clarity,negative,not enough info,1,0,0
+34,Car,clarity,negative,too much info,0,0,0
+34,Car,ignoreThis,ignoreThis,likes emphasis,0,0,0
+34,Car,ignoreThis,ignoreThis,disliked emphasis,0,0,1
+34,Plant,aesthetic,positive,likes color,0,0,0
+34,Plant,clarity,positive,clear color,0,0,0
+34,Plant,aesthetic,negative,disliked color,0,0,0
+34,Plant,aesthetic,negative,not enough colors,0,0,0
+34,Plant,aesthetic,negative,too many colors,0,0,0
+34,Plant,aesthetic,positive,likes aesthetic,0,0,0
+34,Plant,clarity,positive,easy to read,0,0,0
+34,Plant,professionalism,positive,professional,0,0,0
+34,Plant,aesthetic,negative,disliked aesthetic,0,0,0
+34,Plant,professionalism,negative,unprofessional,0,0,0
+34,Plant,aesthetic,negative,cluttered,0,0,0
+34,Plant,aesthetic,negative,boring,0,0,0
+34,Plant,clarity,positive,likes info,0,0,0
+34,Plant,clarity,positive,clear info,0,0,0
+34,Plant,clarity,positive,has purpose,0,0,0
+34,Plant,clarity,negative,disliked info,0,0,0
+34,Plant,clarity,negative,no purpose,0,0,0
+34,Plant,clarity,negative,not enough info,0,0,0
+34,Plant,clarity,negative,too much info,0,0,0
+34,Plant,ignoreThis,ignoreThis,likes emphasis,0,0,0
+34,Plant,ignoreThis,ignoreThis,disliked emphasis,0,0,0
+1,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+1,Prison,clarity,positive,emphasis clear,0,0,0
+1,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+1,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,1
+1,Prison,clarity,negative,emphasis unclear,0,0,0
+1,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+1,News,aesthetic,positive,emphasis likes aesthetic,0,0,1
+1,News,clarity,positive,emphasis clear,0,0,1
+1,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+1,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+1,News,clarity,negative,emphasis unclear,0,0,0
+1,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+1,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+1,Tires,clarity,positive,emphasis clear,0,0,0
+1,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+1,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+1,Tires,clarity,negative,emphasis unclear,0,0,0
+1,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+1,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+1,Holiday,clarity,positive,emphasis clear,0,0,0
+1,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+1,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+1,Holiday,clarity,negative,emphasis unclear,0,0,0
+1,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+1,Car,aesthetic,positive,emphasis likes aesthetic,0,0,1
+1,Car,clarity,positive,emphasis clear,0,0,1
+1,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+1,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+1,Car,clarity,negative,emphasis unclear,0,0,0
+1,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+1,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+1,Plant,clarity,positive,emphasis clear,0,0,0
+1,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+1,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+1,Plant,clarity,negative,emphasis unclear,0,0,0
+1,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+2,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,1
+2,Prison,clarity,positive,emphasis clear,0,0,1
+2,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+2,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+2,Prison,clarity,negative,emphasis unclear,0,0,0
+2,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+2,News,aesthetic,positive,emphasis likes aesthetic,0,0,1
+2,News,clarity,positive,emphasis clear,0,0,1
+2,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+2,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+2,News,clarity,negative,emphasis unclear,0,0,0
+2,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+2,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+2,Tires,clarity,positive,emphasis clear,0,0,0
+2,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+2,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+2,Tires,clarity,negative,emphasis unclear,0,0,0
+2,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+2,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+2,Holiday,clarity,positive,emphasis clear,0,0,0
+2,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+2,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+2,Holiday,clarity,negative,emphasis unclear,0,0,0
+2,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+2,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+2,Car,clarity,positive,emphasis clear,0,0,0
+2,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+2,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+2,Car,clarity,negative,emphasis unclear,0,0,0
+2,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+2,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+2,Plant,clarity,positive,emphasis clear,0,0,0
+2,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+2,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+2,Plant,clarity,negative,emphasis unclear,0,0,0
+2,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+4,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+4,Prison,clarity,positive,emphasis clear,0,0,0
+4,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+4,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+4,Prison,clarity,negative,emphasis unclear,0,0,0
+4,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+4,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+4,News,clarity,positive,emphasis clear,0,0,1
+4,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+4,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+4,News,clarity,negative,emphasis unclear,0,0,0
+4,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+4,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+4,Tires,clarity,positive,emphasis clear,0,0,0
+4,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+4,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+4,Tires,clarity,negative,emphasis unclear,0,0,0
+4,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+4,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+4,Holiday,clarity,positive,emphasis clear,0,0,0
+4,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+4,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,1
+4,Holiday,clarity,negative,emphasis unclear,0,0,0
+4,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+4,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+4,Car,clarity,positive,emphasis clear,0,0,0
+4,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+4,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,1
+4,Car,clarity,negative,emphasis unclear,0,0,1
+4,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+4,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+4,Plant,clarity,positive,emphasis clear,0,0,0
+4,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+4,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+4,Plant,clarity,negative,emphasis unclear,0,0,0
+4,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+5,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+5,Prison,clarity,positive,emphasis clear,0,0,0
+5,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+5,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+5,Prison,clarity,negative,emphasis unclear,0,0,0
+5,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+5,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+5,News,clarity,positive,emphasis clear,0,0,0
+5,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+5,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+5,News,clarity,negative,emphasis unclear,0,0,0
+5,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+5,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+5,Tires,clarity,positive,emphasis clear,0,0,0
+5,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+5,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+5,Tires,clarity,negative,emphasis unclear,0,0,0
+5,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+5,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,1
+5,Holiday,clarity,positive,emphasis clear,0,0,1
+5,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+5,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+5,Holiday,clarity,negative,emphasis unclear,0,0,0
+5,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+5,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+5,Car,clarity,positive,emphasis clear,0,0,0
+5,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+5,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+5,Car,clarity,negative,emphasis unclear,0,0,0
+5,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+5,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+5,Plant,clarity,positive,emphasis clear,0,0,0
+5,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+5,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+5,Plant,clarity,negative,emphasis unclear,0,0,0
+5,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+7,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+7,Prison,clarity,positive,emphasis clear,0,0,0
+7,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+7,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+7,Prison,clarity,negative,emphasis unclear,0,0,0
+7,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+7,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+7,News,clarity,positive,emphasis clear,0,0,0
+7,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+7,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+7,News,clarity,negative,emphasis unclear,0,0,0
+7,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+7,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+7,Tires,clarity,positive,emphasis clear,0,0,0
+7,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+7,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+7,Tires,clarity,negative,emphasis unclear,0,0,0
+7,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+7,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+7,Holiday,clarity,positive,emphasis clear,0,0,1
+7,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+7,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+7,Holiday,clarity,negative,emphasis unclear,0,0,0
+7,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+7,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+7,Car,clarity,positive,emphasis clear,0,0,0
+7,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+7,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+7,Car,clarity,negative,emphasis unclear,0,0,0
+7,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+7,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+7,Plant,clarity,positive,emphasis clear,0,0,0
+7,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+7,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+7,Plant,clarity,negative,emphasis unclear,0,0,0
+7,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+8,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+8,Prison,clarity,positive,emphasis clear,0,0,1
+8,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+8,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+8,Prison,clarity,negative,emphasis unclear,0,0,0
+8,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+8,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+8,News,clarity,positive,emphasis clear,0,0,1
+8,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+8,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+8,News,clarity,negative,emphasis unclear,0,0,0
+8,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+8,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,1
+8,Tires,clarity,positive,emphasis clear,0,0,1
+8,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+8,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+8,Tires,clarity,negative,emphasis unclear,0,0,0
+8,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+8,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+8,Holiday,clarity,positive,emphasis clear,0,0,1
+8,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+8,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+8,Holiday,clarity,negative,emphasis unclear,0,0,0
+8,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+8,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+8,Car,clarity,positive,emphasis clear,0,0,0
+8,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+8,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+8,Car,clarity,negative,emphasis unclear,0,0,0
+8,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+8,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+8,Plant,clarity,positive,emphasis clear,0,0,0
+8,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+8,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+8,Plant,clarity,negative,emphasis unclear,0,0,0
+8,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+9,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+9,Prison,clarity,positive,emphasis clear,0,0,0
+9,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+9,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+9,Prison,clarity,negative,emphasis unclear,0,0,0
+9,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+9,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+9,News,clarity,positive,emphasis clear,0,0,0
+9,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+9,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+9,News,clarity,negative,emphasis unclear,0,0,0
+9,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+9,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+9,Tires,clarity,positive,emphasis clear,0,0,0
+9,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+9,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+9,Tires,clarity,negative,emphasis unclear,0,0,0
+9,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+9,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+9,Holiday,clarity,positive,emphasis clear,0,0,0
+9,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+9,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+9,Holiday,clarity,negative,emphasis unclear,0,0,0
+9,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+9,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+9,Car,clarity,positive,emphasis clear,0,0,0
+9,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+9,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+9,Car,clarity,negative,emphasis unclear,0,0,0
+9,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+9,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+9,Plant,clarity,positive,emphasis clear,0,0,0
+9,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+9,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+9,Plant,clarity,negative,emphasis unclear,0,0,0
+9,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+10,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+10,Prison,clarity,positive,emphasis clear,0,0,1
+10,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+10,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+10,Prison,clarity,negative,emphasis unclear,0,0,0
+10,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,1
+10,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+10,News,clarity,positive,emphasis clear,0,0,1
+10,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+10,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+10,News,clarity,negative,emphasis unclear,0,0,0
+10,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+10,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+10,Tires,clarity,positive,emphasis clear,0,0,1
+10,Tires,trustworthiness,positive,emphasis trustworthy,0,0,1
+10,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+10,Tires,clarity,negative,emphasis unclear,0,0,0
+10,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+10,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+10,Holiday,clarity,positive,emphasis clear,0,0,1
+10,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+10,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+10,Holiday,clarity,negative,emphasis unclear,0,0,0
+10,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+10,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+10,Car,clarity,positive,emphasis clear,0,0,0
+10,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+10,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+10,Car,clarity,negative,emphasis unclear,0,0,0
+10,Car,trustworthiness,negative,emphasis untrustworthy,0,0,1
+10,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+10,Plant,clarity,positive,emphasis clear,0,0,0
+10,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+10,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+10,Plant,clarity,negative,emphasis unclear,0,0,0
+10,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+11,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,1
+11,Prison,clarity,positive,emphasis clear,0,0,1
+11,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+11,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+11,Prison,clarity,negative,emphasis unclear,0,0,0
+11,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+11,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+11,News,clarity,positive,emphasis clear,0,0,1
+11,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+11,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+11,News,clarity,negative,emphasis unclear,0,0,0
+11,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+11,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+11,Tires,clarity,positive,emphasis clear,0,0,0
+11,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+11,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+11,Tires,clarity,negative,emphasis unclear,0,0,0
+11,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+11,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,1
+11,Holiday,clarity,positive,emphasis clear,0,0,1
+11,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+11,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+11,Holiday,clarity,negative,emphasis unclear,0,0,0
+11,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+11,Car,aesthetic,positive,emphasis likes aesthetic,0,0,1
+11,Car,clarity,positive,emphasis clear,0,0,1
+11,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+11,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+11,Car,clarity,negative,emphasis unclear,0,0,0
+11,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+11,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+11,Plant,clarity,positive,emphasis clear,0,0,0
+11,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+11,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+11,Plant,clarity,negative,emphasis unclear,0,0,0
+11,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+12,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+12,Prison,clarity,positive,emphasis clear,0,0,0
+12,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+12,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+12,Prison,clarity,negative,emphasis unclear,0,0,0
+12,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+12,News,aesthetic,positive,emphasis likes aesthetic,0,0,1
+12,News,clarity,positive,emphasis clear,0,0,1
+12,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+12,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+12,News,clarity,negative,emphasis unclear,0,0,0
+12,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+12,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+12,Tires,clarity,positive,emphasis clear,0,0,0
+12,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+12,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+12,Tires,clarity,negative,emphasis unclear,0,0,0
+12,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+12,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+12,Holiday,clarity,positive,emphasis clear,0,0,0
+12,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+12,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+12,Holiday,clarity,negative,emphasis unclear,0,0,0
+12,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+12,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+12,Car,clarity,positive,emphasis clear,0,0,0
+12,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+12,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+12,Car,clarity,negative,emphasis unclear,0,0,0
+12,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+12,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+12,Plant,clarity,positive,emphasis clear,0,0,0
+12,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+12,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+12,Plant,clarity,negative,emphasis unclear,0,0,0
+12,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+14,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+14,Prison,clarity,positive,emphasis clear,0,0,0
+14,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+14,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+14,Prison,clarity,negative,emphasis unclear,0,0,0
+14,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+14,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+14,News,clarity,positive,emphasis clear,0,0,1
+14,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+14,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+14,News,clarity,negative,emphasis unclear,0,0,0
+14,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+14,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+14,Tires,clarity,positive,emphasis clear,0,0,0
+14,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+14,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+14,Tires,clarity,negative,emphasis unclear,0,0,0
+14,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+14,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+14,Holiday,clarity,positive,emphasis clear,0,0,0
+14,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+14,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+14,Holiday,clarity,negative,emphasis unclear,0,0,0
+14,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+14,Car,aesthetic,positive,emphasis likes aesthetic,0,0,1
+14,Car,clarity,positive,emphasis clear,0,0,1
+14,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+14,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+14,Car,clarity,negative,emphasis unclear,0,0,0
+14,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+14,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+14,Plant,clarity,positive,emphasis clear,0,0,0
+14,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+14,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+14,Plant,clarity,negative,emphasis unclear,0,0,0
+14,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+15,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+15,Prison,clarity,positive,emphasis clear,0,0,1
+15,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+15,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+15,Prison,clarity,negative,emphasis unclear,0,0,0
+15,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,1
+15,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+15,News,clarity,positive,emphasis clear,0,0,1
+15,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+15,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+15,News,clarity,negative,emphasis unclear,0,0,0
+15,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+15,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+15,Tires,clarity,positive,emphasis clear,0,0,0
+15,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+15,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+15,Tires,clarity,negative,emphasis unclear,0,0,0
+15,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+15,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+15,Holiday,clarity,positive,emphasis clear,0,0,1
+15,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+15,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,1
+15,Holiday,clarity,negative,emphasis unclear,0,0,0
+15,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+15,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+15,Car,clarity,positive,emphasis clear,0,0,1
+15,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+15,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+15,Car,clarity,negative,emphasis unclear,0,0,0
+15,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+15,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+15,Plant,clarity,positive,emphasis clear,0,0,0
+15,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+15,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+15,Plant,clarity,negative,emphasis unclear,0,0,0
+15,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+16,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+16,Prison,clarity,positive,emphasis clear,0,0,0
+16,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+16,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+16,Prison,clarity,negative,emphasis unclear,0,0,0
+16,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,1
+16,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+16,News,clarity,positive,emphasis clear,0,0,0
+16,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+16,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+16,News,clarity,negative,emphasis unclear,0,0,0
+16,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+16,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+16,Tires,clarity,positive,emphasis clear,0,0,0
+16,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+16,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,1
+16,Tires,clarity,negative,emphasis unclear,0,0,0
+16,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,1
+16,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+16,Holiday,clarity,positive,emphasis clear,0,0,0
+16,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+16,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+16,Holiday,clarity,negative,emphasis unclear,0,0,0
+16,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+16,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+16,Car,clarity,positive,emphasis clear,0,0,0
+16,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+16,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+16,Car,clarity,negative,emphasis unclear,0,0,0
+16,Car,trustworthiness,negative,emphasis untrustworthy,0,0,1
+16,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+16,Plant,clarity,positive,emphasis clear,0,0,0
+16,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+16,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+16,Plant,clarity,negative,emphasis unclear,0,0,0
+16,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+17,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+17,Prison,clarity,positive,emphasis clear,0,0,0
+17,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+17,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+17,Prison,clarity,negative,emphasis unclear,0,0,0
+17,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,1
+17,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+17,News,clarity,positive,emphasis clear,0,0,1
+17,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+17,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+17,News,clarity,negative,emphasis unclear,0,0,0
+17,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+17,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+17,Tires,clarity,positive,emphasis clear,0,0,0
+17,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+17,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+17,Tires,clarity,negative,emphasis unclear,0,0,0
+17,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+17,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+17,Holiday,clarity,positive,emphasis clear,0,0,0
+17,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+17,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+17,Holiday,clarity,negative,emphasis unclear,0,0,0
+17,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+17,Car,aesthetic,positive,emphasis likes aesthetic,0,0,1
+17,Car,clarity,positive,emphasis clear,0,0,1
+17,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+17,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+17,Car,clarity,negative,emphasis unclear,0,0,0
+17,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+17,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+17,Plant,clarity,positive,emphasis clear,0,0,0
+17,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+17,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+17,Plant,clarity,negative,emphasis unclear,0,0,0
+17,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+18,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+18,Prison,clarity,positive,emphasis clear,0,0,0
+18,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+18,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+18,Prison,clarity,negative,emphasis unclear,0,0,0
+18,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+18,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+18,News,clarity,positive,emphasis clear,0,0,0
+18,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+18,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+18,News,clarity,negative,emphasis unclear,0,0,0
+18,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+18,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+18,Tires,clarity,positive,emphasis clear,0,0,0
+18,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+18,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+18,Tires,clarity,negative,emphasis unclear,0,0,0
+18,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+18,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+18,Holiday,clarity,positive,emphasis clear,0,0,0
+18,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+18,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+18,Holiday,clarity,negative,emphasis unclear,0,0,0
+18,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+18,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+18,Car,clarity,positive,emphasis clear,0,0,0
+18,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+18,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+18,Car,clarity,negative,emphasis unclear,0,0,0
+18,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+18,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+18,Plant,clarity,positive,emphasis clear,0,0,0
+18,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+18,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+18,Plant,clarity,negative,emphasis unclear,0,0,0
+18,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+19,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+19,Prison,clarity,positive,emphasis clear,0,0,0
+19,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+19,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+19,Prison,clarity,negative,emphasis unclear,0,0,0
+19,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+19,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+19,News,clarity,positive,emphasis clear,0,0,0
+19,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+19,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+19,News,clarity,negative,emphasis unclear,0,0,0
+19,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+19,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+19,Tires,clarity,positive,emphasis clear,0,0,0
+19,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+19,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+19,Tires,clarity,negative,emphasis unclear,0,0,0
+19,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+19,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+19,Holiday,clarity,positive,emphasis clear,0,0,0
+19,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+19,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+19,Holiday,clarity,negative,emphasis unclear,0,0,0
+19,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+19,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+19,Car,clarity,positive,emphasis clear,0,0,0
+19,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+19,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+19,Car,clarity,negative,emphasis unclear,0,0,0
+19,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+19,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+19,Plant,clarity,positive,emphasis clear,0,0,0
+19,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+19,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+19,Plant,clarity,negative,emphasis unclear,0,0,0
+19,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+21,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+21,Prison,clarity,positive,emphasis clear,0,0,1
+21,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+21,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+21,Prison,clarity,negative,emphasis unclear,0,0,0
+21,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+21,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+21,News,clarity,positive,emphasis clear,0,0,0
+21,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+21,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+21,News,clarity,negative,emphasis unclear,0,0,0
+21,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+21,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+21,Tires,clarity,positive,emphasis clear,0,0,0
+21,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+21,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+21,Tires,clarity,negative,emphasis unclear,0,0,0
+21,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+21,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+21,Holiday,clarity,positive,emphasis clear,0,0,0
+21,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+21,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+21,Holiday,clarity,negative,emphasis unclear,0,0,0
+21,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+21,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+21,Car,clarity,positive,emphasis clear,0,0,0
+21,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+21,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+21,Car,clarity,negative,emphasis unclear,0,0,0
+21,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+21,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+21,Plant,clarity,positive,emphasis clear,0,0,0
+21,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+21,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+21,Plant,clarity,negative,emphasis unclear,0,0,0
+21,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+28,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+28,Prison,clarity,positive,emphasis clear,0,0,1
+28,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+28,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+28,Prison,clarity,negative,emphasis unclear,0,0,0
+28,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+28,News,aesthetic,positive,emphasis likes aesthetic,0,0,1
+28,News,clarity,positive,emphasis clear,0,0,1
+28,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+28,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+28,News,clarity,negative,emphasis unclear,0,0,0
+28,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+28,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,1
+28,Tires,clarity,positive,emphasis clear,0,0,1
+28,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+28,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+28,Tires,clarity,negative,emphasis unclear,0,0,0
+28,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+28,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,1
+28,Holiday,clarity,positive,emphasis clear,0,0,1
+28,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+28,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+28,Holiday,clarity,negative,emphasis unclear,0,0,0
+28,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+28,Car,aesthetic,positive,emphasis likes aesthetic,0,0,1
+28,Car,clarity,positive,emphasis clear,0,0,1
+28,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+28,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+28,Car,clarity,negative,emphasis unclear,0,0,0
+28,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+28,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+28,Plant,clarity,positive,emphasis clear,0,0,0
+28,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+28,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+28,Plant,clarity,negative,emphasis unclear,0,0,0
+28,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+29,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+29,Prison,clarity,positive,emphasis clear,0,0,1
+29,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+29,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+29,Prison,clarity,negative,emphasis unclear,0,0,0
+29,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+29,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+29,News,clarity,positive,emphasis clear,0,0,0
+29,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+29,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+29,News,clarity,negative,emphasis unclear,0,0,0
+29,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+29,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+29,Tires,clarity,positive,emphasis clear,0,0,1
+29,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+29,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+29,Tires,clarity,negative,emphasis unclear,0,0,0
+29,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+29,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+29,Holiday,clarity,positive,emphasis clear,0,0,0
+29,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+29,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+29,Holiday,clarity,negative,emphasis unclear,0,0,0
+29,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+29,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+29,Car,clarity,positive,emphasis clear,0,0,0
+29,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+29,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+29,Car,clarity,negative,emphasis unclear,0,0,0
+29,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+29,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+29,Plant,clarity,positive,emphasis clear,0,0,0
+29,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+29,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+29,Plant,clarity,negative,emphasis unclear,0,0,0
+29,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+30,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+30,Prison,clarity,positive,emphasis clear,0,0,0
+30,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+30,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,1
+30,Prison,clarity,negative,emphasis unclear,0,0,0
+30,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+30,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+30,News,clarity,positive,emphasis clear,0,0,1
+30,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+30,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+30,News,clarity,negative,emphasis unclear,0,0,0
+30,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+30,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+30,Tires,clarity,positive,emphasis clear,0,0,0
+30,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+30,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+30,Tires,clarity,negative,emphasis unclear,0,0,0
+30,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+30,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+30,Holiday,clarity,positive,emphasis clear,0,0,1
+30,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+30,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+30,Holiday,clarity,negative,emphasis unclear,0,0,0
+30,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+30,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+30,Car,clarity,positive,emphasis clear,0,0,0
+30,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+30,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+30,Car,clarity,negative,emphasis unclear,0,0,0
+30,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+30,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+30,Plant,clarity,positive,emphasis clear,0,0,0
+30,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+30,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+30,Plant,clarity,negative,emphasis unclear,0,0,0
+30,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+31,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,1
+31,Prison,clarity,positive,emphasis clear,0,0,1
+31,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+31,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+31,Prison,clarity,negative,emphasis unclear,0,0,0
+31,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+31,News,aesthetic,positive,emphasis likes aesthetic,0,0,1
+31,News,clarity,positive,emphasis clear,0,0,0
+31,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+31,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+31,News,clarity,negative,emphasis unclear,0,0,0
+31,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+31,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+31,Tires,clarity,positive,emphasis clear,0,0,1
+31,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+31,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+31,Tires,clarity,negative,emphasis unclear,0,0,0
+31,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+31,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+31,Holiday,clarity,positive,emphasis clear,0,0,1
+31,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+31,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+31,Holiday,clarity,negative,emphasis unclear,0,0,0
+31,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+31,Car,aesthetic,positive,emphasis likes aesthetic,0,0,1
+31,Car,clarity,positive,emphasis clear,0,0,1
+31,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+31,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+31,Car,clarity,negative,emphasis unclear,0,0,0
+31,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+31,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+31,Plant,clarity,positive,emphasis clear,0,0,0
+31,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+31,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+31,Plant,clarity,negative,emphasis unclear,0,0,0
+31,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+32,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+32,Prison,clarity,positive,emphasis clear,0,0,1
+32,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+32,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+32,Prison,clarity,negative,emphasis unclear,0,0,0
+32,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+32,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+32,News,clarity,positive,emphasis clear,0,0,0
+32,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+32,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+32,News,clarity,negative,emphasis unclear,0,0,0
+32,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+32,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+32,Tires,clarity,positive,emphasis clear,0,0,0
+32,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+32,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+32,Tires,clarity,negative,emphasis unclear,0,0,0
+32,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+32,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+32,Holiday,clarity,positive,emphasis clear,0,0,0
+32,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+32,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+32,Holiday,clarity,negative,emphasis unclear,0,0,0
+32,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+32,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+32,Car,clarity,positive,emphasis clear,0,0,1
+32,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+32,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+32,Car,clarity,negative,emphasis unclear,0,0,0
+32,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+32,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+32,Plant,clarity,positive,emphasis clear,0,0,0
+32,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+32,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+32,Plant,clarity,negative,emphasis unclear,0,0,0
+32,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+33,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+33,Prison,clarity,positive,emphasis clear,0,0,0
+33,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+33,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,1
+33,Prison,clarity,negative,emphasis unclear,0,0,0
+33,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,0
+33,News,aesthetic,positive,emphasis likes aesthetic,0,0,0
+33,News,clarity,positive,emphasis clear,0,0,1
+33,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+33,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+33,News,clarity,negative,emphasis unclear,0,0,0
+33,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+33,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+33,Tires,clarity,positive,emphasis clear,0,0,1
+33,Tires,trustworthiness,positive,emphasis trustworthy,0,0,0
+33,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+33,Tires,clarity,negative,emphasis unclear,0,0,0
+33,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+33,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+33,Holiday,clarity,positive,emphasis clear,0,0,0
+33,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,0
+33,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+33,Holiday,clarity,negative,emphasis unclear,0,0,1
+33,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+33,Car,aesthetic,positive,emphasis likes aesthetic,0,0,1
+33,Car,clarity,positive,emphasis clear,0,0,1
+33,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+33,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+33,Car,clarity,negative,emphasis unclear,0,0,0
+33,Car,trustworthiness,negative,emphasis untrustworthy,0,0,0
+33,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+33,Plant,clarity,positive,emphasis clear,0,0,0
+33,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+33,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+33,Plant,clarity,negative,emphasis unclear,0,0,0
+33,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0
+34,Prison,aesthetic,positive,emphasis likes aesthetic,0,0,0
+34,Prison,clarity,positive,emphasis clear,0,0,0
+34,Prison,trustworthiness,positive,emphasis trustworthy,0,0,0
+34,Prison,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+34,Prison,clarity,negative,emphasis unclear,0,0,0
+34,Prison,trustworthiness,negative,emphasis untrustworthy,0,0,1
+34,News,aesthetic,positive,emphasis likes aesthetic,0,0,1
+34,News,clarity,positive,emphasis clear,0,0,1
+34,News,trustworthiness,positive,emphasis trustworthy,0,0,0
+34,News,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+34,News,clarity,negative,emphasis unclear,0,0,0
+34,News,trustworthiness,negative,emphasis untrustworthy,0,0,0
+34,Tires,aesthetic,positive,emphasis likes aesthetic,0,0,0
+34,Tires,clarity,positive,emphasis clear,0,0,1
+34,Tires,trustworthiness,positive,emphasis trustworthy,0,0,1
+34,Tires,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+34,Tires,clarity,negative,emphasis unclear,0,0,0
+34,Tires,trustworthiness,negative,emphasis untrustworthy,0,0,0
+34,Holiday,aesthetic,positive,emphasis likes aesthetic,0,0,0
+34,Holiday,clarity,positive,emphasis clear,0,0,1
+34,Holiday,trustworthiness,positive,emphasis trustworthy,0,0,1
+34,Holiday,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+34,Holiday,clarity,negative,emphasis unclear,0,0,0
+34,Holiday,trustworthiness,negative,emphasis untrustworthy,0,0,0
+34,Car,aesthetic,positive,emphasis likes aesthetic,0,0,0
+34,Car,clarity,positive,emphasis clear,0,0,1
+34,Car,trustworthiness,positive,emphasis trustworthy,0,0,0
+34,Car,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+34,Car,clarity,negative,emphasis unclear,0,0,0
+34,Car,trustworthiness,negative,emphasis untrustworthy,0,0,1
+34,Plant,aesthetic,positive,emphasis likes aesthetic,0,0,0
+34,Plant,clarity,positive,emphasis clear,0,0,0
+34,Plant,trustworthiness,positive,emphasis trustworthy,0,0,0
+34,Plant,aesthetic,negative,emphasis disliked aesthetic,0,0,0
+34,Plant,clarity,negative,emphasis unclear,0,0,0
+34,Plant,trustworthiness,negative,emphasis untrustworthy,0,0,0

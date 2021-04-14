@@ -1,0 +1,50 @@
+topic,relevant,question,s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15,s16,s17,s18,s19,s20,s21,s22,s23,s24,s25,s26,s28,s29,s30,s31,s32,s33,s34
+,,,decluttered,focused,decluttered,cluttered,focused,decluttered,cluttered,cluttered,decluttered,decluttered,cluttered,decluttered,decluttered,cluttered,focused,decluttered,cluttered,decluttered,decluttered,decluttered,focused,focused,focused,focused,cluttered,cluttered,focused,focused,focused,focused,cluttered,cluttered,decluttered
+CAR,0,Does the graph have a title?,Y,N,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,Y,Y,N,N,Y,Y,Y,N,N,Y,N,Y,Y,Y,Y,Y,Y,N
+CAR,0,Does the graph have a labeled x- and/or y-axis?,Y,N,N,N,N,N,Y,Y,N,Y,N,N,Y,Y,N,Y,Y,N,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y
+CAR,0,Are the bars arranged from largest to smallest?,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,N,N,Y,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y
+CAR,0,Are only specific bars shaded in to draw attention?,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,Y,N,N,Y,N,Y,N,N,N,N
+CAR,0,Is “engine power” labeled?,N,N,N,Y,Y,Y,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,Y,N,Y,N,Y,Y,N,N,N,N,N,N,N,N
+CAR,1,Does the graph include the word “noise” (or a variation)?,Y,Y,Y,N,Y,N,Y,N,Y,Y,N,N,N,N,Y,N,Y,N,N,Y,Y,Y,N,Y,Y,N,Y,Y,Y,Y,N,N,N
+,,relevancy score,1,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,1,0,0,1,1,1,0,1,1,0,1,1,1,1,0,0,0
+,,,focused,decluttered,cluttered,decluttered,decluttered,cluttered,focused,decluttered,cluttered,focused,focused,cluttered,cluttered,decluttered,decluttered,focused,focused,cluttered,focused,cluttered,decluttered,cluttered,cluttered,cluttered,focused,focused,cluttered,cluttered,cluttered,cluttered,focused,decluttered,cluttered
+HOLIDAY,0,Does the graph have a title?,N,N,Y,N,N,N,N,N,Y,Y,N,Y,Y,N,N,Y,Y,N,N,Y,N,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,N
+HOLIDAY,0,Does the graph have a labeled x- and/or y-axis?,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+HOLIDAY,1,Do the graphs show a distinction between men and women (by labeling or shading)?,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y
+HOLIDAY,1,Is the bar representing women higher than men in August?,N/A,Y,Y,Y,Y,Y,N/A,Y,N,N,N/A,N/A,N/A,Y,Y,N,N/A,N/A,Y,N,Y,N/A,Y,Y,Y,Y,Y,N/A,Y,Y,Y,Y,Y
+HOLIDAY,1,Is the bar representing women higher than men in September?,Y,Y,N/A,Y,Y,Y,N/A,Y,N,N,N/A,N/A,N/A,Y,Y,N,N/A,N/A,N/A,N,Y,N/A,Y,N/A,Y,Y,Y,N/A,Y,Y,Y,Y,Y
+HOLIDAY,1,Is the bar representing women higher than men in October?,N/A,Y,N/A,Y,N,Y,N/A,Y,N,Y,N/A,N/A,N/A,Y,Y,N,N/A,N/A,Y,Y,Y,N/A,Y,Y,Y,N,Y,N/A,N,Y,Y,Y,Y
+HOLIDAY,1,Is the bar representing women lower than men in November?,N/A,Y,N,Y,N,N,N/A,Y,Y,Y,N/A,N/A,N/A,Y,N,N,Y,N/A,N/A,N,Y,N/A,N,Y,Y,Y,N,N/A,N,N,Y,Y,N
+HOLIDAY,1,Is the bar representing women lower than men in December?,N,N,N/A,Y,N,N,N/A,N,N,Y,N/A,N/A,N/A,Y,N,Y,N/A,N/A,N/A,N,N,N/A,N,Y,Y,N,N,N/A,Y,Y,Y,N,N
+HOLIDAY,0,"Are the November bars higher than the other months, for both men and women?",N/A,Y,Y,Y,Y,N,Y,Y,Y,Y,N/A,Y,N/A,N,N,N,Y,N/A,N/A,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y
+,,relevancy score,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+,,,cluttered,cluttered,focused,focused,cluttered,focused,decluttered,focused,decluttered,cluttered,decluttered,decluttered,focused,focused,cluttered,cluttered,decluttered,decluttered,cluttered,focused,cluttered,decluttered,decluttered,decluttered,cluttered,cluttered,focused,focused,focused,focused,decluttered,focused,decluttered
+NEWS,0,Does the graph have a title?,Y,N,Y,N,N,N,Y,Y,N,Y,N,N,N,N,N,Y,Y,N,N,Y,N,Y,N,N,Y,N,N,N,Y,Y,Y,N,N
+NEWS,0,Does the graph have a labeled x- and/or y-axis?,Y,Y,N,Y,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+NEWS,0,Does the graph show five different lines?,N,Y,N,Y,Y,N,Y,Y,N,Y,N,Y,N,Y,N,Y,N,Y,Y,N,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,Y
+NEWS,0,Is “television” labeled as the highest line?,Y,N,N/A,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y
+NEWS,1,Does the graph show “internet” as increasing?,N/A,N/A,N/A,Y,N/A,N,N,Y,N/A,N,N/A,Y,Y,N/A,N/A,N,Y,N/A,N/A,Y,N,N,N/A,Y,N,N/A,N,Y,Y,N,N,N,Y
+,,relevancy score,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,1
+,,,cluttered,decluttered,cluttered,focused,decluttered,cluttered,decluttered,focused,focused,cluttered,decluttered,focused,cluttered,focused,decluttered,cluttered,decluttered,focused,cluttered,cluttered,decluttered,focused,focused,focused,decluttered,decluttered,cluttered,cluttered,cluttered,cluttered,decluttered,focused,focused
+TIRES,0,Does the graph have a title?,N,N,Y,N,N,N,Y,Y,N,Y,N,Y,N,N,N,N,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,N
+TIRES,0,Does the graph have a labeled x- and/or y-axis?,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+TIRES,0,Does the graph show five different lines?,N,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,N
+TIRES,1,Do the lines converge on the right side of the graph?,N,Y,N,Y,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,N,N,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y
+TIRES,0,Do the top two lines follow approximately the same pattern?,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y
+TIRES,0,Does the graph use dots to demonstrate the convergence of the lines?,N,N,N,Y,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N
+,,relevancy score,0,1,0,1,1,1,0,1,1,1,0,1,1,1,1,0,0,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+,,,decluttered,focused,decluttered,cluttered,focused,decluttered,cluttered,cluttered,focused,decluttered,cluttered,focused,decluttered,cluttered,focused,decluttered,cluttered,focused,decluttered,decluttered,focused,cluttered,cluttered,cluttered,focused,focused,decluttered,decluttered,decluttered,decluttered,cluttered,cluttered,focused
+PRISON,0,Does the graph have a title?,N,N,Y,N,N,N,Y,Y,N,Y,N,N,N,N,N,Y,N,N,N,Y,N,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,Y
+PRISON,0,Does the graph have a labeled x- and/or y-axis?,Y,Y,N,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,N,Y,N,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+PRISON,0,Does the graph label the largest bar as “immigration”?,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,N,Y,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y
+PRISON,0,Are the bars arranged from largest to smallest?,Y,Y,Y,N,Y,Y,N,N,Y,N,N,Y,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,Y,N,N,Y
+PRISON,1,Does the graph have both minor and major drug offenses labeled OR include a sentence about minor and major drug offenses?,N,Y,N,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,Y
+,,relevancy score,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+,,,focused,cluttered,focused,decluttered,cluttered,focused,focused,decluttered,cluttered,focused,focused,cluttered,focused,decluttered,cluttered,focused,focused,cluttered,focused,focused,cluttered,decluttered,decluttered,decluttered,decluttered,decluttered,decluttered,decluttered,decluttered,decluttered,focused,decluttered,cluttered
+PLANTS,0,Does the graph have a title?,N,N,Y,N,N,N,N,Y,N,Y,N,N,N,N,Y,N,N,N,N,N,N,N,N,Y,N,Y,N,N,N,N,N,Y,N
+PLANTS,0,Does the graph have two bars split up into distinct segments labeled “US Population” and “Our Customers” (or a close variation)?,Y,Y,N,Y,N,N,N,Y,Y,Y,N,Y,Y,Y,Y,N,Y,N,N,N,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y
+PLANTS,0,"Does the graph highlight a 30% (or equivalent, e.g. three 10% segments) region on one bar and a 50% (or equivalent) region on the other bar?",Y,N,N,N,N,Y,Y,N,N,Y,Y,N,N,N,N,Y,Y,N,N,Y,N,N,N,N,N,N,N,N,N,N,Y,N,N
+PLANTS,0,Is “Fleming Hybrid” (or a variation) labeled?,N,N,Y,N,N,N,N,N,N,Y,N,N,N,N,N,Y,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+PLANTS,0,Are the first couple segments (from the top) of “Our Customers” smaller than those of “US Population”?,Y,N,N/A,N,Y,N/A,N/A,Y,Y,Y,N/A,Y,N,Y,Y,N/A,N,N,N/A,N/A,N,N,Y,N,Y,N,Y,N/A,Y,Y,N,N,N
+PLANTS,1,"Is the physical size OR percentage for the third, fourth, and fifth segments of US Population smaller than those of Our Customers?",N,N,N,N,N,N,N,Y,Y,Y,N,Y,N,Y,Y,N,Y,N,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,N,Y
+,,relevancy score,0,0,0,0,0,0,0,1,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1

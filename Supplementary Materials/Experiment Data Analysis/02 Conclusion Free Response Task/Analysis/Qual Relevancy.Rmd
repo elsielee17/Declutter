@@ -1,0 +1,199 @@
+---
+title: "Experiment 1 Qual Analysis"
+author: "Cindy Xiong"
+date: "April 9, 2019"
+output:
+  html_document:
+    code_folding: hide
+    fig_height: 6
+    fig_width: 8
+    highlight: pygments
+    theme: yeti
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
+  word_document:
+    toc: yes
+always_allow_html: yes
+---
+```{r hide-messages}
+library(knitr)
+opts_chunk$set(warning = FALSE, message = FALSE, comment = FALSE)
+```
+
+Uploading appropriate libraries
+
+```{r library, warnings=FALSE, warning=FALSE, message=FALSE}
+# include packages
+library(tidyr)
+library(dplyr)
+library(heplots)
+library(MANOVA.RM)
+library(multcomp)
+library(lme4)
+library(stringr)
+library(ggplot2)
+library(car)
+library(sjstats)
+library(reshape)
+library(forcats)
+# package for Chi-Square
+library(MASS)    
+```
+
+Load data
+
+```{r load-data}
+redraw <- read.csv("exp1_qual_conclusions_long.csv")
+```
+
+Visualize data
+
+```{r table-format}
+redraw %>%
+  filter(design != "delete") %>%
+  filter(topic == "CAR") %>% 
+  filter(did_participant_mention_this == 1) %>%
+  mutate(category = fct_reorder(category, -is_topic_relevant)) %>%
+  ggplot(aes(x = topic, fill = as.factor(is_topic_relevant))) +
+  geom_bar(stat = "count") +
+  facet_grid(col = vars(design), row = vars(category)) + 
+  scale_fill_manual(values = c("grey","grey", "gray33")) +
+  coord_flip() +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  ggsave("car.pdf", width = 10, height = 10)
+```
+
+```{r}
+redraw %>%
+  filter(design != "delete") %>%
+  mutate(is_topic_relevant_binary = ifelse(is_topic_relevant == 1, 1, 0)) %>%
+  # mutate(participant_wrote_relevant = ifelse(is_topic_relevant == 1 & did_participant_mention_this == 1, 1, 0)) %>%
+  group_by(design, is_topic_relevant_binary, did_participant_mention_this) %>%
+  summarise(n = n(), n = n) %>%
+  filter(did_participant_mention_this == 1) %>%
+  group_by(design) %>%
+  mutate(percentage = n/sum(n)) %>%
+  mutate(se = sqrt((n/sum(n))*(1-n/sum(n))/n))
+  #  %>% write.csv("redraw_conclusion_relevant_summary.csv")
+```
+
+Visualize data
+
+```{r table-format}
+redraw %>%
+  filter(design != "delete") %>%
+  filter(topic == "HOLIDAY") %>% 
+  filter(did_participant_mention_this == 1) %>%
+  mutate(category = fct_reorder(category, -is_topic_relevant)) %>%
+  ggplot(aes(x = topic, fill = as.factor(is_topic_relevant))) +
+  geom_bar(stat = "count") +
+  facet_grid(col = vars(design), row = vars(category)) + 
+  scale_fill_manual(values = c("grey","grey", "gray33")) +
+  coord_flip() +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  ggsave("Holiday.pdf", width = 10, height = 6.59)
+```
+
+```{r table-format}
+redraw %>%
+  filter(design != "delete") %>%
+  filter(topic == "NEWS") %>% 
+  filter(did_participant_mention_this == 1) %>%
+  mutate(category = fct_reorder(category, -is_topic_relevant)) %>%
+  ggplot(aes(x = topic, fill = as.factor(is_topic_relevant))) +
+  geom_bar(stat = "count") +
+  facet_grid(col = vars(design), row = vars(category)) + 
+  scale_fill_manual(values = c("grey","grey", "gray33")) +
+  coord_flip() +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  ggsave("News.pdf", width = 10, height = 7.45)
+```
+
+```{r table-format}
+redraw %>%
+  filter(design != "delete") %>%
+  filter(topic == "TIRES") %>% 
+  filter(did_participant_mention_this == 1) %>%
+  mutate(category = fct_reorder(category, -is_topic_relevant)) %>%
+  ggplot(aes(x = topic, fill = as.factor(is_topic_relevant))) +
+  geom_bar(stat = "count") +
+  facet_grid(col = vars(design), row = vars(category)) + 
+  scale_fill_manual(values = c("grey","grey", "gray33")) +
+  coord_flip() +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  ggsave("Tires.pdf", width = 10, height = 7.44)
+```
+
+```{r table-format}
+redraw %>%
+  filter(design != "delete") %>%
+  filter(topic == "PRISON") %>% 
+  filter(did_participant_mention_this == 1) %>%
+  mutate(category = fct_reorder(category, -is_topic_relevant)) %>%
+  ggplot(aes(x = topic, fill = as.factor(is_topic_relevant))) +
+  geom_bar(stat = "count") +
+  facet_grid(col = vars(design), row = vars(category)) + 
+  scale_fill_manual(values = c("grey","grey", "gray33")) +
+  coord_flip() +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  ggsave("Prison.pdf", width = 10, height = 6.59)
+```
+
+```{r table-format}
+redraw %>%
+  filter(design != "delete") %>%
+  filter(topic == "PLANTS") %>% 
+  filter(did_participant_mention_this == 1) %>%
+  mutate(category = fct_reorder(category, -is_topic_relevant)) %>%
+  ggplot(aes(x = topic, fill = as.factor(is_topic_relevant))) +
+  geom_bar(stat = "count") +
+  facet_grid(col = vars(design), row = vars(category)) + 
+  scale_fill_manual(values = c("grey","grey", "gray33")) +
+  coord_flip() +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  ggsave("Plants.pdf", width = 10, height = 4.90)
+```
+
+Relevant vs. Not relevant
+
+```{r}
+redraw %>% 
+  filter(design != "delete") %>%
+  filter(did_participant_mention_this == 1) %>%
+  mutate(category = fct_reorder(category, -is_topic_relevant)) %>%
+  mutate(is_topic_relevant_binary = ifelse(is_topic_relevant == 1, 1, 0)) %>%
+  ggplot(aes(x = topic, fill = as.factor(is_topic_relevant_binary))) +
+  geom_bar(stat = "count") +
+  facet_grid(col = vars(design), row = vars(is_topic_relevant_binary)) + 
+  scale_fill_manual(values = c("grey", "gray33")) +
+  coord_flip() +
+  theme_minimal() +
+  theme(legend.position = "none")
+```
+
+
+Analysis
+
+```{r}
+redraw_analysis <- redraw %>%
+  filter(design != "delete") %>%
+  mutate(is_topic_relevant_binary = ifelse(is_topic_relevant == 1, "0", "1"))
+
+redraw_analysis$design <- relevel(redraw_analysis$design, ref = "Decluttered")
+
+redraw_analysis$is_topic_relevant_binary <-  as.factor(redraw_analysis$is_topic_relevant_binary)
+  
+model <- glm(did_participant_mention_this ~ design * is_topic_relevant_binary, family=binomial(logit), data = redraw_analysis)
+summary(model)
+
+anova(model, test = 'Chisq')
+exp(model$coefficients)
+```

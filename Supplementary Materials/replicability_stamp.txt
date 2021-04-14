@@ -1,0 +1,3 @@
+Title: Declutter and Focus: Empirically Evaluating Design Guidelines for Effective Data Communication
+Authors: Kiran Ajani, Elsie Lee, Cindy Xiong, Cole Nussbaumer Knaflic, William Kemper, and Steven Franconeri
+Operating system: MacOSX

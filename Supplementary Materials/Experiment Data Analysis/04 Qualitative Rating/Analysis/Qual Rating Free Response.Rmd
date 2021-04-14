@@ -1,0 +1,183 @@
+---
+title: "Experiment 1 Qual Analysis"
+author: "Cindy Xiong"
+date: "April 9, 2019"
+output:
+  html_document:
+    code_folding: hide
+    fig_height: 6
+    fig_width: 8
+    highlight: pygments
+    theme: yeti
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
+  word_document:
+    toc: yes
+always_allow_html: yes
+---
+```{r hide-messages}
+library(knitr)
+opts_chunk$set(warning = FALSE, message = FALSE, comment = FALSE)
+```
+
+Uploading appropriate libraries
+
+```{r library, warnings=FALSE, warning=FALSE, message=FALSE}
+# include packages
+library(tidyr)
+library(dplyr)
+library(heplots)
+library(MANOVA.RM)
+library(multcomp)
+library(lme4)
+library(stringr)
+library(ggplot2)
+# package for Chi-Square
+library(MASS)    
+```
+
+<h1> Qual Rating </h1>
+
+```{r}
+exp1QualRate <- read.csv("exp1_qual_ratings_free_response.csv")
+
+# turn into long table
+exp1QualRate_long <- gather(exp1QualRate, design, response, cluttered, decluttered, focused)
+exp1QualRate_long <- exp1QualRate_long %>% 
+  filter(category != "ignoreThis") 
+```
+
+Visualize by sentiment, design, topic
+
+```{r table-sentiment-design-topic}
+# note this is count data for qual, so "n" is going to be imbalanced
+exp1QualRate_long %>% 
+  group_by(sentiment, design, category) %>%
+  summarise(n = n(), 
+            rating = mean(response),
+            se = sd(response)/sqrt(n())) 
+```
+
+
+```{r}
+exp1QualRate_long %>% 
+  group_by(sentiment, design, category) %>%
+  summarise(n = n(), 
+            rating = mean(response),
+            se = sd(response)/sqrt(n())) %>% 
+  ggplot(aes(x = design, y = rating, fill = design,
+             ymin = rating - se * 1.96, 
+             ymax = rating + se * 1.96)) +
+  geom_bar(stat = "identity",
+           width = 0.4) + 
+  # error bars
+  geom_errorbar(width = 0.1,
+                position = position_dodge(0.5)) + 
+  facet_grid(vars(sentiment), vars(category)) +
+  # label axis
+  labs(x = "design",
+       y = "frequency") 
+```
+
+Aesthetics only (change "filter(category == "aesthetic" " to other category for closer examination")
+
+```{r table-sentiment-design}
+# note this is count data for qual, so "n" is going to be imbalanced
+exp1QualRate_long %>% 
+  filter(category == "aesthetic") %>%
+  group_by(sentiment, design) %>%
+  summarise(n = n(), 
+            rating = mean(response),
+            se = sd(response)/sqrt(n()))
+```
+
+
+```{r}
+exp1QualRate_long %>% 
+  filter(category == "aesthetic") %>%
+  group_by(sentiment, design) %>%
+  summarise(n = n(), 
+            rating = mean(response),
+            se = sd(response)/sqrt(n())) %>% 
+  ggplot(aes(x = design, y = rating, fill = design,
+             ymin = rating - se * 1.96, 
+             ymax = rating + se * 1.96)) +
+  geom_bar(stat = "identity",
+           width = 0.4) + 
+  # error bars
+  geom_errorbar(width = 0.1,
+                position = position_dodge(0.5)) + 
+  facet_wrap(~sentiment) +
+  # label axis
+  labs(x = "design",
+       y = "frequency") 
+```
+
+Analysis
+
+b0 - aesthetics, negative, cluttered
+b1 - aesthetics, positive, cluttered
+b2 - aesthetics, negative, decluttered
+b3 - aesthetics, negative, focused
+b4 - clarity, negative, cluttered
+b5 - professionalism, negative, cluttered
+b6 - trustworthiness, negative, cluttered
+b7 - aesthetics, positive, decluttered
+b8 - aesthetics, positive, focused
+b9 - clarity, positive, cluttered
+b10 - professionalism, positive, cluttered
+b11 - trustworthiness, positive, cluttered
+b12 - clarity, negative, decluttered
+b13 - claarity, negative, focused
+b14 - professionalism, negative, decluttered,
+b15 - professionalism, negative, focused
+b16 - trustworthiness, negative, decluttered
+b17 - trustworthiness, negative, focused
+b18 - clarity, positive, decluttered
+b19 - clarity, positive, focused
+b20 - professionalism, positive, decluttered
+b21 - professionalism, positive, focused
+b22 - trustworthiness, positive, decluttered
+b23 - trustworthiness, positive, focused
+
+```{r}
+model <- glm(response ~ sentiment * design * category, family=binomial(logit), data = exp1QualRate_long)
+summary(model)
+
+```
+
+
+```{r}
+model <- glm(response ~ sentiment * design, family=binomial(logit), 
+             data = subset(exp1QualRate_long, exp1QualRate_long$category== "aesthetic"))
+summary(model)
+Anova(model)
+exp(coef(model))
+```
+
+```{r}
+
+model <- glm(response ~ sentiment * design, family=binomial(logit), 
+             data = subset(exp1QualRate_long, exp1QualRate_long$category== "clarity"))
+summary(model)
+Anova(model)
+exp(coef(model))
+```
+
+```{r}
+model <- glm(response ~ sentiment * design, family=binomial(logit), 
+             data = subset(exp1QualRate_long, exp1QualRate_long$category== "professionalism"))
+Anova(model)
+exp(coef(model))
+```
+
+```{r}
+model <- glm(response ~ sentiment * design, family=binomial(logit), 
+             data = subset(exp1QualRate_long, exp1QualRate_long$category== "trustworthiness"))
+summary(model)
+Anova(model)
+```
+
+

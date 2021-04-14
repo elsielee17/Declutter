@@ -1,0 +1,312 @@
+---
+title: "Experiment 1 Quant Analysis"
+author: "Cindy Xiong"
+date: "April 9, 2019"
+output:
+  html_document:
+    code_folding: hide
+    fig_height: 6
+    fig_width: 8
+    highlight: pygments
+    theme: yeti
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
+  word_document:
+    toc: yes
+always_allow_html: yes
+---
+
+```{r}
+#install packages
+
+# install.packages("tidyr")
+# install.packages("dplyr")
+# install.packages("heplots")
+# install.packages("MANOVA.RM")
+# install.packages("multcomp")
+# install.packages("lme4")
+# install.packages("stringr")
+# install.packages("ggplot2")
+# # permutation in manova
+# install.packages("PerformanceAnalytics")
+# install.packages("vegan")
+# install.packages("car")
+# install.packages("sjstats")
+```
+
+
+```{r hide-messages}
+library(knitr)
+opts_chunk$set(warning = FALSE, message = FALSE, comment = FALSE)
+```
+
+Uploading appropriate libraries
+
+```{r library, warnings=FALSE, warning=FALSE, message=FALSE}
+# include packages
+library(tidyr)
+library(dplyr)
+library(heplots)
+library(MANOVA.RM)
+library(multcomp)
+library(lme4)
+library(stringr)
+library(ggplot2)
+# permutation in manova
+library(PerformanceAnalytics)
+require(vegan)
+library(car)
+library(sjstats)
+```
+
+Load data
+
+```{r load-data}
+exp1 <- read.csv("exp1_quant.csv")
+exp1$Cluttered <- 0
+exp1$Decluttered <- 0
+exp1$Focused <- 0
+exp1$designdummy<-0
+
+exp1$Cluttered[exp1$design=="Cluttered"]<-1
+exp1$Decluttered[exp1$design=="Decluttered"]<-1
+exp1$Focused[exp1$design=="Focused"]<-1
+
+exp1$designdummy[exp1$design=="Cluttered"] <- 1
+exp1$designdummy[exp1$design=="Decluttered"] <- 2
+exp1$designdummy[exp1$design=="Focused"] <- 3
+
+# create a long table with participant data in one column
+# note that participant 12 only finished the qualitative sections and thus their data is missing for the quant sections (technical difficulties)
+n <- 23*6
+exp1_long <- gather(exp1,p,data,s1,s2,s4,s5,s7,s8,s9,s10,
+                    s11,s14,s15,s16,s17,s18,s19,s21,
+                    s28,s29,s30,s31,s32,s33,s34)
+exp1_long$p <- str_split_fixed(exp1_long$p, "s", 2)[,2]
+# turn components to wide table
+exp1_wide <- spread(exp1_long, question, data)
+```
+
+<h1> Within-Subject MANOVA </h1>
+
+http://www.sthda.com/english/wiki/manova-test-in-r-multivariate-analysis-of-variance
+
+
+```{r interaction}
+# MANOVA test with interaction
+res.man <- manova(cbind(Aesthetic,Clarity,Professionalism,Trustworthiness) ~ topic*design+Error(p), data = exp1_wide)
+summary(res.man, test = "Pillai")
+
+```
+
+
+
+
+
+Get summary statistics
+
+```{r table-main-effect-design}
+exp1_long <- gather(exp1_wide, dimension, rating, Aesthetic, Clarity, Professionalism, Trustworthiness) 
+exp1_figure <- exp1_long %>%
+  group_by(design, dimension, topic) %>%
+  # remove all columns with NAs
+  filter(!is.na(rating)) %>%
+  summarise(n = n(), 
+            mean = mean(rating),
+            se = sd(rating)/sqrt(n()),
+            n = n)
+exp1_figure
+```
+
+Visualize summary statistics
+
+```{r}
+exp1_long %>%
+  group_by(design, dimension) %>%
+  filter(!is.na(rating)) %>%
+  summarise(n = n(), 
+            mean = mean(rating),
+            se = sd(rating)/sqrt(22),
+            n = n) %>%
+  ggplot(aes(x = design, y = mean,  ymin = mean - se, ymax = mean + se)) +
+  geom_point() +
+  geom_errorbar(width = 0.2,
+                position = position_dodge(0.7)) + 
+  facet_grid(cols = vars(dimension)) +
+  scale_y_continuous(limits = c(1,5)) +
+  coord_flip() +
+  theme_minimal() +
+  ggsave("quantRatings.pdf", width = 17.8, height = 2)
+```
+
+
+main effect of design
+```{r}
+exp1_long %>%
+  group_by(design) %>%
+  # remove all columns with NAs
+  filter(!is.na(rating)) %>%
+  summarise(n = n(), 
+            mean = mean(rating),
+            se = sd(rating)/sqrt(n()),
+            n = n) %>%
+  ggplot(aes(design, mean, fill = design,
+                          ymin = mean - se * 1.96, 
+                          ymax = mean + se * 1.96)) +
+  geom_bar(stat = "identity",
+           width = 0.4)+
+  labs(x = "design",
+       y = "rating") +
+  ggtitle("Main Effect of Design") 
+```
+
+trending main effect of topic
+
+```{r table-main-effect-topic}
+exp1_long %>%
+  group_by(topic, dimension) %>%
+  # remove all columns with NAs
+  filter(!is.na(rating)) %>%
+  summarise(n = n(), 
+            mean = mean(rating),
+            se = sd(rating)/sqrt(n()),
+            n = n)
+```
+
+```{r}
+exp1_long %>%
+  group_by(topic, dimension) %>%
+  # remove all columns with NAs
+  filter(!is.na(rating)) %>%
+  summarise(n = n(), 
+            mean = mean(rating),
+            se = sd(rating)/sqrt(n()),
+            n = n) %>%
+  ggplot(aes(topic, mean, fill = dimension,
+                          ymin = mean - se * 1.96, 
+                          ymax = mean + se * 1.96)) +
+  geom_bar(stat = "identity", position = "dodge",
+           width = 0.4) +
+  facet_wrap(~dimension, nrow = 1) +
+  labs(x = "design",
+       y = "rating") +
+  ggtitle("Main Effect of Design")
+```
+
+
+```{r}
+ggplot(exp1_figure, aes(design, mean, fill = design,
+                          ymin = mean - se * 1.96, 
+                          ymax = mean + se * 1.96)) +
+  geom_bar(stat = "identity",position = "dodge",
+           width = 0.4)+
+  # error bars
+  geom_errorbar(width = 0.1,
+                position = position_dodge(0.5)) + 
+  facet_grid(vars(topic), vars(dimension)) + 
+  # label axis
+  labs(x = "design",
+       y = "rating") +
+  ggtitle("Mean ratings for each dimension by design") 
+```
+
+<h1> Post-Hoc Analysis </h1>
+
+```{r Tukey-post-hoc, warning=FALSE, message=FALSE}
+model_aesthetic <- lmer(Aesthetic~ design*topic + Clarity + Professionalism + Trustworthiness + (1|p), data = exp1_wide)
+summary(glht(model_aesthetic, linfct=mcp(design = "Tukey")))
+summary(glht(model_aesthetic, linfct=mcp(topic = "Tukey")))
+
+anova_stats(model_aesthetic)
+```
+
+```{r}
+model_clarity <- lmer(Clarity~ design*topic + Aesthetic + Professionalism + Trustworthiness +(1|p), data = exp1_wide)
+summary(glht(model_clarity , linfct=mcp(design = "Tukey")))
+summary(glht(model_clarity , linfct=mcp(topic = "Tukey")))
+
+anova_stats(model_clarity)
+```
+
+```{r}
+model_prof  <- lmer(Professionalism~ design*topic + Clarity + Aesthetic + Trustworthiness +(1|p), data = exp1_wide)
+summary(glht(model_prof, linfct=mcp(design = "Tukey")))
+summary(glht(model_prof, linfct=mcp(topic = "Tukey")))
+```
+
+```{r}
+model_trust <- lmer(Trustworthiness~ design*topic + Clarity + Professionalism + Aesthetic + (1|p), data = exp1_wide)
+summary(glht(model_trust, linfct=mcp(design = "Tukey")))
+summary(glht(model_trust, linfct=mcp(topic = "Tukey")))
+
+anova_stats(model_trust)
+```
+
+Posthoc for Interaction
+```{r}
+# create column for design*topic
+exp1_wide$designTopic <- paste(exp1_wide$design, exp1_wide$topic)
+
+# posthoc Trust 
+model_interaction <- lmer(Trustworthiness~ designTopic + Clarity + Professionalism + Aesthetic + (1|p), data = exp1_wide)
+summary(glht(model_interaction, linfct=mcp(designTopic = "Tukey")))
+```
+
+```{r}
+# posthoc Professionalism
+model_interaction <- lmer(Professionalism~ designTopic + Clarity + Trustworthiness + Aesthetic + (1|p), data = exp1_wide)
+summary(glht(model_interaction, linfct=mcp(designTopic = "Tukey")))
+```
+
+
+
+
+```{r}
+# posthoc Clarity
+model_interaction <- lmer(Clarity~ designTopic + Trustworthiness + Professionalism + Aesthetic + (1|p), data = exp1_wide)
+summary(glht(model_interaction, linfct=mcp(designTopic = "Tukey")))
+```
+
+```{r}
+# posthoc Aesthetic
+model_interaction <- lmer(Aesthetic~ designTopic + Clarity + Professionalism + Trustworthiness + (1|p), data = exp1_wide)
+summary(glht(model_interaction, linfct=mcp(designTopic = "Tukey")))
+```
+
+
+
+
+
+
+
+<h1> Are the four dimensions independent? </h1>
+
+```{r}
+VIF_Aesthetic <- 1/(1-summary(lm(Aesthetic ~ Clarity + Professionalism + Trustworthiness, 
+                                 data = exp1_wide))$r.squared)
+VIF_Clarity <- 1/(1-summary(lm(Clarity ~ Aesthetic + Professionalism + Trustworthiness, 
+                                 data = exp1_wide))$r.squared)
+VIF_Professionalism <- 1/(1-summary(lm(Professionalism ~ Clarity + Aesthetic + Trustworthiness, 
+                                 data = exp1_wide))$r.squared)
+VIF_Trustworthiness<- 1/(1-summary(lm(Trustworthiness ~ Clarity + Professionalism + Aesthetic, 
+                                 data = exp1_wide))$r.squared)
+
+cbind(VIF_Aesthetic, VIF_Clarity, VIF_Professionalism, VIF_Trustworthiness)
+
+```
+
+
+Correlation Matrics
+
+```{r}
+library("PerformanceAnalytics")
+metrics <- exp1_wide[, c(8,9,10,11)]
+chart.Correlation(metrics, histogram=TRUE, pch=19)
+```
+
+
+
+
+

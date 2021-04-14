@@ -1,0 +1,261 @@
+---
+title: "PilotPowerAnalysis"
+author: "Cindy Xiong"
+date: "April 9, 2019"
+output:
+  html_document:
+    code_folding: hide
+    fig_height: 6
+    fig_width: 8
+    highlight: pygments
+    theme: yeti
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
+  word_document:
+    toc: yes
+always_allow_html: yes
+---
+
+Uploading appropriate libraries
+
+```{r library, warnings=FALSE, warning=FALSE, message=FALSE}
+# include packages
+library(tidyverse)
+library(MANOVA.RM)
+library(multcomp)
+library(lme4)
+library(stringr)
+library(ggplot2)
+```
+
+Load data
+
+```{r load-data}
+pilot <- read.csv("pilot_quant.csv")
+pilot$Cluttered <- 0
+pilot$Decluttered <- 0
+pilot$Focused <- 0
+pilot$designdummy<-0
+
+pilot$Cluttered[pilot$design=="Cluttered"]<-1
+pilot$Decluttered[pilot$design=="Decluttered"]<-1
+pilot$Focused[pilot$design=="Focused"]<-1
+
+pilot$designdummy[pilot$design=="Cluttered"] <- 1
+pilot$designdummy[pilot$design=="Decluttered"] <- 2
+pilot$designdummy[pilot$design=="Focused"] <- 3
+
+# create a long table with participant data in one column
+pilot_long <- gather(pilot,p,data,s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15,s16,s17)
+pilot_long$p <- str_split_fixed(pilot_long$p, "s", 2)[,2]
+# turn components to wide table
+pilot_wide <- spread(pilot_long, question, data)
+```
+
+
+<h1> Within-Subject MANOVA </h1>
+
+http://www.sthda.com/english/wiki/manova-test-in-r-multivariate-analysis-of-variance
+
+```{r design}
+# MANOVA test for design effects
+res.man <-  manova(cbind(Aesthetic,Clarity,Professionalism,Trustworthiness) ~ design + Error(p), 
+                  data =pilot_wide)
+summary(res.man, test = "Pillai")
+```
+
+<h1> Power </h1>
+
+The Pillai's value was entered into G*Power for power analysis,
+There are 3 groups (Design: Cluttered, Decluttered, Focus), and 4 response variables (A,C,P,T)
+Which has an effect size f^2 of 0.2058726.
+
+This suggests a small-medium effect size.
+https://www.statisticssolutions.com/membership-resources/member-profile/sample-size-power-analysis/write-up-generator-references/manova-groups/manova-2-levels-and-4-dependent-variables/
+
+
+With alpha level= 0.05, at the current design, we have achieved 90.4% power. 
+
+The ideal sample-size would be 60 (20 participants, 3 measures from each). That way we will have 95.28661% power at alpha level 0.05. 
+
+<br>
+
+<h1> Visualizing Results </h1>
+
+```{r}
+ggplot(pilot_wide, aes(designdummy,Aesthetic)) +
+  geom_point()+
+  geom_line(aes(group=p))+
+  geom_smooth(method=lm,span=0.3)+
+  labs(x="Design",
+      y="Aesthetics Ratings") +
+  facet_wrap(~topic)+
+  scale_x_discrete(breaks=c("1","2","3"),
+        labels=c("Cluttered", "Decluttered", "Focused"))+
+  theme_minimal()
+
+ggplot(pilot_wide, aes(designdummy,Clarity)) +
+  geom_point()+
+  geom_line(aes(group=p))+
+  geom_smooth(method=lm,span=0.3)+
+  labs(x="Design",
+      y="Clarity Ratings") +
+  facet_wrap(~topic)+
+  scale_x_discrete(breaks=c("1","2","3"),
+        labels=c("Cluttered", "Decluttered", "Focused"))+
+  theme_minimal()
+
+ggplot(pilot_wide, aes(designdummy,Professionalism)) +
+  geom_point()+
+  geom_line(aes(group=p))+
+  geom_smooth(method=lm,span=0.3)+
+  labs(x="Design",
+      y="Professionalism Ratings") +
+  facet_wrap(~topic)+
+  scale_x_discrete(breaks=c("1","2","3"),
+        labels=c("Cluttered", "Decluttered", "Focused"))+
+  theme_minimal()
+
+ggplot(pilot_wide, aes(designdummy,Trustworthiness)) +
+  geom_point()+
+  geom_line(aes(group=p))+
+  geom_smooth(method=lm,span=0.3)+
+  labs(x="Design",
+      y="Trustworthiness Ratings") +
+  facet_wrap(~topic)+
+  scale_x_discrete(breaks=c("1","2","3"),
+        labels=c("Cluttered", "Decluttered", "Focused"))+
+  theme_minimal()
+```
+
+```{r functions, echo = FALSE}
+pairwise.perm.manova <- function(resp,fact,test=c("Pillai","Wilks","Hotelling-Lawley","Roy","Spherical"),
+  nperm=999,progress=TRUE,p.method="fdr") {
+  call <- match.call()
+  dname <- paste0(deparse(call$resp)," by ",deparse(substitute(fact)),"\n",nperm," permutations")
+  fact <- factor(fact)
+  if ("dist" %in% class(resp)) {
+    fun.p <- function(i,j) {
+	fact2 <- droplevels(fact[as.numeric(fact) %in% c(i,j)])
+	resp2 <- as.matrix(resp)
+	rows <- which(fact %in% levels(fact2))
+	resp2 <- as.dist(resp2[rows,rows])
+	vegan::adonis(resp2~fact2,permutations=nperm)$aov.tab[1,"Pr(>F)"]
+    }
+    multcomp <- pairwise.table(fun.p,levels(fact),p.adjust.method=p.method)
+    method <- "permutation MANOVAs on a distance matrix"
+  } else {
+    if (nrow(resp)!=length(fact)) {
+	stop(paste("'",deparse(substitute(resp)),"' and '",deparse(substitute(fact)),
+	  "' lengths differ",sep=""))
+    }
+    test <- match.arg(test)
+    if (!is.matrix(resp)) {resp <- as.matrix(resp)}
+    if (!is.factor(fact)) {fact <- factor(fact)}
+    fun.p <- function(i,j) {
+	resp2 <- resp[as.numeric(fact) %in% c(i,j),]
+	fact2 <- droplevels(fact[as.numeric(fact) %in% c(i,j)])
+	perm.manova(resp2,fact2,test=test,nperm=nperm,progress)
+    }
+    multcomp <- pairwise.table(fun.p,levels(fact),p.adjust.method=p.method)
+    method <- paste0("permutation MANOVAs (test: ",test,")")
+  }
+  result <- list(method=method,data.name=dname,p.value=multcomp,p.adjust.method=p.method)
+  class(result) <- "pairwise.htest"
+  return(result)
+}
+
+perm.manova <- function(resp,fact,test,nperm,progress) {
+  manova.ref <- anova(lm(resp~fact),test=test)
+  stat <- ifelse(test!="Spherical","approx F","F")
+  F.ref <- manova.ref[2,stat]
+  F.perm <- numeric(nperm+1)
+  F.perm[1] <- F.ref
+  if (progress) {pb <- txtProgressBar(min=0,max=100,initial=0,style=3)}
+  for (i in 1:nperm) {
+    manova.perm <- anova(lm(resp[sample(1:nrow(resp)),]~fact),test=test)
+    F.perm[i+1] <- manova.perm[2,stat]
+    if (progress) {setTxtProgressBar(pb,round(i*100/nperm,0))}
+  }
+  if (progress) {cat("\n")}
+  pvalue <- length(which((F.perm+.Machine$double.eps/2) >= F.ref))/(nperm+1)
+  return(pvalue)
+}
+```
+
+<h1> Post-Hoc Analysis </h1>
+
+Pairwise comparisons of the mean for design
+
+```{r}
+# pairwise.perm.manova(exp1_wide[,8:11],exp1_wide$design,nperm=49)
+pairwise.perm.manova(pilot_wide[,8:11], pilot_wide$design, 
+  test = c("Pillai"
+#, "Wilks","Hotelling-Lawley", "Roy", "Spherical"
+  ), 
+  nperm = 999, 
+  progress = TRUE, p.method = "bonferroni")
+```
+
+Visualize the pilot results on the quant ratings
+
+```{r}
+#detach("package:plyr", unload=TRUE) 
+
+A <- pilot_wide[,c(1,2,8:11)]%>%
+  group_by(design) %>%
+  summarise(n = n(), 
+            rating = mean(Aesthetic),
+            se = sd(Aesthetic)/sqrt(n()),
+            n = n,
+            dimension = "Aesthetic")
+
+C <- pilot_wide[,c(1,2,8:11)]%>%
+  group_by(design) %>%
+  summarise(n = n(), 
+            rating = mean(Clarity),
+            se = sd(Clarity)/sqrt(n()),
+            n = n,
+            dimension = "Clarity")
+
+P <- pilot_wide[,c(1,2,8:11)]%>%
+  group_by(design) %>%
+  summarise(n = n(), 
+            rating = mean(Professionalism),
+            se = sd(Professionalism)/sqrt(n()),
+            dimension = "Professionalism")
+
+Tr <- pilot_wide[,c(1,2,8:11)]%>%
+  group_by(design) %>%
+  summarise(n = n(), 
+            rating = mean(Trustworthiness),
+            se = sd(Trustworthiness)/sqrt(n()),
+            n = n,
+            dimension = "Trustworthiness")
+
+pilot_summary <- as.data.frame(rbind(A,C,P,Tr))
+
+ggplot(pilot_summary, aes(design, rating, fill = design,
+                          ymin = rating - se * 1.96, 
+                          ymax = rating + se * 1.96)) +
+  geom_bar(stat = "identity",
+           width = 0.4)+
+  # error bars
+  geom_errorbar(width = 0.1,
+                position = position_dodge(0.5)) + 
+  facet_wrap(~dimension, nrow = 1) + 
+  # label axis
+  labs(x = "design",
+       y = "rating") +
+  theme_minimal()
+```
+
+
+```{r}
+pilot_summary <- rbind(A, C, P, Tr)
+pilot_summary %>%
+  write.csv("pilot_summary.csv")
+```
+

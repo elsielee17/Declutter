@@ -1,0 +1,1368 @@
+topic,category,definition,is_topic_relevant,did_participant_mention_this,ID,design,ID2,order
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s1,Decluttered,1,4
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s2,Focused,2,3
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s4,Cluttered,4,6
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s5,Focused,5,3
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s7,Cluttered,7,5
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s8,Cluttered,8,6
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s9,Decluttered,9,1
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s10,Decluttered,10,4
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s11,Cluttered,11,5
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s12,Decluttered,12,1
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,1,s14,Cluttered,14,6
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s15,Focused,15,3
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s16,Decluttered,16,4
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s17,Cluttered,17,5
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s18,Decluttered,18,1
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s19,Decluttered,19,4
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s21,Focused,21,3
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s28,Focused,28,2
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s29,Focused,29,2
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s30,Focused,30,2
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s31,Focused,31,2
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s32,Cluttered,32,5
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s33,Cluttered,33,6
+CAR,Audio / Entertainment,Mentions audio and the entertainment system as a concern,0,0,s34,Decluttered,34,1
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,1,s1,Decluttered,1,4
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s2,Focused,2,3
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s4,Cluttered,4,6
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s5,Focused,5,3
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s7,Cluttered,7,5
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s8,Cluttered,8,6
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,1,s9,Decluttered,9,1
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s10,Decluttered,10,4
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s11,Cluttered,11,5
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s12,Decluttered,12,1
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s14,Cluttered,14,6
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s15,Focused,15,3
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s16,Decluttered,16,4
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s17,Cluttered,17,5
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s18,Decluttered,18,1
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s19,Decluttered,19,4
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s21,Focused,21,3
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s28,Focused,28,2
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s29,Focused,29,2
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s30,Focused,30,2
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s31,Focused,31,2
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s32,Cluttered,32,5
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s33,Cluttered,33,6
+CAR,Change / Modification,"Mentions the need for modifying, changing, or fixing the concern(s)",0,0,s34,Decluttered,34,1
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s1,Decluttered,1,4
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s2,Focused,2,3
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s4,Cluttered,4,6
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s5,Focused,5,3
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s7,Cluttered,7,5
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s8,Cluttered,8,6
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s9,Decluttered,9,1
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s10,Decluttered,10,4
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s11,Cluttered,11,5
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,1,s12,Decluttered,12,1
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s14,Cluttered,14,6
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,1,s15,Focused,15,3
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s16,Decluttered,16,4
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s17,Cluttered,17,5
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s18,Decluttered,18,1
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s19,Decluttered,19,4
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s21,Focused,21,3
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s28,Focused,28,2
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s29,Focused,29,2
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s30,Focused,30,2
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s31,Focused,31,2
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s32,Cluttered,32,5
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,0,s33,Cluttered,33,6
+CAR,Commonality,Mentions that there were some common / prevalent concerns,0,1,s34,Decluttered,34,1
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s1,Decluttered,1,5
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s2,Focused,2,2
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s4,Cluttered,4,3
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s5,Focused,5,2
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,1,s7,Cluttered,7,1
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s8,Cluttered,8,3
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s9,Focused,9,4
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s10,Decluttered,10,5
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s11,Cluttered,11,1
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s12,Focused,12,4
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s14,Cluttered,14,3
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s15,Focused,15,2
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s16,Decluttered,16,5
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s17,Cluttered,17,1
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s18,Focused,18,4
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s19,Decluttered,19,5
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,1,s21,Focused,21,2
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s28,Decluttered,28,6
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s29,Decluttered,29,6
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s30,Decluttered,30,6
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s31,Decluttered,31,6
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,1,s32,Cluttered,32,1
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s33,Cluttered,33,3
+PRISON,Comparison,Mentions that the graph shows / compares different major reasons for imprisonment,0,0,s34,Focused,34,4
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s1,Cluttered,1,6
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s2,Decluttered,2,1
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s4,Focused,4,5
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s5,Decluttered,5,1
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s7,Decluttered,7,3
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s8,Focused,8,5
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s9,Focused,9,2
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s10,Cluttered,10,6
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s11,Decluttered,11,3
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s12,Focused,12,2
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,1,s14,Focused,14,5
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,1,s15,Decluttered,15,1
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s16,Cluttered,16,6
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s17,Decluttered,17,3
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s18,Focused,18,2
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s19,Cluttered,19,6
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s21,Decluttered,21,1
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s28,Cluttered,28,3
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s29,Cluttered,29,3
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,1,s30,Cluttered,30,3
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s31,Cluttered,31,3
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s32,Decluttered,32,3
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s33,Focused,33,5
+TIRES,Competition,Mentions that tire prices are becoming more competitive,1,0,s34,Focused,34,2
+TIRES,Convergence,Mentions that tire prices converge,1,0,s1,Cluttered,1,6
+TIRES,Convergence,Mentions that tire prices converge,1,0,s2,Decluttered,2,1
+TIRES,Convergence,Mentions that tire prices converge,1,0,s4,Focused,4,5
+TIRES,Convergence,Mentions that tire prices converge,1,0,s5,Decluttered,5,1
+TIRES,Convergence,Mentions that tire prices converge,1,0,s7,Decluttered,7,3
+TIRES,Convergence,Mentions that tire prices converge,1,0,s8,Focused,8,5
+TIRES,Convergence,Mentions that tire prices converge,1,1,s9,Focused,9,2
+TIRES,Convergence,Mentions that tire prices converge,1,0,s10,Cluttered,10,6
+TIRES,Convergence,Mentions that tire prices converge,1,0,s11,Decluttered,11,3
+TIRES,Convergence,Mentions that tire prices converge,1,1,s12,Focused,12,2
+TIRES,Convergence,Mentions that tire prices converge,1,1,s14,Focused,14,5
+TIRES,Convergence,Mentions that tire prices converge,1,0,s15,Decluttered,15,1
+TIRES,Convergence,Mentions that tire prices converge,1,0,s16,Cluttered,16,6
+TIRES,Convergence,Mentions that tire prices converge,1,0,s17,Decluttered,17,3
+TIRES,Convergence,Mentions that tire prices converge,1,0,s18,Focused,18,2
+TIRES,Convergence,Mentions that tire prices converge,1,0,s19,Cluttered,19,6
+TIRES,Convergence,Mentions that tire prices converge,1,0,s21,Decluttered,21,1
+TIRES,Convergence,Mentions that tire prices converge,1,0,s28,Cluttered,28,3
+TIRES,Convergence,Mentions that tire prices converge,1,0,s29,Cluttered,29,3
+TIRES,Convergence,Mentions that tire prices converge,1,0,s30,Cluttered,30,3
+TIRES,Convergence,Mentions that tire prices converge,1,1,s31,Cluttered,31,3
+TIRES,Convergence,Mentions that tire prices converge,1,0,s32,Decluttered,32,3
+TIRES,Convergence,Mentions that tire prices converge,1,1,s33,Focused,33,5
+TIRES,Convergence,Mentions that tire prices converge,1,1,s34,Focused,34,2
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s1,Focused,1,1
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s2,Decluttered,2,6
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s4,Decluttered,4,2
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s5,Decluttered,5,6
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s7,Focused,7,4
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s8,Decluttered,8,2
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s9,Cluttered,9,5
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s10,Focused,10,1
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s11,Focused,11,4
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,1,s12,Cluttered,12,5
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,1,s14,Decluttered,14,2
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s15,Decluttered,15,6
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s16,Focused,16,1
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s17,Focused,17,4
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s18,Cluttered,18,5
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s19,Focused,19,1
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s21,Decluttered,21,6
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s28,Cluttered,28,4
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s29,Cluttered,29,4
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s30,Cluttered,30,4
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s31,Cluttered,31,4
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s32,Focused,32,4
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s33,Decluttered,33,2
+HOLIDAY,December,Mentions December as one of the most common months to shop,0,0,s34,Cluttered,34,5
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,0,s1,Cluttered,1,6
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,1,s2,Decluttered,2,1
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,1,s4,Focused,4,5
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,1,s5,Decluttered,5,1
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,1,s7,Decluttered,7,3
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,1,s8,Focused,8,5
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,0,s9,Focused,9,2
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,0,s10,Cluttered,10,6
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,0,s11,Decluttered,11,3
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,0,s12,Focused,12,2
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,0,s14,Focused,14,5
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,0,s15,Decluttered,15,1
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,1,s16,Cluttered,16,6
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,1,s17,Decluttered,17,3
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,0,s18,Focused,18,2
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,0,s19,Cluttered,19,6
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,1,s21,Decluttered,21,1
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,1,s28,Cluttered,28,3
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,0,s29,Cluttered,29,3
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,1,s30,Cluttered,30,3
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,1,s31,Cluttered,31,3
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,0,s32,Decluttered,32,3
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,0,s33,Focused,33,5
+TIRES,Decrease,Mentions that certain tire prices have decreased,0,0,s34,Focused,34,2
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,0,s1,Focused,1,1
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,0,s2,Decluttered,2,6
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,1,s4,Decluttered,4,2
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,0,s5,Decluttered,5,6
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,0,s7,Focused,7,4
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,1,s8,Decluttered,8,2
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,0,s9,Cluttered,9,5
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,1,s10,Focused,10,1
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,1,s11,Focused,11,4
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,0,s12,Cluttered,12,5
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,1,s14,Decluttered,14,2
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,0,s15,Decluttered,15,6
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,1,s16,Focused,16,1
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,1,s17,Focused,17,4
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,1,s18,Cluttered,18,5
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,1,s19,Focused,19,1
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,1,s21,Decluttered,21,6
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,0,s28,Cluttered,28,4
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,0,s29,Cluttered,29,4
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,1,s30,Cluttered,30,4
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,0,s31,Cluttered,31,4
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,0,s32,Focused,32,4
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,1,s33,Decluttered,33,2
+HOLIDAY,Discrepancy,Mentions a specific difference either between genders or months,0,0,s34,Cluttered,34,5
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s1,Decluttered,1,5
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s2,Focused,2,2
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s4,Cluttered,4,3
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s5,Focused,5,2
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s7,Cluttered,7,1
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s8,Cluttered,8,3
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s9,Focused,9,4
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s10,Decluttered,10,5
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s11,Cluttered,11,1
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s12,Focused,12,4
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s14,Cluttered,14,3
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s15,Focused,15,2
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s16,Decluttered,16,5
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s17,Cluttered,17,1
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s18,Focused,18,4
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s19,Decluttered,19,5
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s21,Focused,21,2
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s28,Decluttered,28,6
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s29,Decluttered,29,6
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s30,Decluttered,30,6
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s31,Decluttered,31,6
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s32,Cluttered,32,1
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s33,Cluttered,33,3
+PRISON,Display,Mentions the placement of bars in the graph,0,0,s34,Focused,34,4
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s1,Decluttered,1,5
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s2,Focused,2,2
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s4,Cluttered,4,3
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s5,Focused,5,2
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s7,Cluttered,7,1
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s8,Cluttered,8,3
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,1,s9,Focused,9,4
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s10,Decluttered,10,5
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s11,Cluttered,11,1
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,1,s12,Focused,12,4
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,1,s14,Cluttered,14,3
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,1,s15,Focused,15,2
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,1,s16,Decluttered,16,5
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s17,Cluttered,17,1
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s18,Focused,18,4
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,1,s19,Decluttered,19,5
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s21,Focused,21,2
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,1,s28,Decluttered,28,6
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s29,Decluttered,29,6
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s30,Decluttered,30,6
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s31,Decluttered,31,6
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s32,Cluttered,32,1
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s33,Cluttered,33,3
+PRISON,Drug Offenses,Mentions drug offenses as a common reason for imprisonment,0,0,s34,Focused,34,4
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s1,Focused,1,2
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s2,Cluttered,2,5
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s4,Decluttered,4,4
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,1,s5,Cluttered,5,5
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s7,Focused,7,6
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s8,Decluttered,8,4
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,1,s9,Cluttered,9,3
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s10,Focused,10,2
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s11,Focused,11,6
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s12,Cluttered,12,3
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s14,Decluttered,14,4
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s15,Cluttered,15,5
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s16,Focused,16,2
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s17,Focused,17,6
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s18,Cluttered,18,3
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s19,Focused,19,2
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s21,Cluttered,21,5
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s28,Decluttered,28,1
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s29,Decluttered,29,1
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s30,Decluttered,30,1
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,1,s31,Decluttered,31,1
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s32,Focused,32,6
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s33,Decluttered,33,4
+PLANTS,Endless Summer,Mentions that Endless Summer sells the best,0,0,s34,Cluttered,34,3
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s1,Decluttered,1,4
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s2,Focused,2,3
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s4,Cluttered,4,6
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s5,Focused,5,3
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,1,s7,Cluttered,7,5
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s8,Cluttered,8,6
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s9,Decluttered,9,1
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s10,Decluttered,10,4
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s11,Cluttered,11,5
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s12,Decluttered,12,1
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s14,Cluttered,14,6
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s15,Focused,15,3
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s16,Decluttered,16,4
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s17,Cluttered,17,5
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,1,s18,Decluttered,18,1
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s19,Decluttered,19,4
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s21,Focused,21,3
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s28,Focused,28,2
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,1,s29,Focused,29,2
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s30,Focused,30,2
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s31,Focused,31,2
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s32,Cluttered,32,5
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s33,Cluttered,33,6
+CAR,Engine,Mentions the engine in general (not specifically noise or power),0,0,s34,Decluttered,34,1
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s1,Cluttered,1,3
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s2,Cluttered,2,4
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s4,Focused,4,1
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,1,s5,Cluttered,5,4
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s7,Decluttered,7,2
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s8,Focused,8,1
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,1,s9,Decluttered,9,6
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s10,Cluttered,10,3
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s11,Decluttered,11,2
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s12,Decluttered,12,6
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s14,Focused,14,1
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s15,Cluttered,15,4
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s16,Cluttered,16,3
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s17,Decluttered,17,2
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s18,Decluttered,18,6
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s19,Cluttered,19,3
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s21,Cluttered,21,4
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s28,Focused,28,5
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s29,Focused,29,5
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s30,Focused,30,5
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s31,Focused,31,5
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s32,Decluttered,32,2
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,1,s33,Focused,33,1
+NEWS,Friends,Mentions that friends are one of the least common news sources,0,0,s34,Decluttered,34,6
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,1,s1,Focused,1,1
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s2,Decluttered,2,6
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s4,Decluttered,4,2
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s5,Decluttered,5,6
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s7,Focused,7,4
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s8,Decluttered,8,2
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,1,s9,Cluttered,9,5
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s10,Focused,10,1
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s11,Focused,11,4
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s12,Cluttered,12,5
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s14,Decluttered,14,2
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s15,Decluttered,15,6
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s16,Focused,16,1
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s17,Focused,17,4
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s18,Cluttered,18,5
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s19,Focused,19,1
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s21,Decluttered,21,6
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s28,Cluttered,28,4
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s29,Cluttered,29,4
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s30,Cluttered,30,4
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s31,Cluttered,31,4
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s32,Focused,32,4
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s33,Decluttered,33,2
+HOLIDAY,Gender,Mentions an unspecified difference in gender,0,0,s34,Cluttered,34,5
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s1,Cluttered,1,6
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s2,Decluttered,2,1
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s4,Focused,4,5
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s5,Decluttered,5,1
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s7,Decluttered,7,3
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s8,Focused,8,5
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,1,s9,Focused,9,2
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s10,Cluttered,10,6
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s11,Decluttered,11,3
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s12,Focused,12,2
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s14,Focused,14,5
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s15,Decluttered,15,1
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s16,Cluttered,16,6
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s17,Decluttered,17,3
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s18,Focused,18,2
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s19,Cluttered,19,6
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s21,Decluttered,21,1
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s28,Cluttered,28,3
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s29,Cluttered,29,3
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s30,Cluttered,30,3
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s31,Cluttered,31,3
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s32,Decluttered,32,3
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s33,Focused,33,5
+TIRES,Goodrich,Mentions that Goodrich was the most expensive brand,0,0,s34,Focused,34,2
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,0,s1,Decluttered,1,5
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,0,s2,Focused,2,2
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,0,s4,Cluttered,4,3
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,1,s5,Focused,5,2
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,0,s7,Cluttered,7,1
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,1,s8,Cluttered,8,3
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,1,s9,Focused,9,4
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,1,s10,Decluttered,10,5
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,1,s11,Cluttered,11,1
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,1,s12,Focused,12,4
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,1,s14,Cluttered,14,3
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,0,s15,Focused,15,2
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,1,s16,Decluttered,16,5
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,0,s17,Cluttered,17,1
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,1,s18,Focused,18,4
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,1,s19,Decluttered,19,5
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,0,s21,Focused,21,2
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,1,s28,Decluttered,28,6
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,1,s29,Decluttered,29,6
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,1,s30,Decluttered,30,6
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,0,s31,Decluttered,31,6
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,0,s32,Cluttered,32,1
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,1,s33,Cluttered,33,3
+PRISON,Immigration,Mentions that immigration is the most common reason for imprisonment,0,1,s34,Focused,34,4
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s1,Cluttered,1,6
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s2,Decluttered,2,1
+TIRES,Increase,Mentions that certain tire prices have increased,0,1,s4,Focused,4,5
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s5,Decluttered,5,1
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s7,Decluttered,7,3
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s8,Focused,8,5
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s9,Focused,9,2
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s10,Cluttered,10,6
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s11,Decluttered,11,3
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s12,Focused,12,2
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s14,Focused,14,5
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s15,Decluttered,15,1
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s16,Cluttered,16,6
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s17,Decluttered,17,3
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s18,Focused,18,2
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s19,Cluttered,19,6
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s21,Decluttered,21,1
+TIRES,Increase,Mentions that certain tire prices have increased,0,1,s28,Cluttered,28,3
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s29,Cluttered,29,3
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s30,Cluttered,30,3
+TIRES,Increase,Mentions that certain tire prices have increased,0,1,s31,Cluttered,31,3
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s32,Decluttered,32,3
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s33,Focused,33,5
+TIRES,Increase,Mentions that certain tire prices have increased,0,0,s34,Focused,34,2
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s1,Cluttered,1,3
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s2,Cluttered,2,4
+NEWS,Internet,Mentions that internet usage is increasing,1,1,s4,Focused,4,1
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s5,Cluttered,5,4
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s7,Decluttered,7,2
+NEWS,Internet,Mentions that internet usage is increasing,1,1,s8,Focused,8,1
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s9,Decluttered,9,6
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s10,Cluttered,10,3
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s11,Decluttered,11,2
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s12,Decluttered,12,6
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s14,Focused,14,1
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s15,Cluttered,15,4
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s16,Cluttered,16,3
+NEWS,Internet,Mentions that internet usage is increasing,1,1,s17,Decluttered,17,2
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s18,Decluttered,18,6
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s19,Cluttered,19,3
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s21,Cluttered,21,4
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s28,Focused,28,5
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s29,Focused,29,5
+NEWS,Internet,Mentions that internet usage is increasing,1,1,s30,Focused,30,5
+NEWS,Internet,Mentions that internet usage is increasing,1,1,s31,Focused,31,5
+NEWS,Internet,Mentions that internet usage is increasing,1,1,s32,Decluttered,32,2
+NEWS,Internet,Mentions that internet usage is increasing,1,0,s33,Focused,33,1
+NEWS,Internet,Mentions that internet usage is increasing,1,1,s34,Decluttered,34,6
+PLANTS,Local / National,Mentions a difference between local and national sales,1,1,s1,Focused,1,2
+PLANTS,Local / National,Mentions a difference between local and national sales,1,1,s2,Cluttered,2,5
+PLANTS,Local / National,Mentions a difference between local and national sales,1,0,s4,Decluttered,4,4
+PLANTS,Local / National,Mentions a difference between local and national sales,1,0,s5,Cluttered,5,5
+PLANTS,Local / National,Mentions a difference between local and national sales,1,0,s7,Focused,7,6
+PLANTS,Local / National,Mentions a difference between local and national sales,1,0,s8,Decluttered,8,4
+PLANTS,Local / National,Mentions a difference between local and national sales,1,1,s9,Cluttered,9,3
+PLANTS,Local / National,Mentions a difference between local and national sales,1,1,s10,Focused,10,2
+PLANTS,Local / National,Mentions a difference between local and national sales,1,1,s11,Focused,11,6
+PLANTS,Local / National,Mentions a difference between local and national sales,1,1,s12,Cluttered,12,3
+PLANTS,Local / National,Mentions a difference between local and national sales,1,1,s14,Decluttered,14,4
+PLANTS,Local / National,Mentions a difference between local and national sales,1,1,s15,Cluttered,15,5
+PLANTS,Local / National,Mentions a difference between local and national sales,1,0,s16,Focused,16,2
+PLANTS,Local / National,Mentions a difference between local and national sales,1,1,s17,Focused,17,6
+PLANTS,Local / National,Mentions a difference between local and national sales,1,0,s18,Cluttered,18,3
+PLANTS,Local / National,Mentions a difference between local and national sales,1,0,s19,Focused,19,2
+PLANTS,Local / National,Mentions a difference between local and national sales,1,1,s21,Cluttered,21,5
+PLANTS,Local / National,Mentions a difference between local and national sales,1,1,s28,Decluttered,28,1
+PLANTS,Local / National,Mentions a difference between local and national sales,1,0,s29,Decluttered,29,1
+PLANTS,Local / National,Mentions a difference between local and national sales,1,1,s30,Decluttered,30,1
+PLANTS,Local / National,Mentions a difference between local and national sales,1,1,s31,Decluttered,31,1
+PLANTS,Local / National,Mentions a difference between local and national sales,1,1,s32,Focused,32,6
+PLANTS,Local / National,Mentions a difference between local and national sales,1,0,s33,Decluttered,33,4
+PLANTS,Local / National,Mentions a difference between local and national sales,1,1,s34,Cluttered,34,3
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s1,Focused,1,1
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,1,s2,Decluttered,2,6
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,1,s4,Decluttered,4,2
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s5,Decluttered,5,6
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s7,Focused,7,4
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,1,s8,Decluttered,8,2
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s9,Cluttered,9,5
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s10,Focused,10,1
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s11,Focused,11,4
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s12,Cluttered,12,5
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,1,s14,Decluttered,14,2
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s15,Decluttered,15,6
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s16,Focused,16,1
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,1,s17,Focused,17,4
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s18,Cluttered,18,5
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s19,Focused,19,1
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s21,Decluttered,21,6
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,1,s28,Cluttered,28,4
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s29,Cluttered,29,4
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s30,Cluttered,30,4
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s31,Cluttered,31,4
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s32,Focused,32,4
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s33,Decluttered,33,2
+HOLIDAY,Men,Mentions that men shop more in later months (November and December),1,0,s34,Cluttered,34,5
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s1,Decluttered,1,5
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,1,s2,Focused,2,2
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s4,Cluttered,4,3
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s5,Focused,5,2
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s7,Cluttered,7,1
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s8,Cluttered,8,3
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s9,Focused,9,4
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s10,Decluttered,10,5
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s11,Cluttered,11,1
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s12,Focused,12,4
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s14,Cluttered,14,3
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s15,Focused,15,2
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s16,Decluttered,16,5
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s17,Cluttered,17,1
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s18,Focused,18,4
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s19,Decluttered,19,5
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s21,Focused,21,2
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s28,Decluttered,28,6
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s29,Decluttered,29,6
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s30,Decluttered,30,6
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s31,Decluttered,31,6
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s32,Cluttered,32,1
+PRISON,Minor / Major,Mentions both major and minor drug offenses,1,0,s33,Cluttered,33,3
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s1,Cluttered,1,3
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s2,Cluttered,2,4
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s4,Focused,4,1
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s5,Cluttered,5,4
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s7,Decluttered,7,2
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s8,Focused,8,1
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s9,Decluttered,9,6
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s10,Cluttered,10,3
+NEWS,Newspaper,Mentions a trend related to newspapers,0,1,s11,Decluttered,11,2
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s12,Decluttered,12,6
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s14,Focused,14,1
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s15,Cluttered,15,4
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s16,Cluttered,16,3
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s17,Decluttered,17,2
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s18,Decluttered,18,6
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s19,Cluttered,19,3
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s21,Cluttered,21,4
+NEWS,Newspaper,Mentions a trend related to newspapers,0,1,s28,Focused,28,5
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s29,Focused,29,5
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s30,Focused,30,5
+NEWS,Newspaper,Mentions a trend related to newspapers,0,1,s31,Focused,31,5
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s32,Decluttered,32,2
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s33,Focused,33,1
+NEWS,Newspaper,Mentions a trend related to newspapers,0,0,s34,Decluttered,34,6
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s1,Decluttered,1,4
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,1,s2,Focused,2,3
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s4,Cluttered,4,6
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s5,Focused,5,3
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s7,Cluttered,7,5
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s8,Cluttered,8,6
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s9,Decluttered,9,1
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s10,Decluttered,10,4
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s11,Cluttered,11,5
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s12,Decluttered,12,1
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s14,Cluttered,14,6
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s15,Focused,15,3
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s16,Decluttered,16,4
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,1,s17,Cluttered,17,5
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s18,Decluttered,18,1
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s19,Decluttered,19,4
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,1,s21,Focused,21,3
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,1,s28,Focused,28,2
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s29,Focused,29,2
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,1,s30,Focused,30,2
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,1,s31,Focused,31,2
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s32,Cluttered,32,5
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s33,Cluttered,33,6
+CAR,Noise,Mentions engine noise as the top / one of the top concern(s),1,0,s34,Decluttered,34,1
+HOLIDAY,November,Mentions November as the most common month to shop,0,0,s1,Focused,1,1
+HOLIDAY,November,Mentions November as the most common month to shop,0,0,s2,Decluttered,2,6
+HOLIDAY,November,Mentions November as the most common month to shop,0,1,s4,Decluttered,4,2
+HOLIDAY,November,Mentions November as the most common month to shop,0,1,s5,Decluttered,5,6
+HOLIDAY,November,Mentions November as the most common month to shop,0,0,s7,Focused,7,4
+HOLIDAY,November,Mentions November as the most common month to shop,0,1,s8,Decluttered,8,2
+HOLIDAY,November,Mentions November as the most common month to shop,0,1,s9,Cluttered,9,5
+HOLIDAY,November,Mentions November as the most common month to shop,0,1,s10,Focused,10,1
+HOLIDAY,November,Mentions November as the most common month to shop,0,0,s11,Focused,11,4
+HOLIDAY,November,Mentions November as the most common month to shop,0,1,s12,Cluttered,12,5
+HOLIDAY,November,Mentions November as the most common month to shop,0,0,s14,Decluttered,14,2
+HOLIDAY,November,Mentions November as the most common month to shop,0,0,s15,Decluttered,15,6
+HOLIDAY,November,Mentions November as the most common month to shop,0,0,s16,Focused,16,1
+HOLIDAY,November,Mentions November as the most common month to shop,0,0,s17,Focused,17,4
+HOLIDAY,November,Mentions November as the most common month to shop,0,0,s18,Cluttered,18,5
+HOLIDAY,November,Mentions November as the most common month to shop,0,0,s19,Focused,19,1
+HOLIDAY,November,Mentions November as the most common month to shop,0,1,s21,Decluttered,21,6
+HOLIDAY,November,Mentions November as the most common month to shop,0,0,s28,Cluttered,28,4
+HOLIDAY,November,Mentions November as the most common month to shop,0,1,s29,Cluttered,29,4
+HOLIDAY,November,Mentions November as the most common month to shop,0,1,s30,Cluttered,30,4
+HOLIDAY,November,Mentions November as the most common month to shop,0,1,s31,Cluttered,31,4
+HOLIDAY,November,Mentions November as the most common month to shop,0,1,s32,Focused,32,4
+HOLIDAY,November,Mentions November as the most common month to shop,0,1,s33,Decluttered,33,2
+HOLIDAY,November,Mentions November as the most common month to shop,0,0,s34,Cluttered,34,5
+CAR,Number,Mentions the number of people concerned,0,0,s1,Decluttered,1,4
+CAR,Number,Mentions the number of people concerned,0,0,s2,Focused,2,3
+CAR,Number,Mentions the number of people concerned,0,0,s4,Cluttered,4,6
+CAR,Number,Mentions the number of people concerned,0,0,s5,Focused,5,3
+CAR,Number,Mentions the number of people concerned,0,0,s7,Cluttered,7,5
+CAR,Number,Mentions the number of people concerned,0,1,s8,Cluttered,8,6
+CAR,Number,Mentions the number of people concerned,0,0,s9,Decluttered,9,1
+CAR,Number,Mentions the number of people concerned,0,0,s10,Decluttered,10,4
+CAR,Number,Mentions the number of people concerned,0,0,s11,Cluttered,11,5
+CAR,Number,Mentions the number of people concerned,0,0,s12,Decluttered,12,1
+CAR,Number,Mentions the number of people concerned,0,0,s14,Cluttered,14,6
+CAR,Number,Mentions the number of people concerned,0,0,s15,Focused,15,3
+CAR,Number,Mentions the number of people concerned,0,0,s16,Decluttered,16,4
+CAR,Number,Mentions the number of people concerned,0,0,s17,Cluttered,17,5
+CAR,Number,Mentions the number of people concerned,0,0,s18,Decluttered,18,1
+CAR,Number,Mentions the number of people concerned,0,0,s19,Decluttered,19,4
+CAR,Number,Mentions the number of people concerned,0,0,s21,Focused,21,3
+CAR,Number,Mentions the number of people concerned,0,0,s28,Focused,28,2
+CAR,Number,Mentions the number of people concerned,0,0,s29,Focused,29,2
+CAR,Number,Mentions the number of people concerned,0,0,s30,Focused,30,2
+CAR,Number,Mentions the number of people concerned,0,1,s31,Focused,31,2
+CAR,Number,Mentions the number of people concerned,0,0,s32,Cluttered,32,5
+CAR,Number,Mentions the number of people concerned,0,0,s33,Cluttered,33,6
+CAR,Number,Mentions the number of people concerned,0,0,s34,Decluttered,34,1
+CAR,Other,Participant does not remember,-1,0,s1,Decluttered,1,4
+CAR,Other,None of the above conclusions,-1,0,s1,Decluttered,1,4
+CAR,Other,Participant does not remember,-1,0,s2,Focused,2,3
+CAR,Other,None of the above conclusions,-1,0,s2,Focused,2,3
+CAR,Other,Participant does not remember,-1,0,s4,Cluttered,4,6
+CAR,Other,None of the above conclusions,-1,0,s4,Cluttered,4,6
+CAR,Other,Participant does not remember,-1,0,s5,Focused,5,3
+CAR,Other,None of the above conclusions,-1,0,s5,Focused,5,3
+CAR,Other,Participant does not remember,-1,0,s7,Cluttered,7,5
+CAR,Other,None of the above conclusions,-1,0,s7,Cluttered,7,5
+CAR,Other,Participant does not remember,-1,0,s8,Cluttered,8,6
+CAR,Other,None of the above conclusions,-1,0,s8,Cluttered,8,6
+CAR,Other,Participant does not remember,-1,0,s9,Decluttered,9,1
+CAR,Other,None of the above conclusions,-1,0,s9,Decluttered,9,1
+CAR,Other,Participant does not remember,-1,1,s10,Decluttered,10,4
+CAR,Other,None of the above conclusions,-1,0,s10,Decluttered,10,4
+CAR,Other,Participant does not remember,-1,0,s11,Cluttered,11,5
+CAR,Other,None of the above conclusions,-1,0,s11,Cluttered,11,5
+CAR,Other,Participant does not remember,-1,0,s12,Decluttered,12,1
+CAR,Other,None of the above conclusions,-1,0,s12,Decluttered,12,1
+CAR,Other,Participant does not remember,-1,0,s14,Cluttered,14,6
+CAR,Other,None of the above conclusions,-1,0,s14,Cluttered,14,6
+CAR,Other,Participant does not remember,-1,0,s15,Focused,15,3
+CAR,Other,None of the above conclusions,-1,0,s15,Focused,15,3
+CAR,Other,Participant does not remember,-1,0,s16,Decluttered,16,4
+CAR,Other,None of the above conclusions,-1,0,s16,Decluttered,16,4
+CAR,Other,Participant does not remember,-1,0,s17,Cluttered,17,5
+CAR,Other,None of the above conclusions,-1,0,s17,Cluttered,17,5
+CAR,Other,Participant does not remember,-1,0,s18,Decluttered,18,1
+CAR,Other,None of the above conclusions,-1,0,s18,Decluttered,18,1
+CAR,Other,Participant does not remember,-1,0,s19,Decluttered,19,4
+CAR,Other,None of the above conclusions,-1,0,s19,Decluttered,19,4
+CAR,Other,Participant does not remember,-1,0,s21,Focused,21,3
+CAR,Other,None of the above conclusions,-1,0,s21,Focused,21,3
+CAR,Other,Participant does not remember,-1,0,s28,Focused,28,2
+CAR,Other,None of the above conclusions,-1,0,s28,Focused,28,2
+CAR,Other,Participant does not remember,-1,0,s29,Focused,29,2
+CAR,Other,None of the above conclusions,-1,0,s29,Focused,29,2
+CAR,Other,Participant does not remember,-1,0,s30,Focused,30,2
+CAR,Other,None of the above conclusions,-1,0,s30,Focused,30,2
+CAR,Other,Participant does not remember,-1,0,s31,Focused,31,2
+CAR,Other,None of the above conclusions,-1,0,s31,Focused,31,2
+CAR,Other,Participant does not remember,-1,0,s32,Cluttered,32,5
+CAR,Other,None of the above conclusions,-1,0,s32,Cluttered,32,5
+CAR,Other,Participant does not remember,-1,0,s33,Cluttered,33,6
+CAR,Other,None of the above conclusions,-1,0,s33,Cluttered,33,6
+CAR,Other,Participant does not remember,-1,0,s34,Decluttered,34,1
+CAR,Other,None of the above conclusions,-1,0,s34,Decluttered,34,1
+HOLIDAY,Other,Participant does not remember,-1,0,s1,Focused,1,1
+HOLIDAY,Other,None of the above conclusions,-1,0,s1,Focused,1,1
+HOLIDAY,Other,Participant does not remember,-1,0,s2,Decluttered,2,6
+HOLIDAY,Other,None of the above conclusions,-1,0,s2,Decluttered,2,6
+HOLIDAY,Other,Participant does not remember,-1,0,s4,Decluttered,4,2
+HOLIDAY,Other,None of the above conclusions,-1,0,s4,Decluttered,4,2
+HOLIDAY,Other,Participant does not remember,-1,0,s5,Decluttered,5,6
+HOLIDAY,Other,None of the above conclusions,-1,0,s5,Decluttered,5,6
+HOLIDAY,Other,Participant does not remember,-1,0,s7,Focused,7,4
+HOLIDAY,Other,None of the above conclusions,-1,0,s7,Focused,7,4
+HOLIDAY,Other,Participant does not remember,-1,0,s8,Decluttered,8,2
+HOLIDAY,Other,None of the above conclusions,-1,0,s8,Decluttered,8,2
+HOLIDAY,Other,Participant does not remember,-1,0,s9,Cluttered,9,5
+HOLIDAY,Other,None of the above conclusions,-1,0,s9,Cluttered,9,5
+HOLIDAY,Other,Participant does not remember,-1,0,s10,Focused,10,1
+HOLIDAY,Other,None of the above conclusions,-1,0,s10,Focused,10,1
+HOLIDAY,Other,Participant does not remember,-1,0,s11,Focused,11,4
+HOLIDAY,Other,None of the above conclusions,-1,0,s11,Focused,11,4
+HOLIDAY,Other,Participant does not remember,-1,0,s12,Cluttered,12,5
+HOLIDAY,Other,None of the above conclusions,-1,0,s12,Cluttered,12,5
+HOLIDAY,Other,Participant does not remember,-1,0,s14,Decluttered,14,2
+HOLIDAY,Other,None of the above conclusions,-1,0,s14,Decluttered,14,2
+HOLIDAY,Other,Participant does not remember,-1,0,s15,Decluttered,15,6
+HOLIDAY,Other,None of the above conclusions,-1,0,s15,Decluttered,15,6
+HOLIDAY,Other,Participant does not remember,-1,0,s16,Focused,16,1
+HOLIDAY,Other,None of the above conclusions,-1,0,s16,Focused,16,1
+HOLIDAY,Other,Participant does not remember,-1,0,s17,Focused,17,4
+HOLIDAY,Other,None of the above conclusions,-1,0,s17,Focused,17,4
+HOLIDAY,Other,Participant does not remember,-1,0,s18,Cluttered,18,5
+HOLIDAY,Other,None of the above conclusions,-1,0,s18,Cluttered,18,5
+HOLIDAY,Other,Participant does not remember,-1,0,s19,Focused,19,1
+HOLIDAY,Other,None of the above conclusions,-1,0,s19,Focused,19,1
+HOLIDAY,Other,Participant does not remember,-1,0,s21,Decluttered,21,6
+HOLIDAY,Other,None of the above conclusions,-1,0,s21,Decluttered,21,6
+HOLIDAY,Other,Participant does not remember,-1,0,s28,Cluttered,28,4
+HOLIDAY,Other,None of the above conclusions,-1,0,s28,Cluttered,28,4
+HOLIDAY,Other,Participant does not remember,-1,0,s29,Cluttered,29,4
+HOLIDAY,Other,None of the above conclusions,-1,0,s29,Cluttered,29,4
+HOLIDAY,Other,Participant does not remember,-1,0,s30,Cluttered,30,4
+HOLIDAY,Other,None of the above conclusions,-1,1,s30,Cluttered,30,4
+HOLIDAY,Other,Participant does not remember,-1,0,s31,Cluttered,31,4
+HOLIDAY,Other,None of the above conclusions,-1,0,s31,Cluttered,31,4
+HOLIDAY,Other,Participant does not remember,-1,0,s32,Focused,32,4
+HOLIDAY,Other,None of the above conclusions,-1,0,s32,Focused,32,4
+HOLIDAY,Other,Participant does not remember,-1,0,s33,Decluttered,33,2
+HOLIDAY,Other,None of the above conclusions,-1,0,s33,Decluttered,33,2
+HOLIDAY,Other,Participant does not remember,-1,0,s34,Cluttered,34,5
+HOLIDAY,Other,None of the above conclusions,-1,0,s34,Cluttered,34,5
+NEWS,Other,Participant does not remember,-1,0,s1,Cluttered,1,3
+NEWS,Other,None of the above conclusions,-1,0,s1,Cluttered,1,3
+NEWS,Other,Participant does not remember,-1,0,s2,Cluttered,2,4
+NEWS,Other,None of the above conclusions,-1,0,s2,Cluttered,2,4
+NEWS,Other,Participant does not remember,-1,0,s4,Focused,4,1
+NEWS,Other,None of the above conclusions,-1,0,s4,Focused,4,1
+NEWS,Other,Participant does not remember,-1,0,s5,Cluttered,5,4
+NEWS,Other,None of the above conclusions,-1,0,s5,Cluttered,5,4
+NEWS,Other,Participant does not remember,-1,0,s7,Decluttered,7,2
+NEWS,Other,None of the above conclusions,-1,0,s7,Decluttered,7,2
+NEWS,Other,Participant does not remember,-1,0,s8,Focused,8,1
+NEWS,Other,None of the above conclusions,-1,0,s8,Focused,8,1
+NEWS,Other,Participant does not remember,-1,0,s9,Decluttered,9,6
+NEWS,Other,None of the above conclusions,-1,0,s9,Decluttered,9,6
+NEWS,Other,Participant does not remember,-1,1,s10,Cluttered,10,3
+NEWS,Other,None of the above conclusions,-1,0,s10,Cluttered,10,3
+NEWS,Other,Participant does not remember,-1,0,s11,Decluttered,11,2
+NEWS,Other,None of the above conclusions,-1,0,s11,Decluttered,11,2
+NEWS,Other,Participant does not remember,-1,0,s12,Decluttered,12,6
+NEWS,Other,None of the above conclusions,-1,0,s12,Decluttered,12,6
+NEWS,Other,Participant does not remember,-1,0,s14,Focused,14,1
+NEWS,Other,None of the above conclusions,-1,0,s14,Focused,14,1
+NEWS,Other,Participant does not remember,-1,0,s15,Cluttered,15,4
+NEWS,Other,None of the above conclusions,-1,0,s15,Cluttered,15,4
+NEWS,Other,Participant does not remember,-1,0,s16,Cluttered,16,3
+NEWS,Other,None of the above conclusions,-1,0,s16,Cluttered,16,3
+NEWS,Other,Participant does not remember,-1,0,s17,Decluttered,17,2
+NEWS,Other,None of the above conclusions,-1,0,s17,Decluttered,17,2
+NEWS,Other,Participant does not remember,-1,0,s18,Decluttered,18,6
+NEWS,Other,None of the above conclusions,-1,0,s18,Decluttered,18,6
+NEWS,Other,Participant does not remember,-1,1,s19,Cluttered,19,3
+NEWS,Other,None of the above conclusions,-1,0,s19,Cluttered,19,3
+NEWS,Other,Participant does not remember,-1,0,s21,Cluttered,21,4
+NEWS,Other,None of the above conclusions,-1,0,s21,Cluttered,21,4
+NEWS,Other,Participant does not remember,-1,0,s28,Focused,28,5
+NEWS,Other,None of the above conclusions,-1,0,s28,Focused,28,5
+NEWS,Other,Participant does not remember,-1,0,s29,Focused,29,5
+NEWS,Other,None of the above conclusions,-1,0,s29,Focused,29,5
+NEWS,Other,Participant does not remember,-1,0,s30,Focused,30,5
+NEWS,Other,None of the above conclusions,-1,0,s30,Focused,30,5
+NEWS,Other,Participant does not remember,-1,0,s31,Focused,31,5
+NEWS,Other,None of the above conclusions,-1,0,s31,Focused,31,5
+NEWS,Other,Participant does not remember,-1,0,s32,Decluttered,32,2
+NEWS,Other,None of the above conclusions,-1,0,s32,Decluttered,32,2
+NEWS,Other,Participant does not remember,-1,0,s33,Focused,33,1
+NEWS,Other,None of the above conclusions,-1,0,s33,Focused,33,1
+NEWS,Other,Participant does not remember,-1,0,s34,Decluttered,34,6
+NEWS,Other,None of the above conclusions,-1,0,s34,Decluttered,34,6
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s1,Focused,1,2
+PLANTS,Other,Participant does not remember,-1,0,s1,Focused,1,2
+PLANTS,Other,None of the above conclusions,-1,0,s1,Focused,1,2
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s2,Cluttered,2,5
+PLANTS,Other,Participant does not remember,-1,0,s2,Cluttered,2,5
+PLANTS,Other,None of the above conclusions,-1,0,s2,Cluttered,2,5
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s4,Decluttered,4,4
+PLANTS,Other,Participant does not remember,-1,0,s4,Decluttered,4,4
+PLANTS,Other,None of the above conclusions,-1,0,s4,Decluttered,4,4
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s5,Cluttered,5,5
+PLANTS,Other,Participant does not remember,-1,0,s5,Cluttered,5,5
+PLANTS,Other,None of the above conclusions,-1,0,s5,Cluttered,5,5
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s7,Focused,7,6
+PLANTS,Other,Participant does not remember,-1,0,s7,Focused,7,6
+PLANTS,Other,None of the above conclusions,-1,0,s7,Focused,7,6
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s8,Decluttered,8,4
+PLANTS,Other,Participant does not remember,-1,0,s8,Decluttered,8,4
+PLANTS,Other,None of the above conclusions,-1,0,s8,Decluttered,8,4
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s9,Cluttered,9,3
+PLANTS,Other,Participant does not remember,-1,0,s9,Cluttered,9,3
+PLANTS,Other,None of the above conclusions,-1,0,s9,Cluttered,9,3
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s10,Focused,10,2
+PLANTS,Other,Participant does not remember,-1,0,s10,Focused,10,2
+PLANTS,Other,None of the above conclusions,-1,0,s10,Focused,10,2
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s11,Focused,11,6
+PLANTS,Other,Participant does not remember,-1,0,s11,Focused,11,6
+PLANTS,Other,None of the above conclusions,-1,0,s11,Focused,11,6
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s12,Cluttered,12,3
+PLANTS,Other,Participant does not remember,-1,0,s12,Cluttered,12,3
+PLANTS,Other,None of the above conclusions,-1,0,s12,Cluttered,12,3
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s14,Decluttered,14,4
+PLANTS,Other,Participant does not remember,-1,0,s14,Decluttered,14,4
+PLANTS,Other,None of the above conclusions,-1,0,s14,Decluttered,14,4
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s15,Cluttered,15,5
+PLANTS,Other,Participant does not remember,-1,0,s15,Cluttered,15,5
+PLANTS,Other,None of the above conclusions,-1,0,s15,Cluttered,15,5
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,1,s16,Focused,16,2
+PLANTS,Other,Participant does not remember,-1,0,s16,Focused,16,2
+PLANTS,Other,None of the above conclusions,-1,0,s16,Focused,16,2
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s17,Focused,17,6
+PLANTS,Other,Participant does not remember,-1,0,s17,Focused,17,6
+PLANTS,Other,None of the above conclusions,-1,0,s17,Focused,17,6
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s18,Cluttered,18,3
+PLANTS,Other,Participant does not remember,-1,0,s18,Cluttered,18,3
+PLANTS,Other,None of the above conclusions,-1,0,s18,Cluttered,18,3
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s19,Focused,19,2
+PLANTS,Other,Participant does not remember,-1,0,s19,Focused,19,2
+PLANTS,Other,None of the above conclusions,-1,0,s19,Focused,19,2
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s21,Cluttered,21,5
+PLANTS,Other,Participant does not remember,-1,0,s21,Cluttered,21,5
+PLANTS,Other,None of the above conclusions,-1,0,s21,Cluttered,21,5
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s28,Decluttered,28,1
+PLANTS,Other,Participant does not remember,-1,0,s28,Decluttered,28,1
+PLANTS,Other,None of the above conclusions,-1,0,s28,Decluttered,28,1
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s29,Decluttered,29,1
+PLANTS,Other,Participant does not remember,-1,1,s29,Decluttered,29,1
+PLANTS,Other,None of the above conclusions,-1,0,s29,Decluttered,29,1
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s30,Decluttered,30,1
+PLANTS,Other,Participant does not remember,-1,0,s30,Decluttered,30,1
+PLANTS,Other,None of the above conclusions,-1,0,s30,Decluttered,30,1
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s31,Decluttered,31,1
+PLANTS,Other,Participant does not remember,-1,0,s31,Decluttered,31,1
+PLANTS,Other,None of the above conclusions,-1,0,s31,Decluttered,31,1
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s32,Focused,32,6
+PLANTS,Other,Participant does not remember,-1,0,s32,Focused,32,6
+PLANTS,Other,None of the above conclusions,-1,0,s32,Focused,32,6
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s33,Decluttered,33,4
+PLANTS,Other,Participant does not remember,-1,0,s33,Decluttered,33,4
+PLANTS,Other,None of the above conclusions,-1,0,s33,Decluttered,33,4
+PLANTS,Other,The conclusion inaccurately describes the grpah,-1,0,s34,Cluttered,34,3
+PLANTS,Other,Participant does not remember,-1,0,s34,Cluttered,34,3
+PLANTS,Other,None of the above conclusions,-1,0,s34,Cluttered,34,3
+PRISON,Other,Participant does not remember,-1,0,s1,Decluttered,1,5
+PRISON,Other,None of the above conclusions,-1,0,s1,Decluttered,1,5
+PRISON,Other,Participant does not remember,-1,0,s2,Focused,2,2
+PRISON,Other,None of the above conclusions,-1,0,s2,Focused,2,2
+PRISON,Other,Participant does not remember,-1,0,s4,Cluttered,4,3
+PRISON,Other,None of the above conclusions,-1,0,s4,Cluttered,4,3
+PRISON,Other,Participant does not remember,-1,0,s5,Focused,5,2
+PRISON,Other,None of the above conclusions,-1,0,s5,Focused,5,2
+PRISON,Other,Participant does not remember,-1,0,s7,Cluttered,7,1
+PRISON,Other,None of the above conclusions,-1,0,s7,Cluttered,7,1
+PRISON,Other,Participant does not remember,-1,0,s8,Cluttered,8,3
+PRISON,Other,None of the above conclusions,-1,0,s8,Cluttered,8,3
+PRISON,Other,Participant does not remember,-1,0,s9,Focused,9,4
+PRISON,Other,None of the above conclusions,-1,0,s9,Focused,9,4
+PRISON,Other,Participant does not remember,-1,0,s10,Decluttered,10,5
+PRISON,Other,None of the above conclusions,-1,0,s10,Decluttered,10,5
+PRISON,Other,Participant does not remember,-1,0,s11,Cluttered,11,1
+PRISON,Other,None of the above conclusions,-1,0,s11,Cluttered,11,1
+PRISON,Other,Participant does not remember,-1,0,s12,Focused,12,4
+PRISON,Other,None of the above conclusions,-1,0,s12,Focused,12,4
+PRISON,Other,Participant does not remember,-1,0,s14,Cluttered,14,3
+PRISON,Other,None of the above conclusions,-1,0,s14,Cluttered,14,3
+PRISON,Other,Participant does not remember,-1,0,s15,Focused,15,2
+PRISON,Other,None of the above conclusions,-1,0,s15,Focused,15,2
+PRISON,Other,Participant does not remember,-1,0,s16,Decluttered,16,5
+PRISON,Other,None of the above conclusions,-1,0,s16,Decluttered,16,5
+PRISON,Other,Participant does not remember,-1,1,s17,Cluttered,17,1
+PRISON,Other,None of the above conclusions,-1,0,s17,Cluttered,17,1
+PRISON,Other,Participant does not remember,-1,0,s18,Focused,18,4
+PRISON,Other,None of the above conclusions,-1,0,s18,Focused,18,4
+PRISON,Other,Participant does not remember,-1,0,s19,Decluttered,19,5
+PRISON,Other,None of the above conclusions,-1,0,s19,Decluttered,19,5
+PRISON,Other,Participant does not remember,-1,0,s21,Focused,21,2
+PRISON,Other,None of the above conclusions,-1,0,s21,Focused,21,2
+PRISON,Other,Participant does not remember,-1,0,s28,Decluttered,28,6
+PRISON,Other,None of the above conclusions,-1,0,s28,Decluttered,28,6
+PRISON,Other,Participant does not remember,-1,0,s29,Decluttered,29,6
+PRISON,Other,None of the above conclusions,-1,0,s29,Decluttered,29,6
+PRISON,Other,Participant does not remember,-1,0,s30,Decluttered,30,6
+PRISON,Other,None of the above conclusions,-1,0,s30,Decluttered,30,6
+PRISON,Other,Participant does not remember,-1,0,s31,Decluttered,31,6
+PRISON,Other,None of the above conclusions,-1,1,s31,Decluttered,31,6
+PRISON,Other,Participant does not remember,-1,0,s32,Cluttered,32,1
+PRISON,Other,None of the above conclusions,-1,0,s32,Cluttered,32,1
+PRISON,Other,Participant does not remember,-1,0,s33,Cluttered,33,3
+PRISON,Other,None of the above conclusions,-1,0,s33,Cluttered,33,3
+PRISON,Other,Participant does not remember,-1,0,s34,Focused,34,4
+PRISON,Other,None of the above conclusions,-1,0,s34,Focused,34,4
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s1,Cluttered,1,6
+TIRES,Other,Participant does not remember,-1,0,s1,Cluttered,1,6
+TIRES,Other,None of the above conclusions,-1,0,s1,Cluttered,1,6
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s2,Decluttered,2,1
+TIRES,Other,Participant does not remember,-1,0,s2,Decluttered,2,1
+TIRES,Other,None of the above conclusions,-1,0,s2,Decluttered,2,1
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s4,Focused,4,5
+TIRES,Other,Participant does not remember,-1,0,s4,Focused,4,5
+TIRES,Other,None of the above conclusions,-1,0,s4,Focused,4,5
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s5,Decluttered,5,1
+TIRES,Other,Participant does not remember,-1,0,s5,Decluttered,5,1
+TIRES,Other,None of the above conclusions,-1,0,s5,Decluttered,5,1
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s7,Decluttered,7,3
+TIRES,Other,Participant does not remember,-1,0,s7,Decluttered,7,3
+TIRES,Other,None of the above conclusions,-1,0,s7,Decluttered,7,3
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s8,Focused,8,5
+TIRES,Other,Participant does not remember,-1,0,s8,Focused,8,5
+TIRES,Other,None of the above conclusions,-1,0,s8,Focused,8,5
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s9,Focused,9,2
+TIRES,Other,Participant does not remember,-1,0,s9,Focused,9,2
+TIRES,Other,None of the above conclusions,-1,0,s9,Focused,9,2
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s10,Cluttered,10,6
+TIRES,Other,Participant does not remember,-1,1,s10,Cluttered,10,6
+TIRES,Other,None of the above conclusions,-1,0,s10,Cluttered,10,6
+TIRES,Other,The conclusion inaccurately describes the graph,-1,1,s11,Decluttered,11,3
+TIRES,Other,Participant does not remember,-1,0,s11,Decluttered,11,3
+TIRES,Other,None of the above conclusions,-1,0,s11,Decluttered,11,3
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s12,Focused,12,2
+TIRES,Other,Participant does not remember,-1,0,s12,Focused,12,2
+TIRES,Other,None of the above conclusions,-1,0,s12,Focused,12,2
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s14,Focused,14,5
+TIRES,Other,Participant does not remember,-1,0,s14,Focused,14,5
+TIRES,Other,None of the above conclusions,-1,0,s14,Focused,14,5
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s15,Decluttered,15,1
+TIRES,Other,Participant does not remember,-1,0,s15,Decluttered,15,1
+TIRES,Other,None of the above conclusions,-1,0,s15,Decluttered,15,1
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s16,Cluttered,16,6
+TIRES,Other,Participant does not remember,-1,0,s16,Cluttered,16,6
+TIRES,Other,None of the above conclusions,-1,0,s16,Cluttered,16,6
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s17,Decluttered,17,3
+TIRES,Other,Participant does not remember,-1,0,s17,Decluttered,17,3
+TIRES,Other,None of the above conclusions,-1,0,s17,Decluttered,17,3
+TIRES,Other,The conclusion inaccurately describes the graph,-1,1,s18,Focused,18,2
+TIRES,Other,Participant does not remember,-1,0,s18,Focused,18,2
+TIRES,Other,None of the above conclusions,-1,0,s18,Focused,18,2
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s19,Cluttered,19,6
+TIRES,Other,Participant does not remember,-1,0,s19,Cluttered,19,6
+TIRES,Other,None of the above conclusions,-1,0,s19,Cluttered,19,6
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s21,Decluttered,21,1
+TIRES,Other,Participant does not remember,-1,0,s21,Decluttered,21,1
+TIRES,Other,None of the above conclusions,-1,0,s21,Decluttered,21,1
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s28,Cluttered,28,3
+TIRES,Other,Participant does not remember,-1,0,s28,Cluttered,28,3
+TIRES,Other,None of the above conclusions,-1,0,s28,Cluttered,28,3
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s29,Cluttered,29,3
+TIRES,Other,Participant does not remember,-1,0,s29,Cluttered,29,3
+TIRES,Other,None of the above conclusions,-1,1,s29,Cluttered,29,3
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s30,Cluttered,30,3
+TIRES,Other,Participant does not remember,-1,0,s30,Cluttered,30,3
+TIRES,Other,None of the above conclusions,-1,0,s30,Cluttered,30,3
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s31,Cluttered,31,3
+TIRES,Other,Participant does not remember,-1,0,s31,Cluttered,31,3
+TIRES,Other,None of the above conclusions,-1,0,s31,Cluttered,31,3
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s32,Decluttered,32,3
+TIRES,Other,Participant does not remember,-1,0,s32,Decluttered,32,3
+TIRES,Other,None of the above conclusions,-1,0,s32,Decluttered,32,3
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s33,Focused,33,5
+TIRES,Other,Participant does not remember,-1,0,s33,Focused,33,5
+TIRES,Other,None of the above conclusions,-1,0,s33,Focused,33,5
+TIRES,Other,The conclusion inaccurately describes the graph,-1,0,s34,Focused,34,2
+TIRES,Other,Participant does not remember,-1,0,s34,Focused,34,2
+TIRES,Other,None of the above conclusions,-1,0,s34,Focused,34,2
+NEWS,Popularity,Mentions that there are popular news sources,0,1,s1,Cluttered,1,3
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s2,Cluttered,2,4
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s4,Focused,4,1
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s5,Cluttered,5,4
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s7,Decluttered,7,2
+NEWS,Popularity,Mentions that there are popular news sources,0,1,s8,Focused,8,1
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s9,Decluttered,9,6
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s10,Cluttered,10,3
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s11,Decluttered,11,2
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s12,Decluttered,12,6
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s14,Focused,14,1
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s15,Cluttered,15,4
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s16,Cluttered,16,3
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s17,Decluttered,17,2
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s18,Decluttered,18,6
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s19,Cluttered,19,3
+NEWS,Popularity,Mentions that there are popular news sources,0,1,s21,Cluttered,21,4
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s28,Focused,28,5
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s29,Focused,29,5
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s30,Focused,30,5
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s31,Focused,31,5
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s32,Decluttered,32,2
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s33,Focused,33,1
+NEWS,Popularity,Mentions that there are popular news sources,0,0,s34,Decluttered,34,6
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,1,s1,Focused,1,2
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s2,Cluttered,2,5
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s4,Decluttered,4,4
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s5,Cluttered,5,5
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s7,Focused,7,6
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s8,Decluttered,8,4
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s9,Cluttered,9,3
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s10,Focused,10,2
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s11,Focused,11,6
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s12,Cluttered,12,3
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s14,Decluttered,14,4
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s15,Cluttered,15,5
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s16,Focused,16,2
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s17,Focused,17,6
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,1,s18,Cluttered,18,3
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,1,s19,Focused,19,2
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,1,s21,Cluttered,21,5
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s28,Decluttered,28,1
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s29,Decluttered,29,1
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s30,Decluttered,30,1
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s31,Decluttered,31,1
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,0,s32,Focused,32,6
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,1,s33,Decluttered,33,4
+PLANTS,Popularity,Mentions that certain seeds are popular among customers,0,1,s34,Cluttered,34,3
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s1,Decluttered,1,4
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s2,Focused,2,3
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s4,Cluttered,4,6
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,1,s5,Focused,5,3
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s7,Cluttered,7,5
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s8,Cluttered,8,6
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s9,Decluttered,9,1
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s10,Decluttered,10,4
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s11,Cluttered,11,5
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s12,Decluttered,12,1
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s14,Cluttered,14,6
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s15,Focused,15,3
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,1,s16,Decluttered,16,4
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,1,s17,Cluttered,17,5
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s18,Decluttered,18,1
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s19,Decluttered,19,4
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s21,Focused,21,3
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s28,Focused,28,2
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s29,Focused,29,2
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s30,Focused,30,2
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s31,Focused,31,2
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s32,Cluttered,32,5
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,1,s33,Cluttered,33,6
+CAR,Power,Mentions engine power as the top / one of the top concern(s),0,0,s34,Decluttered,34,1
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,1,s1,Decluttered,1,5
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s2,Focused,2,2
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s4,Cluttered,4,3
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s5,Focused,5,2
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s7,Cluttered,7,1
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s8,Cluttered,8,3
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s9,Focused,9,4
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s10,Decluttered,10,5
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s11,Cluttered,11,1
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s12,Focused,12,4
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s14,Cluttered,14,3
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s15,Focused,15,2
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s16,Decluttered,16,5
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s17,Cluttered,17,1
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s18,Focused,18,4
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s19,Decluttered,19,5
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s21,Focused,21,2
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s28,Decluttered,28,6
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s29,Decluttered,29,6
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s30,Decluttered,30,6
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s31,Decluttered,31,6
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s32,Cluttered,32,1
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s33,Cluttered,33,3
+PRISON,Prevalence,Mentions that certain reasons for imprisonment are more prevalent than others,0,0,s34,Focused,34,4
+TIRES,Price,Mentions specific prices,0,0,s1,Cluttered,1,6
+TIRES,Price,Mentions specific prices,0,0,s2,Decluttered,2,1
+TIRES,Price,Mentions specific prices,0,0,s4,Focused,4,5
+TIRES,Price,Mentions specific prices,0,0,s5,Decluttered,5,1
+TIRES,Price,Mentions specific prices,0,0,s7,Decluttered,7,3
+TIRES,Price,Mentions specific prices,0,1,s8,Focused,8,5
+TIRES,Price,Mentions specific prices,0,0,s9,Focused,9,2
+TIRES,Price,Mentions specific prices,0,0,s10,Cluttered,10,6
+TIRES,Price,Mentions specific prices,0,0,s11,Decluttered,11,3
+TIRES,Price,Mentions specific prices,0,0,s12,Focused,12,2
+TIRES,Price,Mentions specific prices,0,0,s14,Focused,14,5
+TIRES,Price,Mentions specific prices,0,0,s15,Decluttered,15,1
+TIRES,Price,Mentions specific prices,0,0,s16,Cluttered,16,6
+TIRES,Price,Mentions specific prices,0,0,s17,Decluttered,17,3
+TIRES,Price,Mentions specific prices,0,0,s18,Focused,18,2
+TIRES,Price,Mentions specific prices,0,0,s19,Cluttered,19,6
+TIRES,Price,Mentions specific prices,0,0,s21,Decluttered,21,1
+TIRES,Price,Mentions specific prices,0,0,s28,Cluttered,28,3
+TIRES,Price,Mentions specific prices,0,0,s29,Cluttered,29,3
+TIRES,Price,Mentions specific prices,0,0,s30,Cluttered,30,3
+TIRES,Price,Mentions specific prices,0,0,s31,Cluttered,31,3
+TIRES,Price,Mentions specific prices,0,0,s32,Decluttered,32,3
+TIRES,Price,Mentions specific prices,0,1,s33,Focused,33,5
+TIRES,Price,Mentions specific prices,0,0,s34,Focused,34,2
+CAR,Problems,Mentions that there were many problems,0,0,s1,Decluttered,1,4
+CAR,Problems,Mentions that there were many problems,0,0,s2,Focused,2,3
+CAR,Problems,Mentions that there were many problems,0,0,s4,Cluttered,4,6
+CAR,Problems,Mentions that there were many problems,0,0,s5,Focused,5,3
+CAR,Problems,Mentions that there were many problems,0,0,s7,Cluttered,7,5
+CAR,Problems,Mentions that there were many problems,0,0,s8,Cluttered,8,6
+CAR,Problems,Mentions that there were many problems,0,0,s9,Decluttered,9,1
+CAR,Problems,Mentions that there were many problems,0,0,s10,Decluttered,10,4
+CAR,Problems,Mentions that there were many problems,0,1,s11,Cluttered,11,5
+CAR,Problems,Mentions that there were many problems,0,1,s12,Decluttered,12,1
+CAR,Problems,Mentions that there were many problems,0,0,s14,Cluttered,14,6
+CAR,Problems,Mentions that there were many problems,0,0,s15,Focused,15,3
+CAR,Problems,Mentions that there were many problems,0,0,s16,Decluttered,16,4
+CAR,Problems,Mentions that there were many problems,0,0,s17,Cluttered,17,5
+CAR,Problems,Mentions that there were many problems,0,0,s18,Decluttered,18,1
+CAR,Problems,Mentions that there were many problems,0,0,s19,Decluttered,19,4
+CAR,Problems,Mentions that there were many problems,0,0,s21,Focused,21,3
+CAR,Problems,Mentions that there were many problems,0,0,s28,Focused,28,2
+CAR,Problems,Mentions that there were many problems,0,0,s29,Focused,29,2
+CAR,Problems,Mentions that there were many problems,0,0,s30,Focused,30,2
+CAR,Problems,Mentions that there were many problems,0,1,s31,Focused,31,2
+CAR,Problems,Mentions that there were many problems,0,1,s32,Cluttered,32,5
+CAR,Problems,Mentions that there were many problems,0,0,s33,Cluttered,33,6
+CAR,Problems,Mentions that there were many problems,0,0,s34,Decluttered,34,1
+NEWS,Radio,Mentions a trend related to radio,0,0,s1,Cluttered,1,3
+NEWS,Radio,Mentions a trend related to radio,0,0,s2,Cluttered,2,4
+NEWS,Radio,Mentions a trend related to radio,0,0,s4,Focused,4,1
+NEWS,Radio,Mentions a trend related to radio,0,0,s5,Cluttered,5,4
+NEWS,Radio,Mentions a trend related to radio,0,0,s7,Decluttered,7,2
+NEWS,Radio,Mentions a trend related to radio,0,1,s8,Focused,8,1
+NEWS,Radio,Mentions a trend related to radio,0,0,s9,Decluttered,9,6
+NEWS,Radio,Mentions a trend related to radio,0,0,s10,Cluttered,10,3
+NEWS,Radio,Mentions a trend related to radio,0,0,s11,Decluttered,11,2
+NEWS,Radio,Mentions a trend related to radio,0,0,s12,Decluttered,12,6
+NEWS,Radio,Mentions a trend related to radio,0,0,s14,Focused,14,1
+NEWS,Radio,Mentions a trend related to radio,0,0,s15,Cluttered,15,4
+NEWS,Radio,Mentions a trend related to radio,0,0,s16,Cluttered,16,3
+NEWS,Radio,Mentions a trend related to radio,0,1,s17,Decluttered,17,2
+NEWS,Radio,Mentions a trend related to radio,0,0,s18,Decluttered,18,6
+NEWS,Radio,Mentions a trend related to radio,0,0,s19,Cluttered,19,3
+NEWS,Radio,Mentions a trend related to radio,0,0,s21,Cluttered,21,4
+NEWS,Radio,Mentions a trend related to radio,0,0,s28,Focused,28,5
+NEWS,Radio,Mentions a trend related to radio,0,0,s29,Focused,29,5
+NEWS,Radio,Mentions a trend related to radio,0,0,s30,Focused,30,5
+NEWS,Radio,Mentions a trend related to radio,0,1,s31,Focused,31,5
+NEWS,Radio,Mentions a trend related to radio,0,0,s32,Decluttered,32,2
+NEWS,Radio,Mentions a trend related to radio,0,0,s33,Focused,33,1
+NEWS,Radio,Mentions a trend related to radio,0,1,s34,Decluttered,34,6
+CAR,Range,Mentions the range / percentage of concerns,0,0,s1,Decluttered,1,4
+CAR,Range,Mentions the range / percentage of concerns,0,0,s2,Focused,2,3
+CAR,Range,Mentions the range / percentage of concerns,0,1,s4,Cluttered,4,6
+CAR,Range,Mentions the range / percentage of concerns,0,0,s5,Focused,5,3
+CAR,Range,Mentions the range / percentage of concerns,0,0,s7,Cluttered,7,5
+CAR,Range,Mentions the range / percentage of concerns,0,0,s8,Cluttered,8,6
+CAR,Range,Mentions the range / percentage of concerns,0,0,s9,Decluttered,9,1
+CAR,Range,Mentions the range / percentage of concerns,0,0,s10,Decluttered,10,4
+CAR,Range,Mentions the range / percentage of concerns,0,0,s11,Cluttered,11,5
+CAR,Range,Mentions the range / percentage of concerns,0,0,s12,Decluttered,12,1
+CAR,Range,Mentions the range / percentage of concerns,0,0,s14,Cluttered,14,6
+CAR,Range,Mentions the range / percentage of concerns,0,0,s15,Focused,15,3
+CAR,Range,Mentions the range / percentage of concerns,0,0,s16,Decluttered,16,4
+CAR,Range,Mentions the range / percentage of concerns,0,0,s17,Cluttered,17,5
+CAR,Range,Mentions the range / percentage of concerns,0,0,s18,Decluttered,18,1
+CAR,Range,Mentions the range / percentage of concerns,0,1,s19,Decluttered,19,4
+CAR,Range,Mentions the range / percentage of concerns,0,1,s21,Focused,21,3
+CAR,Range,Mentions the range / percentage of concerns,0,0,s28,Focused,28,2
+CAR,Range,Mentions the range / percentage of concerns,0,0,s29,Focused,29,2
+CAR,Range,Mentions the range / percentage of concerns,0,0,s30,Focused,30,2
+CAR,Range,Mentions the range / percentage of concerns,0,0,s31,Focused,31,2
+CAR,Range,Mentions the range / percentage of concerns,0,0,s32,Cluttered,32,5
+CAR,Range,Mentions the range / percentage of concerns,0,0,s33,Cluttered,33,6
+CAR,Range,Mentions the range / percentage of concerns,0,0,s34,Decluttered,34,1
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s1,Decluttered,1,5
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s2,Focused,2,2
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,1,s4,Cluttered,4,3
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s5,Focused,5,2
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s7,Cluttered,7,1
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s8,Cluttered,8,3
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s9,Focused,9,4
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s10,Decluttered,10,5
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s11,Cluttered,11,1
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s12,Focused,12,4
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s14,Cluttered,14,3
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s15,Focused,15,2
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s16,Decluttered,16,5
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s17,Cluttered,17,1
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s18,Focused,18,4
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s19,Decluttered,19,5
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s21,Focused,21,2
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s28,Decluttered,28,6
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s29,Decluttered,29,6
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s30,Decluttered,30,6
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s31,Decluttered,31,6
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s32,Cluttered,32,1
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s33,Cluttered,33,3
+PRISON,Range,Mentions that there are only a few reasons for imprisonment,0,0,s34,Focused,34,4
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s1,Focused,1,1
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s2,Decluttered,2,6
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s4,Decluttered,4,2
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s5,Decluttered,5,6
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s7,Focused,7,4
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s8,Decluttered,8,2
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s9,Cluttered,9,5
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s10,Focused,10,1
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s11,Focused,11,4
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s12,Cluttered,12,5
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s14,Decluttered,14,2
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s15,Decluttered,15,6
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s16,Focused,16,1
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s17,Focused,17,4
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s18,Cluttered,18,5
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s19,Focused,19,1
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s21,Decluttered,21,6
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s28,Cluttered,28,4
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s29,Cluttered,29,4
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s30,Cluttered,30,4
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s31,Cluttered,31,4
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s32,Focused,32,4
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s33,Decluttered,33,2
+HOLIDAY,September,Mentions September as the month when people begin to shop,0,0,s34,Cluttered,34,5
+CAR,Steering,Mentions steering as a concern,0,0,s1,Decluttered,1,4
+CAR,Steering,Mentions steering as a concern,0,0,s2,Focused,2,3
+CAR,Steering,Mentions steering as a concern,0,0,s4,Cluttered,4,6
+CAR,Steering,Mentions steering as a concern,0,0,s5,Focused,5,3
+CAR,Steering,Mentions steering as a concern,0,0,s7,Cluttered,7,5
+CAR,Steering,Mentions steering as a concern,0,0,s8,Cluttered,8,6
+CAR,Steering,Mentions steering as a concern,0,0,s9,Decluttered,9,1
+CAR,Steering,Mentions steering as a concern,0,0,s10,Decluttered,10,4
+CAR,Steering,Mentions steering as a concern,0,0,s11,Cluttered,11,5
+CAR,Steering,Mentions steering as a concern,0,0,s12,Decluttered,12,1
+CAR,Steering,Mentions steering as a concern,0,1,s14,Cluttered,14,6
+CAR,Steering,Mentions steering as a concern,0,0,s15,Focused,15,3
+CAR,Steering,Mentions steering as a concern,0,0,s16,Decluttered,16,4
+CAR,Steering,Mentions steering as a concern,0,0,s17,Cluttered,17,5
+CAR,Steering,Mentions steering as a concern,0,0,s18,Decluttered,18,1
+CAR,Steering,Mentions steering as a concern,0,0,s19,Decluttered,19,4
+CAR,Steering,Mentions steering as a concern,0,0,s21,Focused,21,3
+CAR,Steering,Mentions steering as a concern,0,0,s28,Focused,28,2
+CAR,Steering,Mentions steering as a concern,0,0,s29,Focused,29,2
+CAR,Steering,Mentions steering as a concern,0,0,s30,Focused,30,2
+CAR,Steering,Mentions steering as a concern,0,0,s31,Focused,31,2
+CAR,Steering,Mentions steering as a concern,0,0,s32,Cluttered,32,5
+CAR,Steering,Mentions steering as a concern,0,0,s33,Cluttered,33,6
+CAR,Steering,Mentions steering as a concern,0,0,s34,Decluttered,34,1
+NEWS,Television,Mentions that television is one of the most common news sources,0,0,s1,Cluttered,1,3
+NEWS,Television,Mentions that television is one of the most common news sources,0,0,s2,Cluttered,2,4
+NEWS,Television,Mentions that television is one of the most common news sources,0,0,s4,Focused,4,1
+NEWS,Television,Mentions that television is one of the most common news sources,0,1,s5,Cluttered,5,4
+NEWS,Television,Mentions that television is one of the most common news sources,0,1,s7,Decluttered,7,2
+NEWS,Television,Mentions that television is one of the most common news sources,0,0,s8,Focused,8,1
+NEWS,Television,Mentions that television is one of the most common news sources,0,1,s9,Decluttered,9,6
+NEWS,Television,Mentions that television is one of the most common news sources,0,0,s10,Cluttered,10,3
+NEWS,Television,Mentions that television is one of the most common news sources,0,1,s11,Decluttered,11,2
+NEWS,Television,Mentions that television is one of the most common news sources,0,1,s12,Decluttered,12,6
+NEWS,Television,Mentions that television is one of the most common news sources,0,1,s14,Focused,14,1
+NEWS,Television,Mentions that television is one of the most common news sources,0,0,s15,Cluttered,15,4
+NEWS,Television,Mentions that television is one of the most common news sources,0,1,s16,Cluttered,16,3
+NEWS,Television,Mentions that television is one of the most common news sources,0,0,s17,Decluttered,17,2
+NEWS,Television,Mentions that television is one of the most common news sources,0,0,s18,Decluttered,18,6
+NEWS,Television,Mentions that television is one of the most common news sources,0,0,s19,Cluttered,19,3
+NEWS,Television,Mentions that television is one of the most common news sources,0,1,s21,Cluttered,21,4
+NEWS,Television,Mentions that television is one of the most common news sources,0,1,s28,Focused,28,5
+NEWS,Television,Mentions that television is one of the most common news sources,0,1,s29,Focused,29,5
+NEWS,Television,Mentions that television is one of the most common news sources,0,0,s30,Focused,30,5
+NEWS,Television,Mentions that television is one of the most common news sources,0,0,s31,Focused,31,5
+NEWS,Television,Mentions that television is one of the most common news sources,0,0,s32,Decluttered,32,2
+NEWS,Television,Mentions that television is one of the most common news sources,0,1,s33,Focused,33,1
+NEWS,Television,Mentions that television is one of the most common news sources,0,0,s34,Decluttered,34,6
+NEWS,Trends,Mentions that a trend exists,0,1,s1,Cluttered,1,3
+NEWS,Trends,Mentions that a trend exists,0,1,s2,Cluttered,2,4
+NEWS,Trends,Mentions that a trend exists,0,1,s4,Focused,4,1
+NEWS,Trends,Mentions that a trend exists,0,0,s5,Cluttered,5,4
+NEWS,Trends,Mentions that a trend exists,0,0,s7,Decluttered,7,2
+NEWS,Trends,Mentions that a trend exists,0,1,s8,Focused,8,1
+NEWS,Trends,Mentions that a trend exists,0,0,s9,Decluttered,9,6
+NEWS,Trends,Mentions that a trend exists,0,0,s10,Cluttered,10,3
+NEWS,Trends,Mentions that a trend exists,0,0,s11,Decluttered,11,2
+NEWS,Trends,Mentions that a trend exists,0,1,s12,Decluttered,12,6
+NEWS,Trends,Mentions that a trend exists,0,0,s14,Focused,14,1
+NEWS,Trends,Mentions that a trend exists,0,1,s15,Cluttered,15,4
+NEWS,Trends,Mentions that a trend exists,0,0,s16,Cluttered,16,3
+NEWS,Trends,Mentions that a trend exists,0,1,s17,Decluttered,17,2
+NEWS,Trends,Mentions that a trend exists,0,1,s18,Decluttered,18,6
+NEWS,Trends,Mentions that a trend exists,0,0,s19,Cluttered,19,3
+NEWS,Trends,Mentions that a trend exists,0,0,s21,Cluttered,21,4
+NEWS,Trends,Mentions that a trend exists,0,1,s28,Focused,28,5
+NEWS,Trends,Mentions that a trend exists,0,0,s29,Focused,29,5
+NEWS,Trends,Mentions that a trend exists,0,0,s30,Focused,30,5
+NEWS,Trends,Mentions that a trend exists,0,0,s31,Focused,31,5
+NEWS,Trends,Mentions that a trend exists,0,1,s32,Decluttered,32,2
+NEWS,Trends,Mentions that a trend exists,0,0,s33,Focused,33,1
+NEWS,Trends,Mentions that a trend exists,0,1,s34,Decluttered,34,6
+PLANTS,Trends,Mentions that a trend exists,0,0,s1,Focused,1,2
+PLANTS,Trends,Mentions that a trend exists,0,0,s2,Cluttered,2,5
+PLANTS,Trends,Mentions that a trend exists,0,1,s4,Decluttered,4,4
+PLANTS,Trends,Mentions that a trend exists,0,0,s5,Cluttered,5,5
+PLANTS,Trends,Mentions that a trend exists,0,1,s7,Focused,7,6
+PLANTS,Trends,Mentions that a trend exists,0,0,s8,Decluttered,8,4
+PLANTS,Trends,Mentions that a trend exists,0,0,s9,Cluttered,9,3
+PLANTS,Trends,Mentions that a trend exists,0,0,s10,Focused,10,2
+PLANTS,Trends,Mentions that a trend exists,0,0,s11,Focused,11,6
+PLANTS,Trends,Mentions that a trend exists,0,1,s12,Cluttered,12,3
+PLANTS,Trends,Mentions that a trend exists,0,0,s14,Decluttered,14,4
+PLANTS,Trends,Mentions that a trend exists,0,0,s15,Cluttered,15,5
+PLANTS,Trends,Mentions that a trend exists,0,0,s16,Focused,16,2
+PLANTS,Trends,Mentions that a trend exists,0,0,s17,Focused,17,6
+PLANTS,Trends,Mentions that a trend exists,0,0,s18,Cluttered,18,3
+PLANTS,Trends,Mentions that a trend exists,0,0,s19,Focused,19,2
+PLANTS,Trends,Mentions that a trend exists,0,0,s21,Cluttered,21,5
+PLANTS,Trends,Mentions that a trend exists,0,0,s28,Decluttered,28,1
+PLANTS,Trends,Mentions that a trend exists,0,0,s29,Decluttered,29,1
+PLANTS,Trends,Mentions that a trend exists,0,0,s30,Decluttered,30,1
+PLANTS,Trends,Mentions that a trend exists,0,0,s31,Decluttered,31,1
+PLANTS,Trends,Mentions that a trend exists,0,0,s32,Focused,32,6
+PLANTS,Trends,Mentions that a trend exists,0,0,s33,Decluttered,33,4
+PLANTS,Trends,Mentions that a trend exists,0,0,s34,Cluttered,34,3
+TIRES,Trends,Mentions that a trend exists,0,1,s1,Cluttered,1,6
+TIRES,Trends,Mentions that a trend exists,0,0,s2,Decluttered,2,1
+TIRES,Trends,Mentions that a trend exists,0,1,s4,Focused,4,5
+TIRES,Trends,Mentions that a trend exists,0,0,s5,Decluttered,5,1
+TIRES,Trends,Mentions that a trend exists,0,1,s7,Decluttered,7,3
+TIRES,Trends,Mentions that a trend exists,0,0,s8,Focused,8,5
+TIRES,Trends,Mentions that a trend exists,0,1,s9,Focused,9,2
+TIRES,Trends,Mentions that a trend exists,0,0,s10,Cluttered,10,6
+TIRES,Trends,Mentions that a trend exists,0,0,s11,Decluttered,11,3
+TIRES,Trends,Mentions that a trend exists,0,0,s12,Focused,12,2
+TIRES,Trends,Mentions that a trend exists,0,0,s14,Focused,14,5
+TIRES,Trends,Mentions that a trend exists,0,0,s15,Decluttered,15,1
+TIRES,Trends,Mentions that a trend exists,0,1,s16,Cluttered,16,6
+TIRES,Trends,Mentions that a trend exists,0,1,s17,Decluttered,17,3
+TIRES,Trends,Mentions that a trend exists,0,0,s18,Focused,18,2
+TIRES,Trends,Mentions that a trend exists,0,0,s19,Cluttered,19,6
+TIRES,Trends,Mentions that a trend exists,0,1,s21,Decluttered,21,1
+TIRES,Trends,Mentions that a trend exists,0,1,s28,Cluttered,28,3
+TIRES,Trends,Mentions that a trend exists,0,0,s29,Cluttered,29,3
+TIRES,Trends,Mentions that a trend exists,0,1,s30,Cluttered,30,3
+TIRES,Trends,Mentions that a trend exists,0,0,s31,Cluttered,31,3
+TIRES,Trends,Mentions that a trend exists,0,1,s32,Decluttered,32,3
+TIRES,Trends,Mentions that a trend exists,0,0,s33,Focused,33,5
+TIRES,Trends,Mentions that a trend exists,0,0,s34,Focused,34,2
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s1,Decluttered,1,5
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s2,Focused,2,2
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s4,Cluttered,4,3
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s5,Focused,5,2
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s7,Cluttered,7,1
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s8,Cluttered,8,3
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s9,Focused,9,4
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s10,Decluttered,10,5
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s11,Cluttered,11,1
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s12,Focused,12,4
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s14,Cluttered,14,3
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s15,Focused,15,2
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s16,Decluttered,16,5
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s17,Cluttered,17,1
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s18,Focused,18,4
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s19,Decluttered,19,5
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s21,Focused,21,2
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s28,Decluttered,28,6
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s29,Decluttered,29,6
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s30,Decluttered,30,6
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s31,Decluttered,31,6
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s32,Cluttered,32,1
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s33,Cluttered,33,3
+PRISON,Weapons,Mentions that weapons are a common reason for imprisonment,0,0,s34,Focused,34,4
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,0,s1,Focused,1,1
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,1,s2,Decluttered,2,6
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,1,s4,Decluttered,4,2
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,0,s5,Decluttered,5,6
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,1,s7,Focused,7,4
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,0,s8,Decluttered,8,2
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,0,s9,Cluttered,9,5
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,1,s10,Focused,10,1
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,1,s11,Focused,11,4
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,0,s12,Cluttered,12,5
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,1,s14,Decluttered,14,2
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,0,s15,Decluttered,15,6
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,0,s16,Focused,16,1
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,1,s17,Focused,17,4
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,1,s18,Cluttered,18,5
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,1,s19,Focused,19,1
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,1,s21,Decluttered,21,6
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,1,s28,Cluttered,28,4
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,0,s29,Cluttered,29,4
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,0,s30,Cluttered,30,4
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,1,s31,Cluttered,31,4
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,1,s32,Focused,32,4
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,0,s33,Decluttered,33,2
+HOLIDAY,Woman,Mentions that women shop more / earlier than men,1,1,s34,Cluttered,34,5
