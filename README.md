@@ -1,6 +1,7 @@
 # Declutter Supplementary Materials
 
 Declutter and Focus: Empirically Evaluating Design Guidelines for Effective Data Communication
+
 Kiran Ajani, Elsie Lee, Cindy Xiong, Cole Nussbaumer Knaflic, William Kemper, and Steven Franconeri
 
 This file is organized into folders for the Pilot Experiment and the Experiment.
